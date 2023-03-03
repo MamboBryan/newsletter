@@ -41,8 +41,6 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +56,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/kotlinkenya.png",
       navbar: {
         title: "KotlinKenya",
         logo: {
@@ -66,7 +64,7 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          { to: "/blog", label: "Newsletter", position: "left" },
+          { to: "/newsletter", label: "Newsletter", position: "left" },
         ],
       },
       footer: {
@@ -124,12 +122,12 @@ const config = {
             items: [
               {
                 label: "DroidconKe",
-                href: "https://droidcon.co.ke/s",
+                href: "https://droidcon.co.ke/",
               },
               {
                 label: "Droid Pwani",
-                href : "https://twitter.com/DroidPwani_KE"
-              }
+                href: "https://twitter.com/DroidPwani_KE",
+              },
             ],
           },
         ],
@@ -139,7 +137,34 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "android, kotlin, kotlinkenya, android254, android-kenya, articles, newsletter",
+        },
+      ],
     }),
+  plugins: [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: "newsletter",
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: "newsletter",
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: "./newsletter",
+      },
+    ],
+  ],
 };
 
 module.exports = config;
