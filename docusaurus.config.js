@@ -75,15 +75,15 @@ const config = {
             items: [
               {
                 label: "Telegram",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://t.me/kotlinKenya",
               },
               {
                 label: "Twitter",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://twitter.com/kotlinkenya",
               },
               {
                 label: "Meetup",
-                href: "https://twitter.com/docusaurus",
+                href: "https://www.meetup.com/kotlinkenya/",
               },
             ],
           },
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: "Telegram",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://t.me/android254",
               },
               {
                 label: "Twitter",
@@ -100,7 +100,7 @@ const config = {
               },
               {
                 label: "Meetup",
-                href: "https://twitter.com/docusaurus",
+                href: "https://www.meetup.com/android254/",
               },
             ],
           },
@@ -109,11 +109,11 @@ const config = {
             items: [
               {
                 label: "KotlinKenya",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/KotlinKenya",
               },
               {
                 label: "Android254",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/android254",
               },
             ],
           },
