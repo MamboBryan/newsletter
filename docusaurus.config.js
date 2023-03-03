@@ -96,7 +96,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://twitter.com/254androiddevs",
               },
               {
                 label: "Meetup",
