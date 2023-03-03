@@ -47,4 +47,12 @@ There are tons of content around the internet for Android and Kotlin. This year,
 |[Unit testing navigation in Jetpack compose](https://www.youtube.com/watch?v=ThVzTZVKXLY&t=28s) by Breens Mbaka|
 |[How to make a cross-platform movie app by using Kotlin Multiplatform](https://www.youtube.com/watch?v=zHrXSWBH3Ms&list=PL2OhfKAEqtl8CYTlbfIAB0DGOYLynRvf8) by Patrick Dipchumba|
 
-You can also suggest any article, library, video or podcast for upcoming newsletters. Click here to submit!
+You can also suggest any article, library, video or podcast for upcoming newsletters. Click **[here](https://forms.gle/Dqr2pUHwMWzTfcSH7)** to submit!
+
+That's it folks till next time, happy coding.
+
+:::info
+
+We'd love to hear your feedback. Click **[here](https://forms.gle/K59uM3jgjDLYwvbb6)** to submit any feedback.
+
+:::
