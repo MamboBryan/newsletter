@@ -34,7 +34,7 @@ There are tons of content around the internet for Android and Kotlin. This year,
 
 |ARTICLES|
 |:-------|
-|[Dependency Injection with Hilt](https://github.com) by Victor Irungu.|
+|[Dependency Injection with Hilt](https://vickietundo.hashnode.dev/dependency-injection-with-hilt) by Victor Irungu.|
 |[In-App purchase In Jepack Compose](https://felixkariuki.hashnode.dev/in-app-purchase-in-jetpack-compose) by Felix Kariuki.|
 
 |LIBRARIES|
