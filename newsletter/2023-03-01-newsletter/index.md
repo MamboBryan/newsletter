@@ -1,6 +1,6 @@
 ---
 slug: newsletter
-title: Newsletter 9
+title: KotlinKenya & Android254 Newsletter 8
 authors: [mambo, sheliza]
 tags: [navigation, di, compose, test, kmm]
 ---
