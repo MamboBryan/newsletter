@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Jambo`}
-      description="Description will go into a meta tag in <head />">
+      description="Latest KotlinKenya and Android254 community updates">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
