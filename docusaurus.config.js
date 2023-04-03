@@ -63,9 +63,7 @@ const config = {
           alt: "Kotlin Community Logo",
           src: "img/logo.svg",
         },
-        items: [
-          { to: "/newsletter", label: "Newsletter", position: "left" },
-        ],
+        items: [{ to: "/newsletter", label: "Newsletter", position: "left" }],
       },
       footer: {
         style: "dark",
@@ -136,6 +134,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ["kotlin", "java", "scala"],
       },
       metadata: [
         {
