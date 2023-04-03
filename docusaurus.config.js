@@ -126,6 +126,10 @@ const config = {
                 label: "Droid Pwani",
                 href: "https://twitter.com/DroidPwani_KE",
               },
+              {
+                label: "Droidettes",
+                href: "https://twitter.com/droidettes",
+              },
             ],
           },
         ],
