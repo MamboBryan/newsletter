@@ -1,6 +1,6 @@
 ---
-slug: newsletter
-title: Newsletter 9
+slug: newsletter-8
+title: Newsletter 8 🔥
 authors: [mambo, sheliza]
 tags: [navigation, di, compose, test, kmm]
 ---
