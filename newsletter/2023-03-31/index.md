@@ -60,7 +60,7 @@ You can start by creating the `sayHello` & `getNonRepeated` function
 ## KotlinConf'23
 The official conference devoted to the Kotlin Programming Language is finally here. From April 12<sup>th</sup> to 14<sup>th</sup> join the [Livestream](https://www.youtube.com/watch?v=c4f4SCEYA5Q) and benefit from the array of topic to boost your Koltin skills. 
 
-We can't mention KotlinConf without celebrating our two community members who'd be attending the conference in person. [Brian Mbigo](https://github.com/BKMbigo) was one of the winners of the Kotlin Multiplatform contest with his amazing [VisioZoezi](https://github.com/BKMbigo/VisioZoezi) app and [Harun Wangereka](https://github.com/wangerekaharun) with an excellent talk _**Transforming Farmer's Lives Using Android In Kenya**_ on April 13<sup>th</sup> at 7:00 pm EAT. 
+We can't mention KotlinConf without celebrating our two community members who'd be attending the conference in person. [Brian Mbigo](https://github.com/BKMbigo) was one of the winners of the Kotlin Multiplatform contest with his amazing [VisioZoezi](https://github.com/BKMbigo/VisioZoezi) app and [Harun Wangereka](https://github.com/wangerekaharun) with an excellent talk _**Transforming Farmer's Lives Using Android In Kenya**_ on April 13<sup>th</sup> from 6:15 pm to 7:00 pm EAT. 
 
 We'll also have a **KotlinConf 2023 Global - Nairobi Edition** to learn more about what went down at KotlinConf'23 and share your opinions... don't forget to [RSVP](https://www.meetup.com/kotlinkenya/events/289891337/) and watch out for the upcoming CFS...
 
