@@ -14,7 +14,7 @@ export default function BlogPostItemWrapper(props) {
         repo="dipakparmar/docs-diary"
         repoId="R_kgDOJEbZ9w"
         category="Comments"
-        categoryId="DIC_kwDOEFKzp84CPOcp"
+        categoryId="DIC_kwDOJEbZ984CVfUh"
         mapping="pathname"
         reactionsEnabled="1"
         emitMetadata="0"
