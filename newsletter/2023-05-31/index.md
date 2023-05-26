@@ -5,25 +5,29 @@ authors: [mambo, sheliza]
 tags: [ktor, test, compose, modifiers, animations, kotlin]
 ---
 
-Hey there droids, following a week stimulated by AI conversations literally everywhere we decided to make things even more interesting by having a Google I/O recap, by now you should know it was all about AI. But were kotlin and android developers!
+Hey there Droids and Droidettes! You've heard it all, yes? AI, Bard, at this rate we might just be starring in another episode of Love, Death and Robots (Well, especially the Love bit if you know you know 😏)
 
 ## Google I/O Recap
 
-### Android Highlights
+The Google I/O Recap featured two speakers: Theophillus Kibet and Mambo Bryan, **the latter who lives in abject poverty.** They gave presentations detailing the improvements made in Android:
 
-Android 14 which is now in beta has to be a highlight for most people
-Due to its said improved privacy & security. Particularly in the Credentials manager where passkeys and passwords will be used in sign-ins'. As far as android is concerned, Jetpack Compose has major improvements as well
-- Thetextimprovementwithinclusionofemojis.
-- Theflowlayoutsimprovementsinboththerowandcolumndimentions.
-- ToolingwhichismostcrucialindevelopinghasanewupdatesinUI,Kotlinsupportandversion
-catalogNotforgettingtheStudiobotwhichisacompletelynewaddition.
-- In material compose,there is date and time pickers and sheets.
--  Likewise,inpredictive
-gestures,thereareanimations!.Imean...howcoolandusefulisthat?
+
+### Android Highlights
+Theophillus started off by highlighting the well-recieved Android 14 (Beta Version) which boasts of susbstantial improvements, the main one being enhanced Privacy and Security. This was backed up by the Crdential Manager which is set to utilise passkeys and passwords for a more security-driven sign in experience. Theo also talked about the latest updates and improvements in Jetpack Compose:
+
+- Text improvements, mainly the native inclusion of Emojis 😜
+- Flow  Layout improvements in both the Row and Column dimensions.
+- Tooling enhancements which has teased the release of several tools, the most notable one being Studio Bot (Take that ChatGPT!)
+- Introduction of Date and Time Pickers in Material Compose as well as Animations in Predictive Text.
+
+Theo concluded by outlining and illustrating the newly released features of Google Play including the Update Prompt, Data Deletion (Privacy and Security), Ad Campaigns (Marketing), Inactive Users and Translations (Insights).
+
 
 ### Kotlin Updates
+Mambo Bryan lit up Kotlin developers' hearts by announcing the new approach taken to build the latest Kotlin Compiler involving the full adoption of Kotlin as opposed to the 'J' word. He emphasized how Kotlin 2.0 is projected to reduce build and compilation times, thus reiterating Kotlin's agenda of having fun while coding. Mambo discussed the new Kotlin DSL features: Precise code hinting, optional version catalogs, more documentation and probably the most important one, the requirement of a developer to sync their project to allow for Error Handling. Mambo Bryan finalised by announcing the stripping away of Java from the Kotlin Symbol Processing (KSP) leaving only two layers.
 
 ### Others
+As if the talks weren't enough, the speakers joined by Tamre Frank, participated in a Q and A (Ask Me Anything) which was moderated by Harun Wangereka who posed them juicy questions from Slido.com to which they heartily answered. BY THE WAY, the call for speakers (monthly meetups) is still on. Interested in giving a talk? Then feel free to submit an abstract of your preferred topic here: https://forms.gle/sHUtGDLySnzvk6nd7
 
 ## Featured 
 
