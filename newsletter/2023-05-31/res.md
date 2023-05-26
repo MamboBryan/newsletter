@@ -59,7 +59,7 @@ And this last one is truly the best news. We'd like to congratulate :tada: one o
 |:-------|
 |[An In-depth overview of Android's Recyclerview - with Example](https://janetmutua.hashnode.dev/an-in-depth-overview-of-androids-recycler-view-with-example)|
 |[Animating Content Size in Compose](https://jacquigitau.hashnode.dev/animating-content-size-in-compose)|
-|[Animating Content Size in Compose](https://jacquigitau.hashnode.dev/animating-content-size-in-compose)|
+|[Firebase in Jetpack Compose (Authentication & Adding Data To Cloud Firestore)](https://medium.com/@emmanuelmuturia/firebase-in-jetpack-compose-authentication-adding-data-to-cloud-firestore-a6a8e5ebee19)|
 |[Android Development with Jetpack Compose: The Future of Android UI Development](https://normannuthu.hashnode.dev/android-development-with-jetpack-compose-the-future-of-android-ui-development)|
 |[Custom Theming in Jetpack Composenimating Content Size in Compose](https://kenstarry.hashnode.dev/custom-theming-in-jetpack-compose)|
 |[Exploring Kotlin's Abstract Classes and Specialized Class Types](https://dev.to/dbriane208/exploring-kotlins-abstract-classes-and-specialized-class-types-a-guide-to-object-oriented-programming-concepts-2hpl)|
