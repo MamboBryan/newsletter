@@ -40,3 +40,20 @@ Dennis wrapped up his session by assuring the audience that contrary to how inti
 
 ## DroidCon Kenya 2023
 Our host [Annie Kobia](https://twitter.com/AnnieKobia) reminded the meetup's attendees to RSVP for the DroidCon Kenya event that is set to run from 8th November to 10th November. She urged them not to delay as the Early Bird tickets are limited, after which any interested attendees may probably need to find a mubaba/mumama to finance their tickets. Have you RSVPd for the event? No? Are you even serious? Anyway, get your Early Bird tickets here and share with your friends cause this year we be happening: [Click Me](https://t.co/P50pBnrI92)
+
+## Call For Speakers (Monthly Meetup)
+Interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and head over [here](https://forms.gle/nM7PoQE2FHbXTzsx9) to make your aspiration a reality!
+
+## Featured 
+
+|ARTICLES|
+|:-------|
+|[Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin)|
+|[Accessibility in Android (Jetpack Compose)](https://dev.to/rocqjones/accessibility-in-android-jetpack-compose-1m6)|
+|[Let's Create A Notification Reminder App in Jetpack Compose)](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)|
+
+|REPOSITORIES|
+|:------|
+|[Project Tracking](https://github.com/janewaitara/ProjectTracking/tree/master/app)|
+
+Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](). That's it. Congratulate yourself for being a winner
