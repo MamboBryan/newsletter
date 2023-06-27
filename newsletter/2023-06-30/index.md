@@ -56,4 +56,6 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |:------|
 |[Project Tracking](https://github.com/janewaitara/ProjectTracking/tree/master/app)|
 
-Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](). That's it. Congratulate yourself for being a winner
+Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
+
+Enjoyed reading this episode of our Kotlin Newsletter? That's alright, for we will be back soon with another one so stick around, will ya? Until next time, happy coding & *HAVE A NICE KOTLIN!*
