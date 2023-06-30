@@ -39,13 +39,13 @@ Composers were in for a treat as the last session had Dennis Githuku talk about 
 Dennis wrapped up his session by assuring the audience that contrary to how intimidating Side Effects appear, they really depend on an individual developer's use case and more often than not, using Side Effects in Jetpack Compose is unnecessary.
 
 ## DroidCon Kenya 2023
-Our host [Annie Kobia](https://twitter.com/AnnieKobia) reminded the meetup's attendees to RSVP for the DroidCon Kenya event that is set to run from 8th November to 10th November. She urged them not to delay as the Early Bird tickets are limited, after which any interested attendees may probably need to find a mubabaz/mumamaz to finance their tickets. Have you RSVPd for the event? No? Are you even serious? Anyway, get your Early Bird tickets here and share with your friends cause this year we be happening: [Click Me](https://t.co/P50pBnrI92)
+We were also reminded the meetup's attendees to RSVP for the DroidCon Kenya event that is set to run from 8th November to 10th November. We were urged not to delay as the Early Bird tickets are limited, after which any interested attendees may probably need to find a sponsor to finance their tickets. Have you RSVPd for the event? No? Are you even serious? Anyway, get your Early Bird tickets here and share with your friends cause this year we be happening: [Click Me](https://t.co/P50pBnrI92)
 
 ## Call For Speakers (Monthly Meetup)
 Interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and head over [here](https://forms.gle/nM7PoQE2FHbXTzsx9) to make your aspiration a reality!
 
 ## KotlinBits
-Dear Kotlin Developer, do you want a simpler source pf documentation for your Kotlin Development needs? Are you more of a casual kinda guy (or gyal, we don't discriminate) who needs a platform of a similar calibre? Good News! Android254 and Kotlin Kenya in association with our leading Dishwasher proudly present [KotlinBits](https://kotlinbits.vercel.app). What are you still doing here? Head over there now and supercharge your Kotlin skills now!
+Dear Kotlin Developer, do you want a simpler source of documentation for your Kotlin Development needs? Are you more of a casual kinda guy (or gyal, we don't discriminate) who needs a platform of a similar calibre? Good News! Android254 and Kotlin Kenya in association with our leading Dishwasher proudly present [KotlinBits](https://kotlinbits.vercel.app). What are you still doing here? Head over there now and supercharge your Kotlin skills now!
 
 Whoa whoa whoa, before you run off:
 
@@ -56,6 +56,12 @@ Whoa whoa whoa, before you run off:
 |[Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin)|
 |[Accessibility in Android (Jetpack Compose)](https://dev.to/rocqjones/accessibility-in-android-jetpack-compose-1m6)|
 |[Let's Create A Notification Reminder App in Jetpack Compose)](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)|
+|[Harun Wangereka (Android Developers Feature)](https://twitter.com/AndroidDev/status/1673728717061865484?s=20)|
+|[Harun Wangereka (GDE Significant Contribution Award)](https://twitter.com/GDG_Nairobi/status/1671658888154820608?s=20)|
+
+|VIDEOS|
+|:-------|
+|[Full Guide to ViewPager in Jetpack Compose: Android Studio, Kotlin](https://www.youtube.com/watch?v=lMIYbPUoadM)|
 
 |REPOSITORIES|
 |:------|
