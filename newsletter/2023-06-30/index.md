@@ -1,7 +1,7 @@
 ---
 slug: newsletter-11
 title: Newsletter 11 😜
-authors: [Emmanuel Muturia]
+authors: [Emmanuel Muturia, mambo, sheliza]
 tags: [monthly meetup, droidconke2023]
 ---
 
