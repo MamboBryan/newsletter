@@ -38,6 +38,48 @@ Composers were in for a treat as the last session had Dennis Githuku talk about 
 
 Dennis wrapped up his session by assuring the audience that contrary to how intimidating Side Effects appear, they really depend on an individual developer's use case and more often than not, using Side Effects in Jetpack Compose is unnecessary.
 
+### Kotlin Challenge
+As per the usual we have this month's challenge for those who'd like to test their mettle in the Kotlin language.
+
+:::info
+ This month we're giving away two Jetbrains licenses for the first two people to solve this month's challenge
+:::
+
+```kotlin
+import junit.framework.TestCase.assertEquals
+import junit.framework.TestCase.assertTrue
+
+fun main() {
+    val attendee = Attendee(sessions = listOf("Android","Kotlin"))
+    
+    assertEquals(
+        true, // expected
+        attendee is Collection<String> // actual
+    )
+    
+    assertEquals(
+        true, // expected
+        attendee.contains("Android") // actual
+    )
+    
+    println("Everything Passed!!!")
+}
+
+/**
+ * Without changing anything above
+ * Make the two test cases pass.
+ * - you should only use class delegations
+ * - you should NOT create any function inside the Attendee class
+ */
+
+data class Attendee(val name: String = "a", val sessions: List<String>)
+
+```
+
+:::tip 
+You can start by making sure the `Attendee` class extends the `Collection` interface :wink: :wink: 
+:::
+
 ## DroidCon Kenya 2023
 We were also reminded the meetup's attendees to RSVP for the DroidCon Kenya event that is set to run from 8th November to 10th November. We were urged not to delay as the Early Bird tickets are limited, after which any interested attendees may probably need to find a sponsor to finance their tickets. Have you RSVPd for the event? No? Are you even serious? Anyway, get your Early Bird tickets here and share with your friends cause this year we be happening: [Click Me](https://t.co/P50pBnrI92)
 
@@ -51,11 +93,10 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |[Reactive Programming with Kotlin](https://otsembo.hashnode.dev/reactive-programming-with-kotlin)|
 |[Accessibility in Android (Jetpack Compose)](https://dev.to/rocqjones/accessibility-in-android-jetpack-compose-1m6)|
 |[Let's Create A Notification Reminder App in Jetpack Compose)](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)|
-|[Harun Wangereka (Android Developers Feature)](https://twitter.com/AndroidDev/status/1673728717061865484?s=20)|
-|[Harun Wangereka (GDE Significant Contribution Award)](https://twitter.com/GDG_Nairobi/status/1671658888154820608?s=20)|
 
 |VIDEOS|
 |:-------|
+|[Harun Wangereka (Android Developers Feature)](https://twitter.com/AndroidDev/status/1673728717061865484?s=20)|
 |[Full Guide to ViewPager in Jetpack Compose: Android Studio, Kotlin](https://www.youtube.com/watch?v=lMIYbPUoadM)|
 
 |REPOSITORIES|
