@@ -22,7 +22,7 @@ Kenn Jr kicked off by introducing the audience to Notifications in Android. He d
 Kenn concluded by demonstrating the impact of Notifications through a case study on Duolingo based on his personal use of the app.
 
 ### GraphQL
-The sherehe master followed by orienting the audience to GraphQL, the alleged replacement for REST APIs. Kenneth's presentation largely involved a demo on how to implement GraphQL in an Android project. He also supported his demo by advising the audience to check out GraphQL's official documentation and the Apollo Developer Hub to learn more about GraphQL. Kenneth concluded by outlining the main benefit of GraphQL i.e The ability to only get the resources you want.
+The Sherehe (Party) Master followed by orienting the audience to GraphQL, the alleged replacement for REST APIs. Kenneth's presentation largely involved a demo on how to implement GraphQL in an Android project. He also supported his demo by advising the audience to check out GraphQL's official documentation and the Apollo Developer Hub to learn more about GraphQL. Kenneth concluded by outlining the main benefit of GraphQL i.e The ability to only get the resources you want.
 
 ### Side Effects
 Composers were in for a treat as the last session had Dennis Githuku talk about Side Effects in Jetpack Compose. He started off by debunking the myth that portrays Side Effects as the toughest concept to grasp in Jetpack Compose and how most Android Devs are using them without even knowing! He went on to give a Description-Demo sort of presentation on the following Side Effects:
