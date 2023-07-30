@@ -49,7 +49,9 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |ARTICLES|
 |:-------|
 |[Getting more concise with Kotlin Generics](https://otsembo.hashnode.dev/getting-more-concise-with-kotlin-generics)|
-|[Genesis](https://medium.com/@emmanuelmuturia/experimentone-69d327534f62)|
+|[Experiment #1 (Genesis)](https://medium.com/@emmanuelmuturia/experimentone-69d327534f62)|
+|[Experiment #2 (Fire Away)](https://medium.com/@emmanuelmuturia/experiment-2-fire-away-cd7986dc9e77)|
+|[Experiment #3 (Service Denied)](https://medium.com/@emmanuelmuturia/experiment-3-69d6dba3b95d)|
 
 |VIDEOS|
 |:-------|
