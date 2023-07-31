@@ -68,6 +68,10 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |[KomposeCountryCodePicker](https://github.com/JoelKanyi/KomposeCountryCodePicker)| 
 |[BeeTablesCompose](https://github.com/Breens-Mbaka/BeeTablesCompose)|
 
+|COURSES|
+|:------|
+|[Mastering MVVM Architecture in Android Development using Kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)|
+
 Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
 
 You can also suggest any article, library, video or podcast for upcoming newsletters. Click **[here](https://forms.gle/Dqr2pUHwMWzTfcSH7)** to submit!
