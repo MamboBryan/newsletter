@@ -39,7 +39,7 @@ The first Android session was spearheaded by our dear Droidette Co-Captain and W
 The final talk in the Android segment was given by none other than the Chief Dish Washer himself, [Mambo Bryan](https://twitter.com/mambo_bryan). He gave a session that introduced the latest exciting features and developments in Kotlin, starting with the Kotlin 2.0 compiler which was said to reduce build time by half! He mentioned the Kotlin DSL for Gradle which oversaw the introduction of Kotlin as the default language for Gradle in new projects leading to precise code hinting, realtime syntax errors and which has a rich and available documentation for reference. 
 
 ## DroidCon Kenya 2023
-Alright, if you have not yet signed up for DroidCon Kenya then what are you doing? Don't you want to be part of something that catapaults your understanding of Android? Aren't you afraid that if you wait too long then the Early Bird Tickets will be gone and you will not have caught the worm? Don't worry, just [Click Me](https://t.co/P50pBnrI92) and this can be our little secret...
+Alright, if you have not yet signed up for DroidCon Kenya 2023 then what are you doing? Don't you want to be part of something that catapaults your understanding of Android? Aren't you afraid that if you wait too long then the Early Bird Tickets will be gone and you will not have caught the worm? Don't worry, just [Click Me](https://t.co/P50pBnrI92) and this can be our little secret...
 
 ## Call For Speakers (Monthly Meetup)
 Interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and head over [here](https://forms.gle/nM7PoQE2FHbXTzsx9) to make your aspiration a reality!
@@ -56,11 +56,20 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |VIDEOS|
 |:-------|
 |[Pinterest UI](https://www.youtube.com/watch?v=u6VrY7TBOL0&t=10s)|
+|[Advanced Kotlin: Advanced Functions](https://youtu.be/lEMhgHVE8l8?si=bKIXH2_UPmWFYVJR)|
 
-|Apps|
+|APPS|
 |:------|
 |[Ewave](https://play.google.com/store/apps/details?id=dev.ciox.ewaveapp)|
 
+|REPOSITORIES|
+|:------|
+|[SafePass](https://github.com/robert-nganga/SafePass)|
+|[KomposeCountryCodePicker](https://github.com/JoelKanyi/KomposeCountryCodePicker)| 
+|[BeeTablesCompose](https://github.com/Breens-Mbaka/BeeTablesCompose)|
+
 Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
+
+You can also suggest any article, library, video or podcast for upcoming newsletters. Click **[here](https://forms.gle/Dqr2pUHwMWzTfcSH7)** to submit!
 
 Enjoyed reading this episode of our Kotlin Newsletter? Worry not, for we will be back soon with another one so stick around, will ya? Until next time, happy coding & *HAVE A NICE KOTLIN!*
