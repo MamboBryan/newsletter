@@ -2,7 +2,7 @@
 slug: newsletter-13
 title: Newsletter 13 🤩
 authors: [Emmanuel Muturia, mambo, sheliza]
-tags: [september meetup, droidconke]
+tags: [september meetup, droidconke, featured]
 ---
 
 Hey there Droids and Droidettes! We know you missed us and we did too 🥺 We hope that you are excited for this episode as we have quite the comeback. From Machine Learning to Cyber Security, our speakers really outdid themselves by showing us just how versatile Android is. Wanna find out more? Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 13, The September Edition:
