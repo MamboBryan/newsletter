@@ -1,57 +1,56 @@
 ---
-slug: newsletter-12
-title: Newsletter 12 🥵
-authors: [mambo, sheliza, Emmanuel Muturia]
-tags: [july meetup, ioextendedpwani, droidconke2023]
+slug: newsletter-13
+title: Newsletter 13 🤩
+authors: [Emmanuel Muturia, mambo, sheliza]
+tags: [september meetup, droidconke]
 ---
 
-Hey there Droids and Droidettes! How are you? Hopefully you are able to read this newsletter as we hear some of our brothers and sisters are suffering Web Dev, sorry DDoS issues. Nevertheless, Episode 12 is finally here and we cannot wait to share with you the highlights of July as recorded:
+Hey there Droids and Droidettes! We know you missed us and we did too 🥺 We hope that you are excited for this episode as we have quite the comeback. From Machine Learning to Cyber Security, our speakers really outdid themselves by showing us just how versatile Android is. Wanna find out more? Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 13, The September Edition:
 
-## July Meetup
-Android254, in liaison with Kotlin Kenya, organised the July Meetup which hosted the three legends namely: [Somet Kipchilat](https://twitter.com/Sometkip), [Peter Chege](https://twitter.com/peter__me), and our esteemed Droidette [Michelle Wainaina](https://twitter.com/mishwainaina). They each gave quite the talks that covered the latest hacks (pun intended, iykyk) in developing for a modern era. Here is a rundown of their talks in order of appearance:
+## September Meetup
+Android254, in liaison with Kotlin Kenya, hosted the September Meetup which featured a new flavour of speakers: Musyoka Muasya (Mwalimu wa Maths), Oscar Karuga (Jamaa wa AI), and the Newsletter writer himself slash Android Security maverick Emmanuel Muturia®. They each gave their presentations on the following topics that demonstrated the diversity of Android App Development (AAD):
 
-### Building for The Next Billion Users
-Somet, Africa's Okayest Developer, kicked off the meetup by introducing the audience to the concept of building products for the next billion users. He provided the case study of Native Languages as an example of factors that largely contribute to the success of a product (app) in a large sacle market. Somet supported his point by mentioning Android 13 Go as a product that prioritizes users with less capable devices with respect to system resources and specs. He summarised his session by reminding the audience that their products should prioritize:
+### Work in OfflineFirst Apps - Sync  Data Sources with Work Manager
+[Musyoka Muasya](https://twitter.com/__ciox__), the best Mathematical Developer in Kenya, gave a talk on Work Manager. He started off by reiterating on the functions and importance of Work Manager in the Android App Development workflow. Musyoka described the application of Work Manager in an offline-first environment through the use of a Closed Loop Control System which consisted of:
 
-- Accessibility and Localization
-- Affordability and Usability
-- Resilience and Low Bandwidth Connections
-- Multilingual Support
+- Input
+- Controller
+- Process
+- Output
+- Feedback
 
-Somet concluded by asking the audience to think about 'Glocalization', a term denoting the merging of Global and Local markets for your products, MPESA being an example...
+Muasya supplemented his demonstration with a Test and Optimization Case that incorporated Mathematical functions. Do you think you are capable of mastering the Mathematics behind Work Manager? Well then, here is Musyoka's presentation for you to knock yourself out: [Click Me](https://www.slideshare.net/JosephMuasya2/work-in-offline-first-apps-sync-datasources-with-workmanagerpptx)
 
-### SealedX
-The next talk was given by the man himself (Peter Chege) and was about the SealedX library in Kotlin. He introduced it by mentioning the agony that comes with repeatedly writing Sealed Interfaces in your Compose project such as those used to define UI States. Peter highlighted that besides using the Kotlin Symbol Processor (KSP), the SealedX library also used two annotations to automatically generate Sealed Classes/Interfaces: @ExtensiveSealed (For code that is meant to be generated multiple times) and @ExtensiveModel (To wrap around your Data Classes). His last activity (puns for days) was showcasing a demo on the same using a custom project that consumed REST APIs... 
+### Enhancing Android Apps with Machine Learning
+Following that, Oscar Karuga took the stage and introduced the audience to Machine Learning in Android. The son of Jupyter gave an elaborate walkthrough on the use of accurate but comprehensive data sets to train a customised AI model. He concluded by showcasing his Android application that wowed the audience by accurately differentiating between various images based on the model that he had trained...
 
-### Firebase Firestore: A Coroutines Story
-The July Meetup speaker session was remarkably concluded by the legendary Droidette (Michelle Wainaina) who talked about the introduction of Coroutines in Cloud Firestore. She kicked off by recapping Coroutines and how they affect app performance in Android (Kotlin obviously, J*va people please click off) before announcing their introduction in Firebase's Cloud Firestore. She also used a demo project to not only present the use of Coroutines in Cloud Firestore but to also teach the audience why it was important to first include a Coroutine Scope before anything else. As a bonus, Michelle used a Chat App use case to demonstrate how the choice between Cloud Firestore and Realtime DB in Firebase among other products was just a matter of tradeoffs...
-
-## Google I/O Extended (Pwani Edition -> Android)
-Hayawi hayawi huwa! This segment takes us all the way to the Coast where the Google I/O Extended: Pwani Edition event was held at the Aga Khan Academy. The Android community was well represented as it starred a hot line of speakers:
-
-### Android Keynote
-The Android Keynote was given by [Annunziata Kinya](https://twitter.com/AnnieKobia), who eloquently went through the latest features and developments in Android, the most exciting one being the stable release of Android Studio: Giraffe. Annunziata also detailed the release of various Jetpack Compose libraries and features such as Compose for TV (Now in Alpha), Support for Compose by other libraries such as Glide and the Jetpack Glance library which allows you to develop highly customizable yet elegant widgets optimized for Android phones, tablets and foladable homescreens using Jetpack Compose...
-
-### Building A Data Layer That Fits Your Overall App Architecture
-The first Android session was spearheaded by our dear Droidette Co-Captain and WTM Ambassador, [Jacquiline Gitau](https://twitter.com/Jacqui_Gitau). She took the audience through the steps and factors to consider when building a data layer that was congruent with the best practices of Clean Architecture. Her recommendations included both a Local and Network Data Source that were synched to allow for a single source of truth, mapping Internal Models to External Models, and the use of Mutex which as she explained was a Kotlin-first approach to allow for synchronized sharing of resources within your application...
-
-### What's New in Kotlin for Android
-The final talk in the Android segment was given by none other than the Chief Dish Washer, [Mambo Bryan](https://twitter.com/mambo_bryan). He gave a session that introduced the latest exciting features and developments in Kotlin, starting with the Kotlin 2.0 compiler which was said to reduce build time by half! He also mentioned the Kotlin DSL for Gradle which oversaw the introduction of Kotlin as the default language for Gradle in new projects leading to precise code hinting, realtime syntax errors and which has a rich and available documentation for reference... 
+### Unlocking Passkeys in Android (feat Credentials Manager)
+Wrapping up the presentation set was [Emmanuel Muturia®](https://twitter.com/emmanuelmuturia), who gave a stellar presentation on Passkeys in Android using Credential Manager. Emmanuel began by educating the audience on Passkeys, and why they should be considered a necessary asset in modern Authentication. He then went over the high-level implementation of Passkeys in Android using the Credential Manager API as well as things to consider when doing so. To spice up his presentation, Emmanuel posed three questions to the audience and rewarded the winners so don't say we didn't warn you against missing his talks... 😌
 
 ## DroidCon Kenya 2023
-Alright, if you have not yet signed up for DroidCon Kenya 2023 then what are you doing? Don't you want to be part of something that catapaults your understanding of Android? Aren't you afraid that if you wait too long then the Early Bird Tickets will be gone and you will not have caught the worm? Don't worry, just [Click Me](https://t.co/P50pBnrI92) and this can be our little secret...
+Alright, if you have not yet signed up for DroidCon Kenya 2023 then what are you doing? Don't you want to be part of something that catapaults your understanding of Android? Aren't you afraid that if you wait too long then the discounted tickets will be gone and you will have to sell your house or something to afford the regular tickets? Don't worry, just [click me](https://t.co/P50pBnrI92) and this can be our little secret...
+
+NB: Hey, psst! Are you a little low on cash and would like to be sponsored for the DroidCon Kenya 2023 event? Then [click me](https://docs.google.com/forms/d/e/1FAIpQLSfFh58WmfNyPo_PShr6xTV7HL8_bpHInhEZdOq0c6YeyFCBDQ/viewform) to sign up for a sponsorship courtesy of Juma Allan...
+
+Oh and last but not least, be on the lookout for the announcement of tetsing our open source DRoidConKE2023 app coming soon...
 
 ## Call For Speakers (Monthly Meetup)
 Interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and head over [here](https://forms.gle/nM7PoQE2FHbXTzsx9) to make your aspiration a reality!
 
+## Dear Reader...
+If you have made it this far, then please give yourself a high five! Seriously though, we deeply appreciate your support in growing the Android community in Kenya. You guys are the reason we are tightly knit and we definitely look forward to nothing but better in everything we do...
+
 ## Featured 
 
-|ARTICLES|
-|:-------|
-|[Getting more concise with Kotlin Generics](https://otsembo.hashnode.dev/getting-more-concise-with-kotlin-generics)|
-|[Experiment #1 (Genesis)](https://medium.com/@emmanuelmuturia/experimentone-69d327534f62)|
-|[Experiment #2 (Fire Away)](https://medium.com/@emmanuelmuturia/experiment-2-fire-away-cd7986dc9e77)|
-|[Experiment #3 (Service Denied)](https://medium.com/@emmanuelmuturia/experiment-3-69d6dba3b95d)|
+|REPOSITORIES|
+|:------|
+|[BridgingTheGap](https://github.com/emmanuelmuturia/BridgingTheGap)|
+|[BioFinger](https://github.com/emmanuelmuturia/BioFinger)| 
+|[BeeTablesCompose](https://github.com/Breens-Mbaka/BeeTablesCompose)|
+
+|LIBRARIES|
+|:------|
+|[Floaty](https://github.com/Breens-Mbaka/Floaty)|
 
 |VIDEOS|
 |:-------|
@@ -62,15 +61,9 @@ Interested in becoming a speaker for the upcoming monthly meetups? For real for 
 |:------|
 |[Ewave](https://play.google.com/store/apps/details?id=dev.ciox.ewaveapp)|
 
-|REPOSITORIES|
-|:------|
-|[SafePass](https://github.com/robert-nganga/SafePass)|
-|[KomposeCountryCodePicker](https://github.com/JoelKanyi/KomposeCountryCodePicker)| 
-|[BeeTablesCompose](https://github.com/Breens-Mbaka/BeeTablesCompose)|
-
 |COURSES|
 |:------|
-|[Mastering MVVM Architecture in Android Development using Kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)|
+|[Building a Todo app using Firebase Cloud Firestore](https://www.youtube.com/playlist?list=PLA7YMGupLhlGdLMlZQUuplhUfnTQUWxTc)|
 
 Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
 
