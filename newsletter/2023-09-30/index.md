@@ -52,15 +52,6 @@ If you have made it this far, then please give yourself a high five! Seriously t
 |:------|
 |[Floaty](https://github.com/Breens-Mbaka/Floaty)|
 
-|VIDEOS|
-|:-------|
-|[Pinterest UI](https://www.youtube.com/watch?v=u6VrY7TBOL0&t=10s)|
-|[Advanced Kotlin: Advanced Functions](https://youtu.be/lEMhgHVE8l8?si=bKIXH2_UPmWFYVJR)|
-
-|APPS|
-|:------|
-|[Ewave](https://play.google.com/store/apps/details?id=dev.ciox.ewaveapp)|
-
 |COURSES|
 |:------|
 |[Building a Todo app using Firebase Cloud Firestore](https://www.youtube.com/playlist?list=PLA7YMGupLhlGdLMlZQUuplhUfnTQUWxTc)|
