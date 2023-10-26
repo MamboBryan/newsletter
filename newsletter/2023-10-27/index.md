@@ -5,7 +5,7 @@ authors: [Emmanuel Muturia, mambo, sheliza]
 tags: [october meetup, droidconke, featured]
 ---
 
-Hey there Droids and Droidettes! How are you? As DroidCon Kenya 2023 approaches, we are proud to announce the launch of the last Newsletter of 2023! Yes, this is the last installment of the year and how best to do it than to have our fan favorite speakers leading the sessions? 🥺 Wanna find out more? 😮 Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 14, The October Edition:
+Hi Droids and Droidettes! How are you? As DroidCon Kenya 2023 approaches, we are proud to announce the launch of the last Newsletter of 2023! Yes, this is the last installment of the year and how best to do it than to have our fan favorite speakers leading the sessions? 🥺 Wanna find out more? 😮 Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 14, The October Edition:
 
 ## October Meetup
 Android254, in liaison with Kotlin Kenya, hosted the October Meetup which was spearheaded by some of the community's fan favourite speakers: Jacquiline Gitau, Abdulfatah Mohammed, and Jane Waitara. They each gave their presentations on the following topics that demonstrated the diversity of Android App Development (AAD):
