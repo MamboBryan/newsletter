@@ -18,7 +18,7 @@ Android254, in liaison with Kotlin Kenya, hosted the October Meetup which was sp
 - Actions
 - Matchers
 
-Jacquiline concluded her session by showcasing a demo which also consisted of the libraries used in testing Compose elements. Here's the link to her presentation which also hosts valuable resources on the same: 
+Jacquiline concluded her session by showcasing a demo which also consisted of the libraries used in testing Compose elements...
 
 ### Why I Have Come To Love Feature Modularization
 Following that, we had [The Modularizer](https://twitter.com/fatahrez) taking over and explaining the motivations behind Modularization. They were but not limited to:
@@ -28,7 +28,7 @@ Following that, we had [The Modularizer](https://twitter.com/fatahrez) taking ov
 - Difficulty in connecting knowledge
 - Adherance to good architectural practices
 
-He supported his argument by mentioning how Modularization results in freedom to work on more features, increased productivity, easier onboarding, and opportunities for experimentation. He utilised his personal project to demonstrate the magic behind Modularization by Feature. Abdulfatah concluded by insisting that for a Modularization driven approach, it was best to always prioritise the UI over Architecture when structuring the Android app.
+He supported his argument by mentioning how Modularization results in freedom to work on more features, increased productivity, easier onboarding, and opportunities for experimentation. He utilised his personal project to demonstrate the magic behind Modularization by Feature. Abdulfatah concluded by insisting that for a Modularization driven approach, it was best to always prioritise the UI over Architecture when structuring the Android app...
 
 ### Composing With Accessibility in Mind
 To mark the day complete, we had [Mumbi Codes](https://twitter.com/mumbicodes) enlightening the attendees regarding the prioritisation of Accessibility when working on UI/UX. She began by acknowledging WHO's statistics which stated that between 15% to 20% of the world's population is categorised as people living with disabilities. She also cited some types of diabetes to give context on their need for specialised adjustments as far as Accessibility in Android was concerned. She listed the following as solutions to improving Accessibility in Android apps through Jetpack Compose:
@@ -41,7 +41,7 @@ To mark the day complete, we had [Mumbi Codes](https://twitter.com/mumbicodes) e
 - Toggleable Selections
 - Text
 
-Jane used a practical approach to teach the above concepts by use of a Jetpack Compose project.
+Jane used a practical approach to teach the above concepts by use of a Jetpack Compose project...
 
 ### DroidCon Kenya
 Here's a rundown of everything you need to know about DroidCon Kenya:
