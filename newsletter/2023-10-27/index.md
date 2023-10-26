@@ -1,23 +1,47 @@
 ---
 slug: newsletter-14
-title: Newsletter 14 🤩
+title: Newsletter 14 😌
 authors: [Emmanuel Muturia, mambo, sheliza]
 tags: [october meetup, droidconke, featured]
 ---
 
-Hey there Droids and Droidettes! We know you missed us and we did too 🥺 As DroidCon Kenya 2023 approaches, we are proud to announce the launch of the last Newsletter of 2023! Yes, this is the last installment of the year and how best to do it than to have our fan favorite speakers leading the sessions? Wanna find out more? Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 14, The October Edition:
+Hey there Droids and Droidettes! How are you? As DroidCon Kenya 2023 approaches, we are proud to announce the launch of the last Newsletter of 2023! Yes, this is the last installment of the year and how best to do it than to have our fan favorite speakers leading the sessions? 🥺 Wanna find out more? 😮 Grab a popcorn, take a coffee like the Techie you are, and brace yourself for this is Newsletter 14, The October Edition:
 
 ## October Meetup
-Android254, in liaison with Kotlin Kenya, hosted the October Meetup which featured a new flavour of speakers: Jacquiline Gitau, Abdulfatah Mohammed, and Jane Waitara. They each gave their presentations on the following topics that demonstrated the diversity of Android App Development (AAD):
+Android254, in liaison with Kotlin Kenya, hosted the October Meetup which was spearheaded by some of the community's fan favourite speakers: Jacquiline Gitau, Abdulfatah Mohammed, and Jane Waitara. They each gave their presentations on the following topics that demonstrated the diversity of Android App Development (AAD):
 
 ### The Art of Testing Composable Layouts
+[The Droidette](https://twitter.com/Jacqui_Gitau) kicked off by introducing the audience to the different kinds of Testing, namely: Unit Tesing, Integration Testing, and UI Testing. She added onto that by going over Semantics in Compose and how they aid in testing Compose elements. She supplemented that by discussing API Tetsing, which incorporated:
 
+- Finders
+- Assertions
+- Actions
+- Matchers
+
+Jacquiline concluded her session by showcasing a demo which also consisted of the libraries used in testing Compose elements. Here's the link to her presentation which also hosts valuable resources on the same: 
 
 ### Why I Have Come To Love Feature Modularization
+Following that, we had [The Modularizer](https://twitter.com/fatahrez) taking over and explaining the motivations behind Modularization. They were but not limited to:
 
+- Presence of many moving parts in most fetaure packed Android apps
+- Rapid replacement of libraries...
+- Difficulty in connecting knowledge
+- Adherance to good architectural practices
+
+He supported his argument by mentioning how Modularization results in freedom to work on more features, increased productivity, easier onboarding, and opportunities for experimentation. He utilised his personal project to demonstrate the magic behind Modularization by Feature. Abdulfatah concluded by insisting that for a Modularization driven approach, it was best to always prioritise the UI over Architecture when structuring the Android app.
 
 ### Composing With Accessibility in Mind
+To mark the day complete, we had [Mumbi Codes](https://twitter.com/mumbicodes) enlightening the attendees regarding the prioritisation of Accessibility when working on UI/UX. She began by acknowledging WHO's statistics which stated that between 15% to 20% of the world's population is categorised as people living with disabilities. She also cited some types of diabetes to give context on their need for specialised adjustments as far as Accessibility in Android was concerned. She listed the following as solutions to improving Accessibility in Android apps through Jetpack Compose:
 
+- Visual Elements
+- Headings
+- Semantics
+- Click Labels
+- Touch Target Size
+- Toggleable Selections
+- Text
+
+Jane used a practical approach to teach the above concepts by use of a Jetpack Compose project.
 
 ### DroidCon Kenya
 Here's a rundown of everything you need to know about DroidCon Kenya:
@@ -56,4 +80,4 @@ Got any other resources that you want to have featured? That's alright, cause al
 
 You can also suggest any article, library, video or podcast for upcoming newsletters. Click **[here](https://forms.gle/Dqr2pUHwMWzTfcSH7)** to submit!
 
-Enjoyed reading this episode of our Kotlin Newsletter? Worry not, for we will be back soon with another one so stick around, will ya? Until next time, happy coding & *HAVE A NICE KOTLIN!*
+Enjoyed reading this episode of our Kotlin Newsletter? Worry not, for we will be back soon with another one so stick around, will ya? Until next time (or next year, perhaps), happy coding & *HAVE A NICE KOTLIN!*
