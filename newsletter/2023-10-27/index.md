@@ -49,7 +49,7 @@ Here's a rundown of everything you need to know about DroidCon Kenya:
 Alright, if you have not yet signed up for DroidCon Kenya 2023 then what are you doing? Don't you want to be part of something that catapaults your understanding of Android? Aren't you afraid that if you wait too long then the discounted tickets will be gone and you will have to sell your house or something to afford the regular tickets? Don't worry, just [click me](https://t.co/P50pBnrI92) and this can be our little secret...
 
 ## DroidCon Kenya X Spaces
-Over the last few weeks, DroidCon Kenya has been hosting its weekly X Spaces hosted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia). Want to catch up with our latest conversations? The just [click me](https://x.com/droidconke) to get access to more than a handful of quality banter...
+Over the last few weeks, DroidCon Kenya has been hosting its weekly X Spaces hosted by Jacqui and [Emmanuel Muturia™](https://twitter.com/emmanuelmuturia). Want to catch up with our latest conversations? The just [click me](https://twitter.com/droidconke) to get access to more than a handful of quality banter...
 
 ## The DroidCon Kenya Android App (Kotlin) 
 Are you an Android (Kotlin) developer looking to flex your Open Source Contribution muscles? Want to show off your Problem Solving skills by contributing to the community? Worry not for the DroidCon Kenya team has released the latest issues for the DroidConKE2023 Android app for you to pick up and solve. In fact, [click me](https://github.com/droidconKE/droidconKeKotlin) to head over to the GitHub repository and squash those bugs like the wizard you are...
@@ -62,19 +62,9 @@ If you have made it this far, then please give yourself a high five! Seriously t
 
 ## Featured 
 
-|REPOSITORIES|
+|TUTORIAL|
 |:------|
-|[BridgingTheGap](https://github.com/emmanuelmuturia/BridgingTheGap)|
-|[BioFinger](https://github.com/emmanuelmuturia/BioFinger)| 
-|[BeeTablesCompose](https://github.com/Breens-Mbaka/BeeTablesCompose)|
-
-|LIBRARIES|
-|:------|
-|[Floaty](https://github.com/Breens-Mbaka/Floaty)|
-
-|COURSES|
-|:------|
-|[Building a Todo app using Firebase Cloud Firestore](https://www.youtube.com/playlist?list=PLA7YMGupLhlGdLMlZQUuplhUfnTQUWxTc)|
+|[Detect Screenshots in Android 14](https://www.youtube.com/watch?v=TCygnOOd_j0)|
 
 Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
 
