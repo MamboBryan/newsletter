@@ -66,7 +66,7 @@ If you have made it this far, then please give yourself a high five! Seriously t
 |:------|
 |[Detect Screenshots in Android 14](https://www.youtube.com/watch?v=TCygnOOd_j0)|
 
-Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9). That's it. Congratulate yourself for being a winner!
+Got any other resources that you want to have featured? That's alright, cause all you have to do is [click me](https://forms.gle/nM7PoQE2FHbXTzsx9) and that's it. Congratulate yourself for being a winner!
 
 You can also suggest any article, library, video or podcast for upcoming newsletters. Click **[here](https://forms.gle/Dqr2pUHwMWzTfcSH7)** to submit!
 
