@@ -1,11 +1,11 @@
 ---
 slug: newsletter-14
-title: Newsletter 14 😌
+title: Newsletter #14 😌
 authors: [Emmanuel Muturia, mambo, sheliza]
 tags: [october meetup, droidconke, featured]
 ---
 
-Hi Droids and Droidettes! How are you? As the DroidCon Kenya 2023 event approaches, we are proud to announce the launch of the last Newsletter of the year! Yes, you heard us correctly. This is the final installment of the Kotlin Kenya Monthly Newsletters for the 2023 season and how best to do it than to have our fan favorite speakers lead the sessions? 🥺 Wanna find out more? 😮 Then grab a popcorn, take a mug or more of coffee like the Techie you are, and brace yourself for this is Newsletter 14, The October Edition:
+Hi Droids and Droidettes! How are you? As the DroidCon Kenya 2023 event approaches, we are proud to announce the launch of the last Newsletter of the year! Yes, you heard us correctly. This is the final installment of the Kotlin Kenya Monthly Newsletters for the 2023 season and how best to do it than to have our fan favorite speakers lead the sessions? 🥺 Wanna find out more? 😮 Then grab a popcorn, take a mug or more of coffee like the Techie you are, and brace yourself for this is Newsletter #14, The October Edition:
 
 ## The October Meetup
 Android254, in liaison with Kotlin Kenya, hosted the October Meetup which was spearheaded by Jacquiline Gitau, Abdulfatah Mohammed, and Jane Waitara. They each gave their presentations on the following topics that demonstrated the diversity of Android App Development (AAD):
