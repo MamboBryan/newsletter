@@ -2,7 +2,7 @@
 slug: newsletter-15
 title: Newsletter 15 (The Initialization of 2️⃣0️⃣2️⃣4️⃣)
 authors: [Emmanuel Muturia]
-tags: []
+tags: [android254, kotlinkenya, kotlinconf2024]
 ---
 
 ## Hi (The Reunion)
@@ -26,10 +26,12 @@ Finally, we got the best responses from our attendees concerning the topics that
 ## The Code Review
 Are you a novice who would want to be put to the flame of code reviewing? Would you like to have a Senior Engineer assess the quality of your work? Android254 and Kotlin Kenya are pleased to announce that we are now having Code Reviews as part of our community activities. January's meetup saw [The Teaman](https://twitter.com/chepsi_) conduct a Code Review Session using [this GitHub repository](). The audience learnt best practices, mistakes to avoid, as well as hacks pertaining take-home assignments.
 
-## KotlinConf' (The 2024 Edition)
-If you thought that we are your average Tech community then you are as wrong as J*va enthusiasts 🚮. In preparation for [KotlinConf' 2024](https://kotlinconf.com/), we are proud to announce that we have [Sam Aricha](https://twitter.com/aricha_samson) as one of the winners for The KotlinConf' Contest 🥳. 
+## The KotlinConf' 2024 Contest
+If you thought that we are your average Tech community then you are as wrong as J*va enthusiasts 🚮. In preparation for [KotlinConf' 2024](https://kotlinconf.com/), we are proud to announce that we have [Samson Aricha](https://twitter.com/aricha_samson) as one of the winners for The KotlinConf' Contest 🥳. Check out [his product](https://github.com/samAricha/Organiks1_KMP_Server) and learn from the best, will ya?
 
-## Call For Speakers (Monthly Meetup)
+Whoa whoa whoa there! Did you seriously think that we had only one winner? Once again KotlinConf' announced [Asira Etemesi](https://github.com/etemesi254) as another champion for The KotlinConf' 2024 Contest. Head over to [his product](https://github.com/etemesi254/Pixly) to learn more.
+
+## The Call For Speakers (Monthly Meetup)
 Interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and [click me](https://docs.google.com/forms/d/e/1FAIpQLSeGg2TFD2mBeH8AAKpWSBgYgBLLNNrZTo1BmNB5JGPHY7OTew/viewform) to make your aspiration a reality!
 
 ## Dear Reader
