@@ -1,6 +1,6 @@
 ---
 slug: newsletter-15
-title: Newsletter 15 (This is 2️⃣0️⃣2️⃣4️⃣)
+title: Newsletter 15 2️⃣0️⃣2️⃣4️⃣
 authors: [Emmanuel Muturia]
 tags: [android254, kotlinkenya, kotlinconf2024]
 ---
@@ -11,7 +11,7 @@ Hey there Droids and Droidettes and a Happy New Year 🤯. How have you all been
 
 ## The Kotlin Challenge
 ![Alt text](../assets/The%20Kotlin%20Challenge.webp)
-Hey psst! Are you a Kotlin junie who would like to flex their Kotlin muscles? You are? In that case, please thank your colleagues led by [The Chief Senior Dishwasher](https://twitter.com/mambo_bryan) who brought back [The Kotlin Challenge](https://kotlinbits.vercel.app/quiz/january_2024). The Kotlin Challenge is an opportunity for you to not only showcase your Kotlin prowess, but also claim your very own Jetbrains Lincense. What else, apart from a German Machine could be more rewarding for your skills? 😏
+Hey psst! Are you a Kotlin junkie who would like to flex their Kotlin muscles? You are? In that case, please thank your colleagues led by [The Chief Senior Dishwasher](https://twitter.com/mambo_bryan) who brought back [The Kotlin Challenge](https://kotlinbits.vercel.app/quiz/january_2024). The Kotlin Challenge is an opportunity for you to not only showcase your Kotlin prowess, but also claim your very own Jetbrains Lincense. What else, apart from a German Machine could be more rewarding for your skills? 😏
 
 ## The Expectations, Feedback, and Topics
 ![Alt text](../assets/The%20Expectations,%20Feedback,%20and%20Topics.webp)
