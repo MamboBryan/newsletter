@@ -6,12 +6,15 @@ tags: [android254, kotlinkenya, kotlinconf2024]
 ---
 
 ## Hi (The Reunion)
+![Alt text](<The Community.webp>)
 Hey there Droids and Droidettes and a Happy New Year 🤯. How have you all been? Now that you are back so are we! Without any further ado, here is what's been happening in Android254 and Kotlin Kenya. This is Newsletter #15:
 
 ## The Kotlin Challenge
+![Alt text](<The Kotlin Challenge.webp>)
 Hey psst! Are you a Kotlin junie who would like to flex their Kotlin muscles? You are? In that case, please thank your colleagues led by [The Chief Senior Dishwasher](https://twitter.com/mambo_bryan) who brought back [The Kotlin Challenge](https://kotlinbits.vercel.app/quiz/january_2024). The Kotlin Challenge is an opportunity for you to not only showcase your Kotlin prowess, but also claim your very own Jetbrains Lincense. What else, apart from a German Machine could be more rewarding for your skills? 😏
 
 ## The Expectations, Feedback, and Topics
+![Alt text](<The Expectations, Feedback, and Topics.webp>)
 With a new year comes a new way of doing things. As we are not a Banana Republic, we always seek to involve our community members in our development plans (pun intended 🤡). During the January Meetup, we had a lengthy and engaging discussion based on the following pillars:
 
 ### 1. Expectations
@@ -24,7 +27,8 @@ We also gathered valuable feedback from our existing people and do you guys have
 Finally, we got the best responses from our attendees concerning the topics that are in high demand. In case you wanted to see more of Kotlin MultiPlatform (KMP), Career Stuff, Android Automotive, etc then just attend our next meetups. That's it.
 
 ## The Code Review
-Are you a novice who would want to be put to the flame of code reviewing? Would you like to have a Senior Engineer assess the quality of your work? Android254 and Kotlin Kenya are pleased to announce that we are now having Code Reviews as part of our community activities. January's meetup saw [The Teaman](https://twitter.com/chepsi_) conduct a Code Review Session using [this GitHub repository](). The audience learnt best practices, mistakes to avoid, as well as hacks pertaining take-home assignments.
+![Alt text](<The Code Review.webp>)
+Are you a novice who would want to be put to the flame of code reviewing? Would you like to have a Senior Engineer assess the quality of your work? Android254 and Kotlin Kenya are pleased to announce that we are now having Code Reviews as part of our community activities. January's meetup saw [The Teaman](https://twitter.com/chepsi_) conduct a Code Review Session using [this GitHub repository](https://github.com/lynnemunini/book-shelf). The audience learnt best practices, mistakes to avoid, as well as hacks pertaining take-home assignments.
 
 ## The KotlinConf' 2024 Contest
 If you thought that we are your average Tech community then you are as wrong as J*va enthusiasts 🚮. In preparation for [KotlinConf' 2024](https://kotlinconf.com/), we are proud to announce that we have [Samson Aricha](https://twitter.com/aricha_samson) as one of the winners for The KotlinConf' Contest 🥳. Check out [his product](https://github.com/samAricha/Organiks1_KMP_Server) and learn from the best, will ya?
