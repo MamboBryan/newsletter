@@ -1,6 +1,6 @@
 ---
 slug: newsletter-14
-title: Newsletter #14 😌
+title: Newsletter 14 😌
 authors: [Emmanuel Muturia, mambo, sheliza]
 tags: [october meetup, droidconke, featured]
 ---
