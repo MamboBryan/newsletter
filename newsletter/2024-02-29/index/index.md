@@ -6,15 +6,15 @@ tags: [android254, kotlinkenya, kotlinconf2024]
 ---
 
 ## Welcome!
-![Alt text](../assets/The%20Android254%20&%20Kotlin%20Kenya%20Community.png)
+![Alt text](../assets/The%20Android254%20&%20Kotlin%20Kenya%20Community.webp)
 Hi, Droids and Droidettes! Welcome back to yet another issue of The Kotlin Kenya Newsletter . How have you all been? We hope that you had an awesome February and that you experienced the love that you deserved this month 😏. Whether you did or not, let us demonstrate our love for you by releasing this month's issue of our Newsletter. This is Newsletter 1️⃣6️⃣:
 
 ## The Kotlin Monthly Challenge
-![Alt text](../assets/The%20Kotlin%20Monthly%20Challenge.png)
+![Alt text](../assets/The%20Kotlin%20Monthly%20Challenge.webp)
 During this month's meetup, our audience got to stretch their thinking by participating in [The Challenge #2](https://kotlinbits.vercel.app/quiz/2024/February) and flexing their Kotlin and DSA prowess. This epsisode focused on both Kotlin-specific and Algortithmic approaches to solving The Challenge and by attempting it yourself, you could see how well your code would have performed at the time. Share with us your solutions as what better way to market your skills than through flexing them at any given point in time? 🤷‍♂️
 
 ## The Code Review
-![Alt text](../assets/The%20Code%20Review.png)
+![Alt text](../assets/The%20Code%20Review.webp)
 Do you still feel like you could write better code? Does your GitHub repository still look like that of a Bedroom Developer? Worry not for we have permanently adopted The Code Review as part of our meetup curriculum. For a second time, we were joined by [The Teaman](https://twitter.com/chepsi_) who went over the following pointers (pun intended if you happen to know C++) based on [this GitHub repository](https://github.com/lynnemunini/book-shelf):
 
 ### 1. Commenting vs Documentation
@@ -32,7 +32,7 @@ The session and meetup in general was concluded by the attendees being asked to 
 Hey, pssst! Are you interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and [click me](https://docs.google.com/forms/d/e/1FAIpQLSeGg2TFD2mBeH8AAKpWSBgYgBLLNNrZTo1BmNB5JGPHY7OTew/viewform) to make your aspiration a reality!
 
 
-![Alt text](../assets/Hey.png)
+![Alt text](../assets/Hey.webp)
 
 ## Until March
 It is at this point that we acknowledge our new beginnings and pledge to have a transformative 2024. We have journeyed, will still journey with you and gears are about to be shifted (tech bros please calm down) in your favour. If you would like to level up your career in Android, then attending our monthly meetups, building in public, and interacting with our members should be part of your routine. We cannot wait to hear and share your stories. See you on March 👋...
