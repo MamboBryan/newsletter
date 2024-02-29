@@ -1,27 +1,27 @@
 ---
 slug: newsletter-16
-title: "Newsletter 16: The Short and Sweet"
+title: "Newsletter #16"
 authors: [Emmanuel Muturia]
 tags: [android254, kotlinkenya, kotlinconf2024]
 ---
 
-## Welcome
-![Alt text](../assets/The%20Android254%20&%20Kotlin%20Kenya%20Community.webp)
-Hi Droids and Droidettes and welcome back to yet another issue of The Kotlin Kenya Newsletter. How have you all been? We hope that you had an awesome February and that you experienced the love that you deserved this month 😏. Whether you did or not, let us demonstrate our love for you by releasing this month's issue of our Newsletter. This is Newsletter #16:
+## Welcome!
+![Alt text](../assets/The%20Android254%20&%20Kotlin%20Kenya%20Community.png)
+Hi, Droids and Droidettes! Welcome back to yet another issue of The Kotlin Kenya Newsletter . How have you all been? We hope that you had an awesome February and that you experienced the love that you deserved this month 😏. Whether you did or not, let us demonstrate our love for you by releasing this month's issue of our Newsletter. This is Newsletter 1️⃣6️⃣:
 
 ## The Kotlin Monthly Challenge
-![Alt text](../assets/The%20Kotlin%20Monthly%20Challenge.webp)
-Hey psst! Are you a Kotlin junkie who would like to flex their Kotlin and DSA muscles? You are? In that case, please thank your colleagues led by [The Chief Senior Dishwasher](https://twitter.com/mambo_bryan) who brought back [The Kotlin Challenge](https://kotlinbits.vercel.app/quiz/january_2024). During this month's meetup, our audience got to stretch their thinking by participating in [The Challenge #2](https://kotlinbits.vercel.app/quiz/2024/February) and flexing their Kotlin and DSA prowess. This epsisode focused on both Kotlin-specific and Algortithmic approaches to solving The Challenge and thus this could be your chance to see how well your code would have performed at the time. Share with us your solutions as what better way to market your skills than through flexing them at any given point in time?
+![Alt text](../assets/The%20Kotlin%20Monthly%20Challenge.png)
+During this month's meetup, our audience got to stretch their thinking by participating in [The Challenge #2](https://kotlinbits.vercel.app/quiz/2024/February) and flexing their Kotlin and DSA prowess. This epsisode focused on both Kotlin-specific and Algortithmic approaches to solving The Challenge and by attempting it yourself, you could see how well your code would have performed at the time. Share with us your solutions as what better way to market your skills than through flexing them at any given point in time? 🤷‍♂️
 
 ## The Code Review
-![Alt text](../assets/The%20Code%20Review.webp)
+![Alt text](../assets/The%20Code%20Review.png)
 Do you still feel like you could write better code? Does your GitHub repository still look like that of a Bedroom Developer? Worry not for we have permanently adopted The Code Review as part of our meetup curriculum. For a second time, we were joined by [The Teaman](https://twitter.com/chepsi_) who went over the following pointers (pun intended if you happen to know C++) based on [this GitHub repository](https://github.com/lynnemunini/book-shelf):
 
 ### 1. Commenting vs Documentation
 Senior Chepsi mentioned that while opinions may differ regarding this, documentation is important in a team-centered codebase. He stressed that documentation allows for readability of the codebase regardless of the seniority of the reader.
 
 ### 2. Write Out Why You Chose It
-In addtion, he also emphasised that another feature of a well-documented codebase or GitHub repository was the inclusion of the "why", that is documenting why you chose a certain library for example. The attendees were meant to understand that why they chose their tools mattered more than just utilising them.
+In addtion, he emphasised that another feature of a well-documented codebase or GitHub repository was the inclusion of the "why", that is documenting why you chose a certain library for example. The attendees were meant to understand that why they chose their tools mattered more than just utilising them.
 
 ### 3. Network Calls
 Through a lengthy but fruitful discussion, Chepsi engaged the crowd by asking them which technologies they used for making network calls in their projects. The most outstanding takeaway was that majority of the community members preferred [Ktor](https://ktor.io/) as it supported their mission of adopting a Kotlin-first approach to building their projects.
@@ -32,9 +32,9 @@ The session and meetup in general was concluded by the attendees being asked to 
 Hey, pssst! Are you interested in becoming a speaker for the upcoming monthly meetups? For real for real? Then stop what you are doing and [click me](https://docs.google.com/forms/d/e/1FAIpQLSeGg2TFD2mBeH8AAKpWSBgYgBLLNNrZTo1BmNB5JGPHY7OTew/viewform) to make your aspiration a reality!
 
 
-![Alt text](../assets/Hey.webp)
+![Alt text](../assets/Hey.png)
 
-## Dear Reader
+## Until March
 It is at this point that we acknowledge our new beginnings and pledge to have a transformative 2024. We have journeyed, will still journey with you and gears are about to be shifted (tech bros please calm down) in your favour. If you would like to level up your career in Android, then attending our monthly meetups, building in public, and interacting with our members should be part of your routine. We cannot wait to hear and share your stories. See you on March 👋...
 
 <center>
