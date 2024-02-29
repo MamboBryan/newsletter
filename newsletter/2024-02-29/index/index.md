@@ -35,7 +35,7 @@ Hey, pssst! Are you interested in becoming a speaker for the upcoming monthly me
 ![Alt text](../assets/Hey.webp)
 
 ## Featured
-|REPOSITORIES|
+|GitHub Repository of The Month|
 |:------|
 |[Carizma](https://github.com/emmanuelmuturia/Carizma)|
 
