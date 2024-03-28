@@ -13,7 +13,7 @@ Have you ever struggled to keep your dependencies up to date in this dynamic fie
 
 ![Alt text](../assets/Brandy%20Odhiambo.webp)
 
-You would think that Dependabots were the only solution. What if we told you that there was another way? What if we told you that it prioritizes Automation? Yes, people of DevOps. This new option targets you too. Without wasting any time let us introduce you to: [Renovate](https://github.com/renovatebot/renovate). [Brandy](https://www.twitter.com/arianabrandy5) introduced Renovate as an automated solution that seeks to ease the process of Dependency Management. Say goodbye to Ancient Code (Interns and Juniors we are watching you) and say hello to Automation. In fact, we dare to say that Renovate might be better for you compared to Dependabots thanks to:
+You would think that Dependabots were the only solution. What if we told you that there was another way? What if we told you that it prioritizes Automation? Yes, people of DevOps. This new option targets you too. Without wasting any time, [Brandy](https://www.twitter.com/arianabrandy5) introduced [Renovate](https://github.com/renovatebot/renovate) as an automated solution that seeks to ease the process of Dependency Management. Say goodbye to Ancient Code (Interns and Juniors we are watching you) and say hello to Automation. In fact, we dare to say that Renovate might be better for you compared to Dependabots thanks to:
 
 - Dependency Dashboard that provides all of the information you need regarding your dependencies...
 - Ability to upgrade common monorepo packages...
@@ -39,31 +39,47 @@ From ChatGPT to Dall-E and now Devin, AI seems to be moving faster than most of 
 
 ![Alt text](../assets/Jacquiline%20Gitau.webp)
 
-Given that we do not want our developers to be rendered obsolete in terms of skill, we invited [Mrs. Gemini](https://twitter.com/Jacqui_Gitau) to host a workshop on Getting Started with Gemini on Android. she made use of [The Chat App](https://github.com/Jacquigee/gemini-android) to demonstrate the power of Machine Learning through artificial Intelligence. The audience was in awe for this marked a revolution of sorts in the potential of AI in building attractive, user-friendly, robust, and testable Android apps.
+Given that we do not want our developers to be rendered obsolete in terms of skill, we invited [The Droidette](https://twitter.com/Jacqui_Gitau) to host a workshop on Getting Started with Gemini on Android. She made use of [Chat Buddy](https://github.com/Jacquigee/ChatBuddy) to demonstrate the power of Machine Learning through artificial Intelligence. The audience was in awe for this marked a revolution of sorts in the potential of AI in building attractive, user-friendly, robust, and testable Android apps.
 
 ## DSA is Loading...
 Are you a lover of Data Structures and Algorithms? Don't you just love a good LeetCode session where Performance and Optimization is your love language? Worry no more for if you like it or not, we decided to feature linked Lists in The March Challenge anyway. Oh no. We did not just stop there. Android254 and Kotlin Kenya firmly believes in Test Driven Development (TDD). "How does that relate with the March Challenge?" That is the best question you could have asked for all you need to do is [click me](https://kotlinbits.vercel.app/quiz/2024/March) to test your Testing skills. See what we did there? 😏
 
 ## DroidCon Kenya 2024
-The early bird catches the worm. While we will not be catching worms any time soon, we are proud to announce that [DroidCon Kenya 2024](https://droidcon.co.ke/) will be happening from the 6th to the 8th of November this year. [His Expertness](https://twitter.com/wangerekaharun) and [The Teaman](https://twitter.com/chepsi_) made this announcement and gave the following pointers that we would like you to have too:
+The early bird catches the worm. While we will not be catching worms any time soon, we are proud to announce that [DroidCon Kenya 2024](https://droidcon.co.ke/) will be happening from the 6th to the 8th of November this year. 
 
-- Contributions to [The Droidcon Kenya Android App](https://github.com/droidconKE/droidconKeKotlin) are still open and if you would like to spice up your resume,. get access to a simulated work environment, or even gain bragging rights in matters open Source please check out [The Issues](https://github.com/droidconKE/droidconKeKotlin/issues) listed and get to work!
+![Alt text](../assets/Evans%20Chepsiror.webp)
+
+[The Teaman](https://twitter.com/chepsi_) made this announcement and gave the following pointers that we would like you to have too:
+
+- Contributions to [The Droidcon Kenya Android App](https://github.com/droidconKE/droidconKeKotlin) are still open and if you would like to spice up your resume, get access to a simulated work environment, or even gain bragging rights in matters open Source please check out [The Issues](https://github.com/droidconKE/droidconKeKotlin/issues) listed and get to work!
 - Did we mention that the event will be happening from the 6th to the 8th of November?
 - DroidCon Kenya will be turning 5...
-- His Expertness will be launching his book: Mastering Kotlin for Android 14: Build powerful Android apps from scratch using jetpack libraries and Jetpack Compose on the 5th of April. Do you want to finally master Android(Kotlin), get that 6-figure job, and finally buy that German Machine? Well, then what are you waiting for? Pre-order the book [here](https://www.amazon.com/Mastering-Kotlin-Android-14-libraries/dp/1837631719/ref=tmm_pap_swatch_0?link_from_packtlink=yes) and get to work!
 
 ## Featured
 
-### 1. Books
-Are you what we would call an "avid" reader? If that is you then here are some books to stimulate your intellect:
+### 1. Mastering Kotlin for Android 14: Build powerful Android apps from scratch using Jetpack libraries and Jetpack Compose
+![Alt text](../assets/Mastering%20Kotlin%20for%20Android%2014-%20Build%20powerful%20Android%20apps%20from%20scratch%20using%20Jetpack%20libraries%20and%20Jetpack%20Compose.webp)
+[His Expertness](https://twitter.com/wangerekaharun) will be launching his book: [Mastering Kotlin for Android 14: Build powerful Android apps from scratch using jetpack libraries and Jetpack Compose](https://www.amazon.com/Mastering-Kotlin-Android-14-libraries/dp/1837631719/ref=tmm_pap_swatch_0?link_from_packtlink=yes) on the 5th of April. Do you want to finally master Android(Kotlin), get that 6-figure job, and finally buy that German Machine? Well, then what are you waiting for? Pre-order the book [here](https://www.amazon.com/Mastering-Kotlin-Android-14-libraries/dp/1837631719/ref=tmm_pap_swatch_0?link_from_packtlink=yes) and get to work!
 
-- [Mastering Kotlin for Android 14: Build powerful Android apps from scratch using Jetpack libraries and Jetpack Compose](https://www.amazon.com/Mastering-Kotlin-Android-14-libraries/dp/1837631719/ref=tmm_pap_swatch_0?link_from_packtlink=yes)
+### 2. Asking Efficiently
+![Alt text](../assets/Asking%20Efficiently.webp)
+Juniors, this one is for you. Have you ever been stuck on a coding problem and just did not know who or how to ask for help? Do you ever feel like you are a bother to those you ask questions? Would you like to ask better questions using better methods (pun unintended)? If that is the case, look no further than [this article](https://evanschepsiror.medium.com/asking-efficiently-5820c41f8b29) which will guide you on how to ask efficient questions as written by a Senior...
 
-### 2. Apps
-Are you interested in checking out products built by our community memebers? Look no further and check out these products courtesy of Android254 members:
+### 3. Sain (サイン)
+![Alt text](../assets/Sain%20(サイン).gif)
+Would you care to try out a tool that would allow your users to write signatures in your app? Drum rolls please for we are excited to unveil to you: [Sain (サイン)](https://github.com/joelkanyi/sain) Sain (サイン) is a Compose Multiplatform library built by [Joel Kanyi](https://twitter.com/_joelkanyi) for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more...
 
-- [Palette Lab - Color Picker](https://play.google.com/store/apps/details?id=com.risma.palettelab)
-- [NRBSTEPPER](https://www.alloysamasakha.com/etappstore)
+### 4. Palette Lab - Color Picker
+![Alt text](../assets/Palette%20Lab%20-%20Color%20Picker.webp)
+If you genuinely thought that we forgot about UI/UX Design then your delusions are easily comparable to those of J*va programmers. [Palette Lab - Color Picker](https://play.google.com/store/apps/details?id=com.risma.palettelab&pli=1) is primarily built for developers, designers  and anybody with an interest in aesthetic - related activities like fashion or photography. It helps you explore color as well as see what color combinations best suit whatever your interest is, allowing you to keep a rich collection of colors and palettes. Thank [Augustine](https://twitter.com/CodesGustine?t=Mx-jvT52c7L9aA16ZhGx0Q) for this empathetic design product...
+
+### 5. NRBSTEPPER
+![Alt text](../assets/NRBSTEPPER.webp)
+Are you interested in fashion and expanding your wardrobe beyond Tech swags? Would you like to purchase your next outfit based on a product built by one of our community members. Check out [NRBSTEPPER](https://www.alloysamasakha.com/etappstore) as built by [Alloys](https://twitter.com/alloysworld?t=cU2BvjIUsN6CZaiKrxP5bw)
+
+### 6. Jammo Sports
+![Alt text](../assets/Jammo%20Sports.webp)
+Footbal fans are allowed to cheer further for we are proud to introduce [Jammo Sports](https://play.google.com/store/apps/details?id=com.jammo.app.jammoapp). As , its creator put it, "It is a platform to display all the sporting events majorly those happening in the African continent. it's a football platform meant for live match events converage, giving info about teams, competitions, upcoming fixtures and game results. The platform currently broadcasts to it's users via and android app, found on playstore via the link  [https://play.google.com/store/apps/details?id=com.jammo.app.jammoapp](https://play.google.com/store/apps/details?id=com.jammo.app.jammoapp). The venture has been in operation since August last year just as the current 2023/24 season of the FKFPL began. So far I have managed to have two competitions on board that is the FKF premier leage and the NSL as well. One might ask how we collect the live data ? I have a number of people who do the collection straight from the stadiums as the games are being played, I call them data scouts. Once the data is sent into the system, it's then processed in real-time and then updated on the app for our viewers to consume. I have had challenges of my own through out the journey, and one of the challenges has been funding for the scouts coz they have to be remunerated at the end of the day. The end goal of this venture is to create awearness about football in the country hence growing the sport for the advatage of out sportsmen and the whole stakeholders spectrum..."...
 
 ## Until April
 It is at this point that we acknowledge our new beginnings and pledge to have a transformative 2024. We have journeyed, will still journey with you and gears are about to be shifted (tech bros please calm down) in your favour. If you would like to level up your career in Android, then attending our Monthly Meetups, building in public, and interacting with our members should be part of your routine. We cannot wait to hear and share your stories. See you in April 👋...
@@ -79,13 +95,18 @@ It is at this point that we acknowledge our new beginnings and pledge to have a 
 ### 1. Newsletter Writing, Editing, and Publishing
 - [Emmanuel Muturia™](https://twitter.com/emmanuelmuturia)
 
-### 2. Event Organisation
-- [Android254](https://twitter.com/254androiddevs)
+### 2. Featured
+- [His Expertness](https://twitter.com/wangerekaharun)
+- [The Teaman](https://twitter.com/chepsi_)
+- [Joel Kanyi](https://twitter.com/_joelkanyi)
+- [Augustine](https://twitter.com/CodesGustine?t=Mx-jvT52c7L9aA16ZhGx0Q)
+- [Alloys](https://twitter.com/alloysworld?t=cU2BvjIUsN6CZaiKrxP5bw)
+- [Jammo Sports](https://play.google.com/store/apps/details?id=com.jammo.app.jammoapp)
 
 ### 3. Speakers
 - [Brandy Odhiambo](https://www.twitter.com/arianabrandy5)
-- [Noah Muhindi](https://twitter.com/noah_muhindi)
-- [Jacqui Gitau](https://twitter.com/Jacqui_Gitau)
+- [The Beerman](https://twitter.com/noah_muhindi)
+- [The Droidette](https://twitter.com/Jacqui_Gitau)
 
 ### 4. The Kotlin Challenge
 - [The Chief Senior Dishwasher](https://twitter.com/mambo_bryan)
@@ -93,8 +114,12 @@ It is at this point that we acknowledge our new beginnings and pledge to have a 
 ### 5. DroidCon Kenya 2024 (Announcements)
 - [The Teaman](https://twitter.com/chepsi_)
 
-### 6. Featured
+### 6. Hosts
+- [Daystar University](https://www.daystar.ac.ke/)
+- [Eugene Oyier](https://twitter.com/eugeneoyier)
+- [Newton Mutugi](https://twitter.com/n_mutugii)
 
-
-### 7. Trivia
-- [Emmanuel Muturia™](https://twitter.com/emmanuelmuturia)
+### 7. Sponsors
+- [Android254](https://twitter.com/254androiddevs)
+- [Kotlin Kenya](https://twitter.com/kotlinkenya)
+- [KotlinBits](https://kotlinbits.vercel.app/)
