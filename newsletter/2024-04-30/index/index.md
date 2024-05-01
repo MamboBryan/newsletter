@@ -88,7 +88,7 @@ The April Meetup did not just host [The State Machinist](https://twitter.com/Ryg
 
 </center>
 
-Thanks to [Felix Biego](https://twitter.com/fbiego_), you can now keep your smartwatch synced and never miss a notification 🛎️ on your wrist. Discover the fascinating development journey behind Chronos, the revolutionary smartwatch companion app that redefines your health and fitness experience.
+Thanks to [Felix Biego](https://twitter.com/fbiego_), you can now keep your smartwatch synced and never miss a notification 🛎️ on your wrist. Discover the fascinating development journey behind [Chronos](https://play.google.com/store/apps/details?id=com.fbiego.chronos), the revolutionary smartwatch companion app that redefines your health and fitness experience.
 
 ### 2. Soka
 
