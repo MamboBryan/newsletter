@@ -11,7 +11,7 @@ tags: [Google I/O 2024, DroidCon Kenya 2024, Kotlin Conf' 2024]
 
 ## Welcomes & Hellos! 🫂
 
-As a non-large language model, Android254 and Kotlin Kenya officially welcome you to The May Edition of The Kotlin Kenya Newsletter! 🤩 See, before we dive deep into this month's issue, let us mention that we have some goodies to offer and claim them all you need to do is read this newsletter to the end. Unlike a certain red football team, you have full control of the game and losing is virtually impossible. Alright, jokes aside (including the team itself). Have a lovely read ahead. This is Episode #19 of The Kotlin Kenya Newsletter!
+As a non-Large Language Model, Android254 and Kotlin Kenya officially welcome you to The May Edition of The Kotlin Kenya Newsletter! 🤩 See, before we dive deep into this month's issue, let us mention that we have some goodies to offer and claim them all you need to do is read this newsletter to the end. Unlike a certain red football ⚽ team, you have full control of the game and losing is virtually impossible. Alright, jokes aside (including the team itself). Have a lovely read ahead. 😉 This is Episode #19 of The Kotlin Kenya Newsletter!
 
 <center>
 
@@ -29,7 +29,7 @@ DSA Gurus, please calm down. After a lengthy waiting period (how inefficient of 
 
 ![Alt text](../assets/Designing%20Scalable%20Compose%20APIs.webp)
 
-Bonjour! If you thought that we had the last encounter of [Yves (pronounced as "Eve") Kalume 🇨🇩](https://x.com/KalumeYves), then nous sommes désolés for we pride ourselves in our international reach. ✈️ Armed with his expertise and experience working with Jetpack Compose, Yves walked the audience through [Designing Scalable Compose APIS](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis) by explaining the Dos and Don'ts of the same. From Detecting Quality APIS to Component Layering to Component Nomenclature, The GDE (Android) ensured that the attendees walked out of the room fully armed with the knowledge they needed to design and scale their Compose APIs...
+Bonjour! If you thought that we had the last encounter of [Yves Kalume, GDE 🇨🇩](https://x.com/KalumeYves), then nous sommes désolés for we pride ourselves in our international reach. ✈️ Armed with his expertise and experience working with Jetpack Compose, Yves walked the audience through [Designing Scalable Compose APIS](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis) by explaining the Dos and Don'ts of the same. From Detecting Quality APIS to Component Layering to Component Nomenclature, The GDE (Android) ensured that the attendees walked out of the room fully armed with the knowledge they needed to design and scale their Compose APIs...
 
 ## What's New in Android, Development Tools, and Google Play 📱
 
