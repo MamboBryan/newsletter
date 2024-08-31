@@ -9,11 +9,9 @@ tags: [GDE]
 
 ![Alt text](../assets/Know%20Thy%20Meme.webp)
 
-## Welcomes & Hellos! 🫂
+## Welcome & Hello! 🫂
 
-![Alt text](../assets/Welcomes%20&%20Hellos!.webp)
-
-Whoa whoa relax guys. We know that you dearly missed us and we missed you too. Winter Season may have separated us but we are here yet again to occupy your profesisonal lives and helpy ou achieve your goals. Do we even need to tell you how this month is different from the rest? Did you not see our poster? Well, join us in this episode as we uncover what Android254 and Kotlin Kenya have been up to. This is Episode #21 of The Kotlin Kenya Newsletter!
+Whoa whoa relax guys. We know that you dearly missed us and we missed you too. Winter Season may have separated us but we are here yet again to occupy your professional lives and help you achieve your goals. Do we even need to tell you how this month is different from the rest? Did you not see our poster? Well, join us in this episode as we uncover what Android254 and Kotlin Kenya have been up to this month. This is Episode #21 of The Kotlin Kenya Newsletter!
 
 <center>
 
@@ -21,33 +19,48 @@ Whoa whoa relax guys. We know that you dearly missed us and we missed you too. W
 
 </center>
 
-## The Kotlin Bits Challenge
+## The Kotlin Bits Challenge 🧠
 
-To supercharge our attendees' problem-solving skills, we had them attempt [an easy LeetCode problem](https://leetcode.com/problems/remove-element/description/). After a mildly gruelling yet engaging session of brainstorming, the audience had the problem solved led by
+![Alt text](../assets/The%20KotlinBits%20Challenge.webp)
 
-## Asynchronous Programming with Coroutines
+To supercharge our attendees' problem-solving skills, we had them attempt [an easy LeetCode problem](https://leetcode.com/problems/remove-element/description/). If you are up for it, feel free to submit your solution to us and who knows, you just might win a prize...
+
+## Asynchronous Programming with Coroutines 🌀
 
 ![Alt text](../assets/Asynchronous%20Programming%20with%20Coroutines.webp)
 
 Joining us from the city of Abuja, [Michael Obi](https://www.linkedin.com/in/michaelobi/) took the stage (well, screen as it was virtual but you get the idea) and made the audience understand why Asynchronous Programming was important in the first place. Using screenshots from a language that we shall not name, he demonstrated different use cases for Threads within the context (pun intended) of expensive tasks...
 
-## The Open Bar Session
+## The Open Bar Session 💬
 
-To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to chekc it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](github.com/SuperStocks) which was designed to work on Kotlin Multiplatform (KMP), which is of course one of the new kids in the block of Android App Development (AAD). Lastly, the attendees were educated by [Andrew] on Paystack 
+![Alt text](../assets/The%20Open%20Bar%20Session.webp)
 
-## The Newset GDE in Town
+To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to check it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](github.com/SuperStocks) which was designed to work on Kotlin Multiplatform (KMP), and is of course the new kid in the block of Android App Development (AAD). Lastly, the attendees were educated on Paystack as a FinTech product and did you know that they were recently acquired by Stripe?
+
+## DroidCon Kenya 2024 🎟️
+
+<center>
+
+![Alt text](../assets/The%20DroidCon%20Kenya%202024%20Ticket%20(Student).webp)
+![Alt text](../assets/The%20DroidCon%20Kenya%202024%20Ticket%20(Normal).webp)
+
+</center>
+
+Have you still not bought your tickets to the most exciting annual event in the history of Android in Kenya? 🤦‍♂️ If we said that we had more goodies (and that is a big "If") for the first few buyers then would that motivate you to head over to [droidcon.co.ke](https://tickets.droidcon.co.ke/) and get your tickets? There you go then, you sneaky developers. 😏 Head over to [droidcon.co.ke](https://tickets.droidcon.co.ke/) and grab your tickets as you never know what awaits you from the 6th to the 8th of November this year... 🙃
+
+## The Newset GDE in Town 🕺
 
 ![Alt text](../assets/GDE%20(Mambo%20Bryan).webp)
 
-If you have been around the block for a while, then you will understand that certain things were just a matter of time. What we are about to announce is certainly at the top of the list. Without wasting any time, join us in congratulating [The Chief Senior Dishwasher](https://x.com/mambo_bryan) in being officially recognised by Google as a Google Developer Expert (GDE) for Android! Thus, to mark the initiation complete, we officially declare him as [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)...
+If you have been around for a while, then you will understand that certain things were just a matter of time. What we are about to announce is certainly at the top of the list. Without wasting any time, join us in congratulating [The Chief Senior Dishwasher](https://x.com/mambo_bryan) in being officially recognised by Google as a Google Developer Expert (GDE) for Android! Thus, to mark the initiation complete, we officially declare him as [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)...
 
 ## What Have Our Community Members Been Up To? 🤷‍♂️
 
-### 1. ArtMaker
+### 1. ArtMaker 🎨
 
 ![Alt text](../assets/ArtMaker.webp)
 
-Are you interested in learning more about the Canvas API and Custom DRawing in Jetpack Compose? Would you like to unlock the Picasso (not the library) in you programmatically? Look no further as we would like to present to you [ArtMaker](https://github.com/Fbada006/ArtMaker) by [Ferdinand Bada](https://x.com/Ferdinand_Bada), [Caleb Langat](https://x.com/_CalebLangat), and [Emmanuel Muturia™](https://x.com/emmanuelmuturia). ArtMaker is a flexible and customisable library that allows users to draw anything they want on screen and has been built fully with Jetpack Compose. It allows drawing through the Canvas, sharing the drawn Bitmap, or programmatically exposing the Bitmap for use in the calling application...
+Are you interested in learning more about the Canvas API and Custom Drawing in Jetpack Compose? Would you like to unlock the Picasso (not the library) in you programmatically? Look no further as we would like to present to you [ArtMaker](https://github.com/Fbada006/ArtMaker) by [Ferdinand Bada](https://x.com/Ferdinand_Bada), [Caleb Langat](https://x.com/_CalebLangat), and [Emmanuel Muturia™](https://x.com/emmanuelmuturia). ArtMaker is a flexible and customisable library that allows users to draw anything they want on screen and has been built fully with Jetpack Compose. It allows drawing through the Canvas, sharing the drawn Bitmap, or programmatically exposing the Bitmap for use in the calling application...
 
 
 ## Until September 🫂
@@ -69,11 +82,10 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [Michael Obi](https://www.linkedin.com/in/michaelobi/)
 
 ### 3. The KotlinBits Challenge
-- [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
-
-### 4. DroidCon Kenya 2024 (Announcements)
 - [Annie Kobia](https://x.com/AnnieKobia)
-- [The Chief Senior Dishwasher](https://x.com/mambo_bryan)
+
+### 4. Announcements
+- [The Droidette](https://x.com/Jacqui_Gitau)
 
 ### 5. Featured
 - [Ferdinand Bada](https://x.com/Ferdinand_Bada)
