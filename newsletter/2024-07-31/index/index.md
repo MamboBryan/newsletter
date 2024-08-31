@@ -11,6 +11,8 @@ tags: [GDE]
 
 ## Welcomes & Hellos! 🫂
 
+![Alt text](../assets/Welcomes%20&%20Hellos!.webp)
+
 Whoa whoa relax guys. We know that you dearly missed us and we missed you too. Winter Season may have separated us but we are here yet again to occupy your profesisonal lives and helpy ou achieve your goals. Do we even need to tell you how this month is different from the rest? Did you not see our poster? Well, join us in this episode as we uncover what Android254 and Kotlin Kenya have been up to. This is Episode #21 of The Kotlin Kenya Newsletter!
 
 <center>
@@ -25,7 +27,9 @@ To supercharge our attendees' problem-solving skills, we had them attempt [an ea
 
 ## Asynchronous Programming with Coroutines
 
-Joining us from the city of Abuja, [Michael O]
+![Alt text](../assets/Asynchronous%20Programming%20with%20Coroutines.webp)
+
+Joining us from the city of Abuja, [Michael Obi](https://www.linkedin.com/in/michaelobi/) took the stage (well, screen as it was virtual but you get the idea) and made the audience understand why Asynchronous Programming was important in the first place. Using screenshots from a language that we shall not name, he demonstrated different use cases for Threads within the context (pun intended) of expensive tasks...
 
 ## The Open Bar Session
 
