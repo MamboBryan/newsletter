@@ -5,9 +5,6 @@ authors: [Emmanuel Muturia]
 tags: [Kotlin Conf' 2024]
 ---
 
-## Know Thy Meme 🤣
-
-
 ## Welcome & Hello! 🫂
 
 Winter Season is here, fellow Android Developers! As you keep on building while sipping your favourite hot beverage, we would like to entertain you with the usual monthly compensation. While we genuinely wish it came with a dollar sign and lots of zeros at the end, we believe that ours will most certainly get you there. This is Episode #20 of The Kotlin Kenya Newsletter!
