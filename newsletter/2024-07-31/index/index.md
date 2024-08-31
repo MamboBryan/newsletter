@@ -65,7 +65,7 @@ Are you interested in learning more about the Canvas API and Custom Drawing in J
 
 ## Until September 🫂
 
-It is at this point that we acknowledge our new beginnings and pledge 🤚 to have a transformative 2024. We have journeyed, are journeying, and will still journey with you. Gears are about to be shifted (Tech Bros please calm down) in your favour. If you would like to level up your career in Android, then attending the monthly meetups, building cool stuff in public, and interacting with community members should be a part of your routine. 💯 We cannot wait to hear and share your stories. See you in September! 👋
+It is at this point that we acknowledge our new beginnings and pledge 🤚 to have a transformative 2024. We have journeyed, are journeying, and will still journey with you. Gears are about to be shifted (Tech Bros please calm down) in your favour. If you would like to level up your career in Android, then attending the monthly meetups, building cool stuff in public, and interacting with community members should be a part of your routine. We cannot wait to hear and share your stories. See you in September! 👋
 
 <center>
 
