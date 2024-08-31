@@ -33,18 +33,13 @@ Joining us from the city of Abuja, [Michael Obi](https://www.linkedin.com/in/mic
 
 ## The Open Bar Session
 
-
+To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to chekc it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](github.com/SuperStocks) which was designed to work on Kotlin Multiplatform (KMP), which is of course one of the new kids in the block of Android App Development (AAD). Lastly, the attendees were educated by [Andrew] on Paystack 
 
 ## The Newset GDE in Town
 
 ![Alt text](../assets/GDE%20(Mambo%20Bryan).webp)
 
 If you have been around the block for a while, then you will understand that certain things were just a matter of time. What we are about to announce is certainly at the top of the list. Without wasting any time, join us in congratulating [The Chief Senior Dishwasher](https://x.com/mambo_bryan) in being officially recognised by Google as a Google Developer Expert (GDE) for Android! Thus, to mark the initiation complete, we officially declare him as [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)...
-
-
-## DroidCon Kenya 2024
-
-
 
 ## What Have Our Community Members Been Up To? 🤷‍♂️
 
@@ -84,6 +79,7 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [Ferdinand Bada](https://x.com/Ferdinand_Bada)
 - [Caleb Langat](https://x.com/_CalebLangat)
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
+- [Samuel Juma](https://x.com/_jumasamuel)
 
 ### 6. Host
 - [Paystack](https://x.com/paystack)
