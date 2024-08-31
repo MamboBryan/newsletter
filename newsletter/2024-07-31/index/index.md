@@ -21,11 +21,11 @@ Whoa whoa relax guys. We know that you dearly missed us and we missed you too. W
 
 ## The Kotlin Bits Challenge
 
-
+To supercharge our attendees' problem-solving skills, we had them attempt [an easy LeetCode problem](https://leetcode.com/problems/remove-element/description/). After a mildly gruelling yet engaging session of brainstorming, the audience had the problem solved led by
 
 ## Asynchronous Programming with Coroutines
 
-
+Joining us from the city of Abuja, [Michael O]
 
 ## The Open Bar Session
 
@@ -77,7 +77,9 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [The Chief Senior Dishwasher](https://x.com/mambo_bryan)
 
 ### 5. Featured
-
+- [Ferdinand Bada](https://x.com/Ferdinand_Bada)
+- [Caleb Langat](https://x.com/_CalebLangat)
+- [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 6. Host
 - [Paystack](https://x.com/paystack)
