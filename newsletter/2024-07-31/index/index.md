@@ -2,7 +2,7 @@
 slug: episode-21
 title: "Episode #21"
 authors: [Emmanuel Muturia]
-tags: [GDE]
+tags: [Jetpack Compose, GDE, Kotlin Coroutines]
 ---
 
 ## Know Thy Meme 🤣
