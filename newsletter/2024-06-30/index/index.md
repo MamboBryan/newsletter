@@ -22,7 +22,7 @@ Winter Season is here, fellow Android Developers! As you keep on building while 
 
 ![Alt text](../assets/The%20Virtual%20Opening%20Session.webp)
 
-This meetup was not your ordinary one and in case you did not catch it, this is KotlinConf' Nairobi! Can you believe that? Kotlin's biggest event was held not just in Coppenhagen but in Nairobi too. Well, the extended version at least but it is something, nonetheless. AS you know and are probably sick of hearing by now, we take great pride in the speakers that grace our stages and the one who opened the ceremony was no exception as she is, well, exceptional. [Pamela Hill](https://x.com/pamelaahill) was kind enough to mark the event open and what better way than to host The One from JetBrains?
+This meetup was not your ordinary one and in case you did not catch it, this is KotlinConf' Nairobi! Can you believe that? Kotlin's biggest event was held not just in Coppenhagen but in Nairobi too. Well, the extended version at least but it is something, nonetheless. As you know and are probably sick of hearing by now, we take great pride in the speakers that grace our stages and the one who opened the ceremony was no exception as she is, well, exceptional. [Pamela Hill](https://x.com/pamelaahill) was kind enough to mark the event open and offer various insights on KotlinConf' 2024...
 
 ## The KotlinConfGlobal: Nairobi Challenge
 
@@ -34,7 +34,7 @@ Do you remember what we said about a challenge where the top 3 contestants would
 
 ![Alt text](../assets/The%20Amper%20Moment%20(Goodbye,%20Gradle).webp)
 
-As if we did not have any more value to offer, we had [The Chief Senior Dishwasher](https://x.com/mambo_bryan) who wasted no efforts in ranting, sorry we mean educating the audience on Amper, which we honestly know as The Gradle Destroyer. He took the attendees through how [Amper](https://github.com/JetBrains/amper) aims to improve the developer experience for Android and KMP development. Are you as patient as we are for its official release?
+As if we did not have any more value to offer, we had [The Chief Senior Dishwasher](https://x.com/mambo_bryan) who wasted no efforts in ranting, sorry we mean educating the audience on Amper, which we honestly know as The Gradle Destroyer. He took the attendees through how [Amper](https://github.com/JetBrains/amper) aims to improve the developer experience for Android and KMP development. Are you as patient (impatient, rather) as we are for its official release?
 
 ## Until July 🫂
 
