@@ -5,7 +5,7 @@ authors: [Emmanuel Muturia]
 tags: [android254, kotlinkenya, droidconke2024]
 ---
 
-## Know Thy Meme 🤣
+## Know Your Meme 🤣
 
 ![Alt text](../assets/The%20Meme.webp)
 
