@@ -5,7 +5,7 @@ authors: [Emmanuel Muturia]
 tags: [Jetpack Compose, dcke2024, GDE, Kotlin Coroutines]
 ---
 
-## Know Thy Meme 🤣
+## Know Your Meme 🤣
 
 ![Alt text](../assets/Know%20Thy%20Meme.webp)
 

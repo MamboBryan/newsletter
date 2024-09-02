@@ -5,7 +5,7 @@ authors: [Emmanuel Muturia]
 tags: [Google I/O 2024, DroidCon Kenya 2024, Kotlin Conf' 2024]
 ---
 
-## Know Thy Meme 🤣
+## Know Your Meme 🤣
 
 ![Alt text](../assets/Thy%20Meme%20(May).webp)
 
