@@ -2,7 +2,7 @@
 slug: episode-21
 title: "Episode #21"
 authors: [Emmanuel Muturia]
-tags: [Jetpack Compose, GDE, Kotlin Coroutines]
+tags: [Jetpack Compose, dcke2024, GDE, Kotlin Coroutines]
 ---
 
 ## Know Thy Meme 🤣
@@ -54,9 +54,9 @@ Have you still not bought your tickets to the most exciting annual event in the 
 
 If you have been around for a while, then you will understand that certain things were just a matter of time. What we are about to announce is certainly at the top of the list. Without wasting any time, join us in congratulating [The Chief Senior Dishwasher](https://x.com/mambo_bryan) in being officially recognised by Google as a Google Developer Expert (GDE) for Android! Thus, to mark the initiation complete, we officially declare him as [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)...
 
-## What Have Our Community Members Been Up To? 🤷‍♂️
+## Feature of The Month 🙌
 
-### 1. ArtMaker 🎨
+### ArtMaker 🎨
 
 ![Alt text](../assets/ArtMaker.webp)
 
