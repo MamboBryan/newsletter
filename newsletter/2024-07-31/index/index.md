@@ -62,6 +62,9 @@ If you have been around for a while, then you will understand that certain thing
 
 Are you interested in learning more about the Canvas API and Custom Drawing in Jetpack Compose? Would you like to unlock the Picasso (not the library) in you programmatically? Look no further as we would like to present to you [ArtMaker](https://github.com/Fbada006/ArtMaker) by [Ferdinand Bada](https://x.com/Ferdinand_Bada), [Caleb Langat](https://x.com/_CalebLangat), and [Emmanuel Muturia™](https://x.com/emmanuelmuturia). ArtMaker is a flexible and customisable library that allows users to draw anything they want on screen and has been built fully with Jetpack Compose. It allows drawing through the Canvas, sharing the drawn Bitmap, or programmatically exposing the Bitmap for use in the calling application...
 
+#### Before You Go... 🏃‍♂️
+
+Do you want to have your product (app, article, video, etc) featured in the next episode? Worry not for all you need to do is reach out to us at either [Android254](https://x.com/254androiddevs) or [Kotlin Kenya](https://x.com/kotlinkenya) and include the details of your product. What are you waiting for? Let us get to work, shall we?
 
 ## Until September 🫂
 
