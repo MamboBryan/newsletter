@@ -103,11 +103,11 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 - [The Choxx](https://x.com/choxxy)
 
-### 6. Hosts
+### 6. Meetup Hosts
 - [Daystar University](https://www.daystar.ac.ke/)
 - [Newton Mutugi](https://x.com/n_mutugii)
 
-### 7. Sponsors
+### 7. Newsletter and Meetup Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
