@@ -37,7 +37,7 @@ Joining us from the city of Abuja, [Michael Obi](https://www.linkedin.com/in/mic
 
 ![Alt text](../assets/The%20Open%20Bar%20Session.webp)
 
-To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to check it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](github.com/SuperStocks) which was designed to work on Kotlin Multiplatform (KMP), and is of course the new kid in the block of Android App Development (AAD). Lastly, the attendees were educated on Paystack as a FinTech product and did you know that they were recently acquired by Stripe?
+To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to check it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](https://github.com/samueljuma/SuperStocks) which is a compose multiplatform project that gets Realtime data for the top 10 companies around the world, by market capitalization and was designed to work on Kotlin Multiplatform (KMP), and is of course the new kid in the block of Android App Development (AAD). This was followed by [Oscar Karuga](https://x.com/oscar_karuga) who made a comeback by introducing the community members to [FeynmanAI](https://github.com/oscar066/FeynmanAI) which is a powerful command-line tool that leverages the Retrieval-Augmented Generation (RAG) model to interact with local documents. Whether you want to query your documents for specific information or quiz yourself on the contents, FeynmanAi offers an intuitive interface to get answers and enhance your understanding.. Lastly, the attendees were educated on Paystack as a FinTech product and did you know that they were recently acquired by Stripe?
 
 ## DroidCon Kenya 2024 🎟️
 
@@ -92,11 +92,12 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 ### 4. Announcements
 - [The Droidette](https://x.com/Jacqui_Gitau)
 
-### 5. Featured
+### 5. The Open Bar Session
 - [Ferdinand Bada](https://x.com/Ferdinand_Bada)
 - [Caleb Langat](https://x.com/_CalebLangat)
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 - [Samuel Juma](https://x.com/_jumasamuel)
+- [Oscar Karuga](https://x.com/oscar_karuga)
 
 ### 6. Meetup Host and Sponsor
 - [Paystack](https://x.com/paystack)
