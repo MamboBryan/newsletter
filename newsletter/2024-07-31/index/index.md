@@ -11,6 +11,8 @@ tags: [Jetpack Compose, dcke2024, GDE, Kotlin Coroutines]
 
 ## Welcome & Hello! 🫂
 
+![Alt text](../assets/Thank%20You%20for%20Choosing%20Us.webp)
+
 Whoa whoa relax guys. We know that you dearly missed us and we missed you too. Winter Season may have separated us but we are here yet again to occupy your professional lives and help you achieve your goals. Do we even need to tell you how this month is different from the rest? Did you not see our poster? Well, join us in this episode as we uncover what Android254 and Kotlin Kenya have been up to this month. This is Episode #21 of The Kotlin Kenya Newsletter!
 
 <center>
@@ -96,10 +98,10 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 - [Samuel Juma](https://x.com/_jumasamuel)
 
-### 6. Host
+### 6. Meetup Host and Sponsor
 - [Paystack](https://x.com/paystack)
 
-### 7. Sponsors
+### 7. Newsletter Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
