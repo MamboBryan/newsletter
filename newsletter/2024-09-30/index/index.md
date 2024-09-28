@@ -2,7 +2,7 @@
 slug: episode-22
 title: "Episode #22"
 authors: [Emmanuel Muturia]
-tags: [mockK, dcle24]
+tags: [mockK, dcke24]
 ---
 
 ## Know Your Meme 🤣
@@ -18,9 +18,6 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 ![Alt text](../assets/Welcomes%20and%20Hellos.webp)
 
 </center>
-
-
-## The Kotlin Bits Challenge 🧠
 
 ## Overcoming The MockK Struggle
 
