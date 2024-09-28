@@ -22,6 +22,8 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 
 ## Overcoming The MockK Struggle
 
+[!Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.png)
+
 The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayfill) using the analogy of car parts to introduce [MockK](https://mockk.io/) as a Testing Library. She took the audience through the steps needed to write tests using MockK by use of a whiteboard in a way that would makw you think that it was a classic DSA Session...
 
 ## Principles for Effective Session Delivery
