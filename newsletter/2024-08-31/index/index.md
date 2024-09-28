@@ -11,6 +11,8 @@ tags: [Jetpack Compose, dcke2024, GDE, Kotlin Coroutines]
 
 ## Welcome & Hello! 🫂
 
+![Alt text](../assets/Thank%20You%20for%20Choosing%20Us.webp)
+
 Whoa whoa relax guys. We know that you dearly missed us and we missed you too. Winter Season may have separated us but we are here yet again to occupy your professional lives and help you achieve your goals. Do we even need to tell you how this month is different from the rest? Did you not see our poster? Well, join us in this episode as we uncover what Android254 and Kotlin Kenya have been up to this month. This is Episode #21 of The Kotlin Kenya Newsletter!
 
 <center>
@@ -35,7 +37,7 @@ Joining us from the city of Abuja, [Michael Obi](https://www.linkedin.com/in/mic
 
 ![Alt text](../assets/The%20Open%20Bar%20Session.webp)
 
-To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to check it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](github.com/SuperStocks) which was designed to work on Kotlin Multiplatform (KMP), and is of course the new kid in the block of Android App Development (AAD). Lastly, the attendees were educated on Paystack as a FinTech product and did you know that they were recently acquired by Stripe?
+To conclude the meetup, we had an Open Bar session that was kickstarted by [Emmanuel Muturia™](https://x.com/emmanuelmuturia) who showed off [ArtMaker](https://github.com/Fbada006/ArtMaker) to the audience and encouraged them to check it out and learn more about the Canvas API in Jetpack Compose. Next, [Samuel Juma](https://x.com/_jumasamuel) demonstrated [SuperStocks](https://github.com/samueljuma/SuperStocks) which is a compose multiplatform project that gets Realtime data for the top 10 companies around the world, by market capitalization and was designed to work on Kotlin Multiplatform (KMP), and is of course the new kid in the block of Android App Development (AAD). This was followed by [Oscar Karuga](https://x.com/oscar_karuga) who made a comeback by introducing the community members to [FeynmanAI](https://github.com/oscar066/FeynmanAI) which is a powerful command-line tool that leverages the Retrieval-Augmented Generation (RAG) model to interact with local documents. Whether you want to query your documents for specific information or quiz yourself on the contents, FeynmanAi offers an intuitive interface to get answers and enhance your understanding.. Lastly, the attendees were educated on Paystack as a FinTech product and did you know that they were recently acquired by Stripe?
 
 ## DroidCon Kenya 2024 🎟️
 
@@ -62,6 +64,9 @@ If you have been around for a while, then you will understand that certain thing
 
 Are you interested in learning more about the Canvas API and Custom Drawing in Jetpack Compose? Would you like to unlock the Picasso (not the library) in you programmatically? Look no further as we would like to present to you [ArtMaker](https://github.com/Fbada006/ArtMaker) by [Ferdinand Bada](https://x.com/Ferdinand_Bada), [Caleb Langat](https://x.com/_CalebLangat), and [Emmanuel Muturia™](https://x.com/emmanuelmuturia). ArtMaker is a flexible and customisable library that allows users to draw anything they want on screen and has been built fully with Jetpack Compose. It allows drawing through the Canvas, sharing the drawn Bitmap, or programmatically exposing the Bitmap for use in the calling application...
 
+#### Before You Go... 🏃‍♂️
+
+Do you want to have your product (app, article, video, etc) featured in the next episode? Worry not for all you need to do is reach out to us at either [Android254](https://x.com/254androiddevs) or [Kotlin Kenya](https://x.com/kotlinkenya) and include the details of your product. What are you waiting for? Let us get to work, shall we?
 
 ## Until September 🫂
 
@@ -87,16 +92,17 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 ### 4. Announcements
 - [The Droidette](https://x.com/Jacqui_Gitau)
 
-### 5. Featured
+### 5. The Open Bar Session
 - [Ferdinand Bada](https://x.com/Ferdinand_Bada)
 - [Caleb Langat](https://x.com/_CalebLangat)
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 - [Samuel Juma](https://x.com/_jumasamuel)
+- [Oscar Karuga](https://x.com/oscar_karuga)
 
-### 6. Host
+### 6. Meetup Host and Sponsor
 - [Paystack](https://x.com/paystack)
 
-### 7. Sponsors
+### 7. Newsletter Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
