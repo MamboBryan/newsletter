@@ -152,12 +152,12 @@ It is at this point that we acknowledge our new beginnings and pledge to have a 
 - [Jammo Sports](https://play.google.com/store/apps/details?id=com.jammo.app.jammoapp)
 - [Peter Chege](https://twitter.com/peter__me)
 
-### 6. Hosts
+### 6. Meetup Hosts
 - [Daystar University](https://www.daystar.ac.ke/)
 - [Eugene Oyier](https://twitter.com/eugeneoyier)
 - [Newton Mutugi](https://twitter.com/n_mutugii)
 
-### 7. Sponsors
+### 7. Newsletter Sponsors
 - [Android254](https://twitter.com/254androiddevs)
 - [Kotlin Kenya](https://twitter.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
