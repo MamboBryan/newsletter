@@ -34,8 +34,6 @@ The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayf
 
 Without wasting any time, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
 
-## The Open Bar Session 💬
-
 ## DroidCon Kenya 2024 🎟️
 
 ![Alt text](../assets/The%20DroidCon%20Kenya%202024%20Ticket%20(Student).webp)
@@ -76,13 +74,10 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 ### 4. Announcements
 - [The Droidette](https://x.com/Jacqui_Gitau)
 
-### 5. The Open Bar Session
+### 5. Meetup Host and Sponsor
+- [Daystar University](https://x.com/DaystarUni)
 
-
-### 6. Meetup Host and Sponsor
-- [Daystar University]()
-
-### 7. Newsletter Sponsors
+### 6. Newsletter Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
