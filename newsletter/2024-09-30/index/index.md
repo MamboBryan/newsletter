@@ -7,6 +7,8 @@ tags: [mockK, dcle24]
 
 ## Know Your Meme 🤣
 
+[Know Your Meme](../assets/Know%20Your%20Meme.webp)
+
 ## Welcome & Hello! 🫂
 
 When the cat is out, the mice will play. Similarly, when the sun is out, the developers will shine as we near the end of the year. You would think that we were slowing down but you would probably be forgiven as we are switching gears. We know that you are curious to know what has been happening this month and that is where we come in as Problem-Solvng is one of our core missions. This is Episode #22 of The Kotlin Kenya Newsletter:
@@ -22,11 +24,15 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 
 ## Overcoming The MockK Struggle
 
-[!Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.png)
+[!Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.webp)
 
 The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayfill) using the analogy of car parts to introduce [MockK](https://mockk.io/) as a Testing Library. She took the audience through the steps needed to write tests using MockK by use of a whiteboard in a way that would makw you think that it was a classic DSA Session...
 
 ## Principles for Effective Session Delivery
+
+[!Principles for Effective Session Delivery](../assets/Principles%20for%20Effective%20Session%20Delivery.webp)
+
+Without wasting any time, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
 
 ## The Open Bar Session 💬
 
