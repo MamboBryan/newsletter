@@ -7,11 +7,11 @@ tags: [mockK, dcke24]
 
 ## Know Your Meme 🤣
 
-[Know Your Meme](../assets/Know%20Your%20Meme.webp)
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
 ## Welcome & Hello! 🫂
 
-When the cat is out, the mice will play. Similarly, when the sun is out, the developers will shine as we near the end of the year. You would think that we were slowing down but you would probably be forgiven as we are switching gears. We know that you are curious to know what has been happening this month and that is where we come in as Problem-Solvng is one of our core missions. This is Episode #22 of The Kotlin Kenya Newsletter:
+When the cat is away, the mice will play. Similarly, when the sun is out, the developers will shine as we near the end of the year. You would think that we were slowing down but you would probably be forgiven as we are switching gears (Tech Bros, please relax). We know that you are curious to know what has been happening this month and that is where we come in as Problem-Solvng is our middle name. This is Episode #22 of The Kotlin Kenya Newsletter:
 
 <center>
 
@@ -22,15 +22,18 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 
 ## Overcoming The MockK Struggle
 
-[!Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.webp)
+![Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.webp)
 
-The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayfill) using the analogy of car parts to introduce [MockK](https://mockk.io/) as a Testing Library. She took the audience through the steps needed to write tests using MockK by use of a whiteboard in a way that would makw you think that it was a classic DSA Session...
+The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayfill) using the analogy of car parts to introduce [MockK](https://mockk.io/) as a Testing Library. She took the audience through the steps needed to write tests using MockK by use of a whiteboard in a way that would make you think that it was a classic DSA Session...
 
 ## Principles for Effective Session Delivery
 
-[!Principles for Effective Session Delivery](../assets/Principles%20for%20Effective%20Session%20Delivery.webp)
+![Principles for Effective Session Delivery](../assets/Principles%20for%20Effective%20Session%20Delivery.webp)
 
-Without wasting any time, [Mambo Bryan](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
+Without wasting any time, [Mambo Bryan](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know). In addition, a lengthy discussion was made and the following were the key takeaways that we hope you will go and research on:
+
+- Kotlin Flows and Suspending Functions (Find out how their implementations in Room were changed in Room 3.x)...
+- Concurrency and Parallelism...
 
 ## DroidCon Kenya 2024 🎟️
 
@@ -44,6 +47,14 @@ Without wasting any time, [Mambo Bryan](https://x.com/mambo_bryan) engaged the a
 Have you still not bought your tickets to the most exciting annual event in the history of Android in Kenya? 🤦‍♂️ If we said that we had more goodies (and that is a big "If") for the first few buyers then would that motivate you to head over to [droidcon.co.ke](https://tickets.droidcon.co.ke/) and get your tickets? There you go then, you sneaky developers. 😏 Head over to [droidcon.co.ke](https://tickets.droidcon.co.ke/) and grab your tickets as you never know what awaits you from the 6th to the 8th of November this year... 🙃
 
 ## Feature of The Month 🙌
+
+![Android Hot and Ready](../assets/Android%20Hot%20and%20Ready.webp)
+
+Many developers know how to survive screen rotations using ViewModel or rememberSaveable, but the bigger questions remain: Why does state get lost in the first place? Why is ViewModel often the go-to solution, and is it the only one? What about other scenarios, like process death or user-initiated closures?
+
+Unlike desktop or web environments, Android apps run on a wide range of devices with different hardware capabilities, varying screen sizes, and limited resources like memory and battery. Moreover, the Android operating system is designed to be highly dynamic, frequently creating and destroying activities and fragments to optimize resource usage and preserve battery life. This means that your app's state can be lost or reset at almost any time if not managed properly.
+
+In this first release of [Android Hot and Ready, Preserving Your Android App State](https://androidhotandready.gumroad.com/l/preserving-your-android-app-state), we share insights and practical strategies for managing state in your Android apps. From handling configuration changes to preparing for process death, we've covered a range of solutions to keep your app’s state alive and ensure a great user experience.
 
 #### Before You Go... 🏃‍♂️
 
@@ -68,16 +79,10 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 - [Rachel Murabula](https://x.com/nayfill)
 - [Mambo Bryan, The Dishwasher](https://x.com/mambo_bryan)
 
-### 3. The KotlinBits Challenge
-- [Annie Kobia](https://x.com/AnnieKobia)
-
-### 4. Announcements
-- [The Droidette](https://x.com/Jacqui_Gitau)
-
-### 5. Meetup Host and Sponsor
+### 3. Meetup Host and Sponsor
 - [Daystar University](https://x.com/DaystarUni)
 
-### 6. Newsletter Sponsors
+### 4. Newsletter Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
 - [KotlinBits](https://kotlinbits.vercel.app/)
