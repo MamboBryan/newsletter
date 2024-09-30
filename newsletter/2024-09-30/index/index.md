@@ -17,7 +17,6 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 
 ![Alt text](../assets/Welcomes%20and%20Hellos.webp)
 
-</center>
 
 ## Overcoming The MockK Struggle
 
@@ -29,7 +28,7 @@ The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayf
 
 [!Principles for Effective Session Delivery](../assets/Principles%20for%20Effective%20Session%20Delivery.webp)
 
-Without wasting any time, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
+Without wasting any time, [Mambo Bryan](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
 
 ## DroidCon Kenya 2024 🎟️
 
@@ -63,7 +62,7 @@ It is at this point that we acknowledge our new beginnings and pledge 🤚 to ha
 
 ### 2. Speakers
 - [Rachel Murabula](https://x.com/nayfill)
-- [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
+- [Mambo Bryan, The Dishwasher](https://x.com/mambo_bryan)
 
 ### 3. The KotlinBits Challenge
 - [Annie Kobia](https://x.com/AnnieKobia)
