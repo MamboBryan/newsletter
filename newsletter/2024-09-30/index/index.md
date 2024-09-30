@@ -20,13 +20,13 @@ When the cat is away, the mice will play. Similarly, when the sun is out, the de
 </center>
 
 
-## Overcoming The MockK Struggle
+## Overcoming The MockK Struggle 🧪
 
 ![Overcoming The MockK Struggle](../assets/Overcoming%20The%20MockK%20Struggle.webp)
 
 The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayfill) using the analogy of car parts to introduce [MockK](https://mockk.io/) as a Testing Library. She took the audience through the steps needed to write tests using MockK by use of a whiteboard in a way that would make you think that it was a classic DSA Session...
 
-## Principles for Effective Session Delivery
+## Principles for Effective Session Delivery 📣
 
 ![Principles for Effective Session Delivery](../assets/Principles%20for%20Effective%20Session%20Delivery.webp)
 
@@ -56,7 +56,7 @@ Unlike desktop or web environments, Android apps run on a wide range of devices 
 
 In this first release of [Android Hot and Ready, Preserving Your Android App State](https://androidhotandready.gumroad.com/l/preserving-your-android-app-state), we share insights and practical strategies for managing state in your Android apps. From handling configuration changes to preparing for process death, we've covered a range of solutions to keep your app’s state alive and ensure a great user experience.
 
-#### Before You Go... 🏃‍♂️
+### Before You Go... 🏃‍♂️
 
 Do you want to have your product (app, article, video, etc) featured in the next episode? Worry not for all you need to do is reach out to us at either [Android254](https://x.com/254androiddevs) or [Kotlin Kenya](https://x.com/kotlinkenya) and include the details of your product. What are you waiting for? Let us get to work, shall we?
 
