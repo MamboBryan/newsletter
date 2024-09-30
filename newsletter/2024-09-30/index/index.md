@@ -17,6 +17,8 @@ When the cat is out, the mice will play. Similarly, when the sun is out, the dev
 
 ![Alt text](../assets/Welcomes%20and%20Hellos.webp)
 
+</center>
+
 
 ## Overcoming The MockK Struggle
 
@@ -31,6 +33,8 @@ The first session vibrantly kicked off with [Rachel Murabula](https://x.com/nayf
 Without wasting any time, [Mambo Bryan](https://x.com/mambo_bryan) engaged the audience and rightfully so because he educated the members on how to deliver world-class sessions. Using the example of everybody's favourite topic ([Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)), he gave a step-by-step demonstration of how to conduct sessions like an expert (If you know you know)...
 
 ## DroidCon Kenya 2024 🎟️
+
+<center>
 
 ![Alt text](../assets/The%20DroidCon%20Kenya%202024%20Ticket%20(Student).webp)
 ![Alt text](../assets/The%20DroidCon%20Kenya%202024%20Ticket%20(Normal).webp)
