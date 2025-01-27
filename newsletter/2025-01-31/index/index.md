@@ -9,6 +9,12 @@ tags: [2025, feedback, new team]
 
 ## Welcome & Hello! 🫂
 
+## The Panel Discussion [Job Hunting and Open Source]
+
+## The Feedback Session
+
+## HarmonyOS
+
 ## Feature of The Month 🙌
 
 ## Before You Go 🏃‍♂️
