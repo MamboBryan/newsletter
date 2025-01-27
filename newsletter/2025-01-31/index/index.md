@@ -11,7 +11,7 @@ tags: [2025, feedback, new team]
 
 ## Feature of The Month 🙌
 
-### Before You Go... 🏃‍♂️
+## Before You Go 🏃‍♂️
 
 ## Until February 🫂
 
