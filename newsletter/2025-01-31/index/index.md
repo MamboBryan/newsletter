@@ -11,9 +11,15 @@ tags: [2025, feedback, new team]
 
 ## The Panel Discussion 👥
 
+![The Panel Discussion](../assets/The%20Panel%20Discussion.webp)
+
 ## The Feedback Session 💬
 
+![The Feedback Session](../assets/The%20Feedback%20Session.webp)
+
 ## HarmonyOS 📱
+
+![HarmonyOS](../assets/HarmonyOS.webp)
 
 ## Feature of The Month 🙌
 
