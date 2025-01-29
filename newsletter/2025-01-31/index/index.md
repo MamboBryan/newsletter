@@ -7,6 +7,8 @@ tags: [2025, feedback, new team]
 
 ## Know Your Meme 🤣
 
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
+
 ## Welcome & Hello! 🫂
 
 Can you hear that? The sound of a new beginning? We hope so for we certainly are glad to be back. Happy New Year 2025, Android Engineers. How are you? Are you ready to kickstart yet another year filled with nothing but the code? Worry not, for this newsletter summarises all that the first meetup of this year sought to promise the attendees. Spoiler alert: They were promised the good stuff...
