@@ -49,7 +49,7 @@ If you thought that Android and iOS were the only operating systems for Mobile, 
 
 </center>
 
-Would it not be great if coding was more...fun? Well, more fun. More like a game than actual game. Sounds cool, right? Do you know what is cooler than that? A real coding game. Let us explain:
+Would it not be great if coding was more...fun? 🤔 Well, more like a game than actual work? 😮‍💨 Sounds cool, right? Do you know what is cooler than that? The game actually exists. 😲 Let us explain:
 
 "Over the holiday season, I had the privilege of leading a team of two amazing android engineers to turn a fun idea into reality: a GitHub-based game that makes contributing to open source both competitive and rewarding. After countless hours of brainstorming, coding, and testing, we shipped the MVP for Streeek!
 
