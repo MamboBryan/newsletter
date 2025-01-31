@@ -41,6 +41,31 @@ Do you have any feedback, suggestions, complaints, or anything nice to tell us? 
 
 If you thought that Android and iOS were the only operating systems for Mobile, then how wrong you are. 😱 You would be forgiven, though, for we were introduced to HarmonyOS, an operating system made in China not just for Mobile but for pretty much any device. All the way from Europe, [Jasper Morgan](https://x.com/jasperamorgan), the CEO of Snapp Mobile, gave a thorough talk on HarmonyOS and how to build apps for it. 💻 It is safe to say that despite the meetup being Kotlin-first the attendees were at the very least curious about this new innovation and wondered how they could get involved... 🤔
 
+## Announcement 📣
+
+![Call for Advisors](../assets/Call%20for%20Advisors.webp)
+
+Are you a Product & Engineering professional? ⚙️
+
+Have over 1️⃣0️⃣ years of experience? 
+
+Looking for an opportunity to give back? 🤗
+
+[Partnerships for Good](https://www.linkedin.com/company/pfgafrica/) is in on a mission to enable motivated youth to thrive as Africa’s next leaders...
+
+Get matched with a student who is keen to learn more about your profession for 1-on-1 mentoring sessions...
+
+The students are in their last semesters of their diploma/certificate in ICT or Computing at either:
+
+- Technical Vocation Education and Training institution or
+- Community Based Organisation
+
+Your commitment as an advisor in the 4-week program will be facilitating 1 hour sessions per week as well as some take home assignments...
+
+[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSc1XE654yBm8J9aYJW-ZtsOF0dh5u4zbZq6hGHYV-Tt18iHFQ/viewform)
+
+We’re accepting applications on a rolling basis. Visit our [LinkedIn page](https://www.linkedin.com/company/pfgafrica/) for more info or email us at [info@pfgafrica.org](mailto:info@pfgafrica.org)
+
 ## Feature of The Month 🙌
 
 <center>
