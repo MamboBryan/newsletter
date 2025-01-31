@@ -47,7 +47,7 @@ If you thought that Android and iOS were the only operating systems for Mobile, 
 
 Are you a Product & Engineering professional? ⚙️
 
-Have over 1️⃣0️⃣ years of experience? 
+Have over 6️⃣ years of experience? 
 
 Looking for an opportunity to give back? 🤗
 
@@ -64,7 +64,7 @@ Your commitment as an advisor in the 4-week program will be facilitating 1 hour 
 
 [Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSc1XE654yBm8J9aYJW-ZtsOF0dh5u4zbZq6hGHYV-Tt18iHFQ/viewform)
 
-We’re accepting applications on a rolling basis. Visit our [LinkedIn page](https://www.linkedin.com/company/pfgafrica/) for more info or email us at [info@pfgafrica.org](mailto:info@pfgafrica.org)
+We are accepting applications on a rolling basis. Visit our [LinkedIn page](https://www.linkedin.com/company/pfgafrica/) for more info or email us at [info@pfgafrica.org](mailto:info@pfgafrica.org)
 
 ## Feature of The Month 🙌
 
