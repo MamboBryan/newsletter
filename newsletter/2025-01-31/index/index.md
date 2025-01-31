@@ -69,6 +69,12 @@ Stay tuned!" ~ [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
 
 ## Before You Go 🏃‍♂️
 
+<center>
+
+![Speak To Us](../assets/Speak%20To%20Us.gif)
+
+</center>
+
 Hey pssst. 😬 Are you interested in giving a presentation in our upcoming meetups? Do you have what it takes to blow the minds of our esteemed community members? 🤯 Or, do you have that project that you cannot wait to show off to our attendees? Well then, what are you waiting for? 😳 [Click me](https://forms.gle/mxUSSg25M6Sb68Ks6) and submit your presentation, will ya?
 
 ## Until February 🫂
@@ -106,3 +112,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 
 ### 6. Featured
 - [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
+
+### 7. Our Community Members
+- [Our Community Members [Android254]](https://www.meetup.com/android254/)
+- [Our Community Members [Kotlin Kenya]](https://www.meetup.com/kotlinkenya/)
