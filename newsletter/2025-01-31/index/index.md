@@ -11,7 +11,7 @@ tags: [2025, feedback, new team]
 
 ## Welcome & Hello! 🫂
 
-Can you hear that? 👂 The sound of a new beginning? We hope so for we certainly are glad to be back. Happy New Year 2025, Android Engineers. 👋 How are you? Are you ready to kickstart yet another year filled with nothing but the code? Worry not, for this newsletter summarises all that the first meetup of this year sought to promise the attendees. Spoiler alert: They were promised the good stuff...
+Can you hear that? 👂 The sound of a new beginning? We hope you can for we certainly are glad to be back. Happy New Year 2025, Android Engineers. 👋 How are you? Are you ready to kickstart yet another year filled with nothing but the code? Worry not, for this newsletter summarises all that the first meetup of this year sought to promise the attendees. Spoiler alert: They were promised the good stuff...
 
 This is Episode #23 of The Kotlin Kenya Monthly Newsletter... ✍️
 
