@@ -43,6 +43,30 @@ If you thought that Android and iOS were the only operating systems for Mobile, 
 
 ## Feature of The Month 🙌
 
+<center>
+
+![Streeek](../assets/Streeek.webp)
+
+</center>
+
+Would it not be great if coding was more...fun? Well, more fun. More like a game than actual game. Sounds cool, right? Do you know what is cooler than that? A real coding game. Let us explain:
+
+"Over the holiday season, I had the privilege of leading a team of two amazing android engineers to turn a fun idea into reality: a GitHub-based game that makes contributing to open source both competitive and rewarding. After countless hours of brainstorming, coding, and testing, we shipped the MVP for Streeek!
+
+🎯 Key Highlights:
+- In just one day, the app garnered 30 downloads, thanks to sharing it with friends and colleagues who were equally excited about the concept.
+- By establishing a clear development and release process, we were able to iterate faster, resolve blockers efficiently, and launch the MVP within a tight timeline.
+
+🌟 Streeek is all about gamifying GitHub contributions to keep developers motivated while having fun. Check it out and join the streak:
+
+🔗 GitHub: https://lnkd.in/dr8sy7Q2
+
+📱 Play Store: https://lnkd.in/dqtRyU76
+
+💡 More insights on the development process, team collaboration, and lessons learned will be coming soon in a series of articles. 
+
+Stay tuned!" ~ [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
+
 ## Before You Go 🏃‍♂️
 
 Hey pssst. 😬 Are you interested in giving a presentation in our upcoming meetups? Do you have what it takes to blow the minds of our esteemed community members? 🤯 Or, do you have that project that you cannot wait to show off to our attendees? Well then, what are you waiting for? 😳 [Click me](https://forms.gle/mxUSSg25M6Sb68Ks6) and submit your presentation, will ya?
@@ -79,4 +103,6 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 ### 5. Newsletter Sponsors
 - [Android254](https://x.com/254androiddevs)
 - [Kotlin Kenya](https://x.com/kotlinkenya)
-- [KotlinBits](https://kotlinbits.vercel.app/)
+
+### 6. Featured
+- [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
