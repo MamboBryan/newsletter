@@ -40,6 +40,8 @@ Do we even need to tell you how awed the audience was when they were educated on
 
 ## Announcement 📣
 
+We ha and still have an announcement. This is a big one. It was and is probably our biggest one yet so you better not skip this part. As you know, Android254/Kotlin Kenya is the best Tech community to ever exist, right? I mean, can you deny that? Anyway, to coincide with that fact, we are proud to announce that we will soon be launching an Android app for the community. Yes, yes, and yes. Soon, you will no longer have to switch between different platforms to access everything about us. From the sessions, to the announcements, to even the newsletter, you will be able to access all of these and much more from the comfort of your smartphone. Of course, we know that you guys [and gals] love building so we will provide you with the GitHub Repository for the app so that you can join us in crafting a product that is built by the community for the community. Does this sound good? All that we ask is that you follow us on our socials to be in the loop once we make the announcement. We cannot wait to collaborate with you on that project so stay tuned...
+
 ## Feature of The Month 🙌
 
 ## Before You Go 🏃‍♂️
