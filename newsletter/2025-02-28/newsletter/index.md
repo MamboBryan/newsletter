@@ -23,6 +23,8 @@ This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
 
 ## Bug Squashers, Feature Code: How Streeek Engineers Build, Ship, and Repeat
 
+If you are passionate about washing dishes and stuff, then this was the session for you. Jokes aside, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) took the attendees through an engaging 'Show and Tell' kind of session featuring his team's latest product, [Streeek](https://play.google.com/store/apps/details?id=com.bizilabs.app.streeek.mobile). By the end of this session or rather masterclass or maybe crash course, the audience acquired the skills needed to successfully build, ship, and iterate on an Android product...
+
 ## Mastering Efficient Data Loading with Android Paging
 
 ## Hai
