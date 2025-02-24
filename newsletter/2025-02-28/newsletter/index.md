@@ -5,6 +5,32 @@ authors: [Emmanuel Muturia]
 tags: [2025, feedback, products]
 ---
 
+## Know Your Meme 🤣
+
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
+
+## Welcome & Hello! 🫂
+
+
+
+This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
+
+<center>
+
+![Welcome Back](../assets/Welcomes%20and%20Hellos.webp)
+
+</center>
+
+## Bug Squashers, Feature Code: How Streeek Engineers Build, Ship, and Repeat
+
+## Mastering Efficient Data Loading with Android Paging
+
+## Hai
+
+## Announcement 📣
+
+## Feature of The Month 🙌
+
 ## Before You Go 🏃‍♂️
 
 <center>
