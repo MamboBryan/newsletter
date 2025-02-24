@@ -23,24 +23,44 @@ This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
 
 ## Bug Squashers, Feature Code: How Streeek Engineers Build, Ship, and Repeat
 
+<center>
+
+![Bug Squashers, Feature Code: How Streeek Engineers Build, Ship, and Repeat](../assets/Bug%20Squashers,%20Feature%20Code%20How%20Streeek%20Engineers%20Build,%20Ship,%20and%20Repeat.webp)
+
+</center>
+
 If you are passionate about washing dishes and stuff, then this was the session for you. Jokes aside, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) took the attendees through an engaging 'Show and Tell' kind of session featuring his team's latest product, [Streeek](https://play.google.com/store/apps/details?id=com.bizilabs.app.streeek.mobile). By the end of this session or rather masterclass or maybe crash course, the audience acquired the skills needed to successfully build, ship, and iterate on an Android product...
 
 ## Mastering Efficient Data Loading with Android Paging
+
+<center>
+
+![Mastering Efficient Data Loading with Android Paging](../assets/Mastering%20Efficient%20Data%20Loading%20with%20Android%20Paging.webp)
+
+</center>
 
 Are you a fanatic of Performance in Android? If so, then you should have definitely attended the session held by [Benard Mathu](https://x.com/beniemathu). He rigorously demonstrated how to use [the Paging library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) to efficiently load data. This session enhanced the Performance skills of the attendees as they later received some goodies for participating in the Q and A segment, just like with the other sessions. Do you now see why you should not have missed out on this?
 
 ## Hai
 
-To close the day, [Sam Ngigi](https://www.linkedin.com/in/sam-ngigi/) wasted no time in showcasing his latest product, Hai. Hai is an Android app that is primarily tailored to solve your Financial Health issues by allowing you to:
+<center>
+
+![Hai](../assets/Hai.webp)
+
+</center>
+
+To close the day, [Sam Ngigi](https://www.linkedin.com/in/sam-ngigi/) wasted no time in showcasing his latest product, Hai, since time is money. Hai is an Android app that is primarily tailored to solve your Financial Health issues by allowing you to:
 
 - Automatically backup/sync all our SMS M-pesa transaction records to your google sheets...
 - Get Yearly and Monthly Summary/Retrospectives on spending and income with relevant insights...
 
 Do we even need to tell you how awed the audience was when they were educated on the value that this product would provide to their Financial Health? Stay tuned for more updates on Hai...
 
-## Announcement 📣
+## The Announcement 📣
 
-We ha and still have an announcement. This is a big one. It was and is probably our biggest one yet so you better not skip this part. As you know, Android254/Kotlin Kenya is the best Tech community to ever exist, right? I mean, can you deny that? Anyway, to coincide with that fact, we are proud to announce that we will soon be launching an Android app for the community. Yes, yes, and yes. Soon, you will no longer have to switch between different platforms to access everything about us. From the sessions, to the announcements, to even the newsletter, you will be able to access all of these and much more from the comfort of your smartphone. Of course, we know that you guys [and gals] love building so we will provide you with the GitHub Repository for the app so that you can join us in crafting a product that is built by the community for the community. Does this sound good? All that we ask is that you follow us on our socials to be in the loop once we make the announcement. We cannot wait to collaborate with you on that project so stay tuned...
+![The Announcement](../assets/The%20Announcement.webp)
+
+We had and still have an announcement. This is a big one. It was and is probably our biggest one yet so you better not skip this part. As you know, Android254/Kotlin Kenya is the best Tech community to ever exist, right? I mean, can you deny that? Anyway, to coincide with that fact, we are proud to announce that we will soon be launching an Android app for the community. Yes, yes, and yes. Soon, you will no longer have to switch between different platforms to access everything about us. From the sessions, to the announcements, to even the newsletter, you will be able to access all of these and much more from the comfort of your smartphone. Of course, we know that you guys [and gals] love building so we will provide you with the GitHub Repository for the app so that you can join us in crafting a product that is built by the community for the community. Does this sound good? All that we ask is that you follow us on our socials to be in the loop once we make the announcement. We cannot wait to collaborate with you on that project so stay tuned...
 
 ## Feature of The Month 🙌
 
