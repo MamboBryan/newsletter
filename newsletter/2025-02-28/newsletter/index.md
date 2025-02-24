@@ -27,7 +27,16 @@ If you are passionate about washing dishes and stuff, then this was the session 
 
 ## Mastering Efficient Data Loading with Android Paging
 
+Are you a fanatic of Performance in Android? If so, then you should have definitely attended the session held by [Benard Mathu](https://x.com/beniemathu). He rigorously demonstrated how to use [the Paging library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) to efficiently load data. This session enhanced the Performance skills of the attendees as they later received some goodies for participating in the Q and A segment, just like with the other sessions. Do you now see why you should not have missed out on this?
+
 ## Hai
+
+To close the day, [Sam Ngigi](https://www.linkedin.com/in/sam-ngigi/) wasted no time in showcasing his latest product, Hai. Hai is an Android app that is primarily tailored to solve your Financial Health issues by allowing you to:
+
+- Automatically backup/sync all our SMS M-pesa transaction records to your google sheets...
+- Get Yearly and Monthly Summary/Retrospectives on spending and income with relevant insights...
+
+Do we even need to tell you how awed the audience was when they were educated on the value that this product would provide to their Financial Health? Stay tuned for more updates on Hai...
 
 ## Announcement 📣
 
