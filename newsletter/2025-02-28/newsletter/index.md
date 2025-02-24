@@ -5,6 +5,26 @@ authors: [Emmanuel Muturia]
 tags: [2025, feedback, products]
 ---
 
+## Before You Go 🏃‍♂️
+
+<center>
+
+![Speak To Us](../assets/Speak%20To%20Us.gif)
+
+</center>
+
+Hey pssst. 😬 Are you interested in giving a presentation in our upcoming meetups? Do you have what it takes to blow the minds of our esteemed community members? 🤯 Or, do you have that project that you cannot wait to show off to our attendees? Well then, what are you waiting for? 😳 [Click me](https://forms.gle/mxUSSg25M6Sb68Ks6) and submit your presentation, will ya?
+
+## Until March 🫂
+
+As this meetup comes to a close, we are excited to plan for the next one. 😃 As our community members, we want you to gain the most value from your membership. What better way to do that than getting involved? How can you do that? 🤓 Well, submitting your presentations, telling a friend to tell a friend, and even attending the meetups are more than enough to start you off. We look forward to seeing you in March. Until then, keep coding and do not forget to touch grasss or something... 😉
+
+<center>
+
+![Until March](../assets/See%20You%20Soon.webp)
+
+</center>
+
 ## Credits 🎬
 
 ### 1. Newsletter Writing, Editing, and Publishing
