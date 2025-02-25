@@ -41,7 +41,7 @@ If you are passionate about washing dishes 🧽 and stuff, then this was the ses
 
 Are you a fanatic of Performance in Android? 😃 If so, then you should have definitely attended the session held by [Benard Mathu](https://x.com/beniemathu). He rigorously demonstrated how to use [the Paging library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) to efficiently load data. This session enhanced the Performance skills of the attendees as they later received some goodies 🎁 for participating in the Q and A segment ✋, just like with the other sessions. Do you now see why you should not have missed out on this?
 
-## Hai
+## Hai 🤑
 
 <center>
 
