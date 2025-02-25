@@ -1,6 +1,6 @@
 ---
 slug: episode-24
-title: "Episode #24 [What is Love? 🌹]"
+title: "Episode #24"
 authors: [Emmanuel Muturia]
 tags: [2025, feedback, products]
 ---
@@ -11,7 +11,7 @@ tags: [2025, feedback, products]
 
 ## Welcome & Hello! 🫂
 
-For some of you, this has been the loveliest month of the year, has it not? Do not worry if you do not belong to this category of humans for we neither judge nor discriminate. As Android254/Kotlin Kenya, we love to love our community members and this past meetup was nothing short of proof of our commitment to providing value to our community members. We know that some of you missed that amazing event and that is why you are reading this...
+For some of you, this has been the loveliest month of the year, has it not? Do not worry if you do not belong to this category of humans for we neither judge nor discriminate. As Android254/Kotlin Kenya, we love to love our community members and this past meetup was nothing short of proof of our commitment to providing value to them. We know that some of you missed that amazing event and that is why you are reading this...
 
 This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
 
@@ -29,7 +29,7 @@ This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
 
 </center>
 
-If you are passionate about washing dishes and stuff, then this was the session for you. Jokes aside, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) took the attendees through an engaging 'Show and Tell' kind of session featuring his team's latest product, [Streeek](https://play.google.com/store/apps/details?id=com.bizilabs.app.streeek.mobile). By the end of this session or rather masterclass or maybe crash course, the audience acquired the skills needed to successfully build, ship, and iterate on an Android product...
+If you are passionate about washing dishes and stuff, then this was the session for you. Jokes aside, [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) took the attendees through an engaging 'Show and Tell' kind of session featuring his team's latest product, [Streeek](https://play.google.com/store/apps/details?id=com.bizilabs.app.streeek.mobile). By the end of this session or rather masterclass or maybe crash course, the audience acquired the skills needed to successfully build, ship, and iterate on an Android product straight from Ideation to Production...
 
 ## Mastering Efficient Data Loading with Android Paging
 
