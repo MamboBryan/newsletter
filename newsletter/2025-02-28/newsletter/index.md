@@ -66,11 +66,29 @@ We have an announcement. This is a big one. It is probably our biggest one yet s
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
+### Flext
+
+| ![Flext #1](../assets/Flext1.webp) | ![Flext #2](../assets/Flext2.webp) | ![Flext #3](../assets/Flext3.webp) |
+| --- | --- | --- |
+
+If you have been Job Hunting lately, then you know how brutal it can be. I mean, if you think that this Valentine's season caused a lot of heartbreaks 💔, then you have probably not been around the Job Market for a while. Jokes aside, we have some great news 😃 for you that not even chocolate 🍫 can beat. Built by [James Kariuki](https://www.linkedin.com/in/kariuki-james/), one of our community members, we are proud to showcase one of his latest products, Flext. Whether you want to work remotely, on-site, or with a flexible schedule, we connect you to verified, high-paying jobs in tech, marketing, finance, writing, and more.
+
+What makes Flext awesome? Check these out:
+
+✅ No more low offers – Only legit, high-paying jobs.
+
+✅ Work your way – Full-time, part-time, freelance, or remote.
+
+✅ Smart job matching – Find roles that fit your skills perfectly.
+
+✅ One-tap apply – No complicated applications.
+
 ### Seamless Camera and Media Access on Android 14+ and Legacy Versions 📷
 
 ![Seamless Camera and Media Access on Android 14+ and Legacy Versions](../assets/Seamless%20Camera%20and%20Media%20Access%20on%20Android%2014+%20and%20Legacy%20Versions.webp)
 
 If you have been following Android's evolution [as you should 🤨], then you know that Permissions are central to each iteration of the popular OS. With the introduction of Runtime Permission Handling in Marshmallow ⬜️, Android has been rapidly adjusting how these Permisisons are provided. To agree with this, [Valentine Rutto](https://x.com/valentinerutto/) wrote [this article](https://medium.com/@valentinerutto/seamless-camera-and-media-access-on-android-14-and-legacy-versions-543d86ac5939#931d-eace0e804a05) 🗒️ that talks about Seamless Camera and Media Access on Android 14+ and Legacy Versions. In her words, "Android 13+ and later versions introduced significant changes in how apps access media files. The adoption of granular permissions requires app updates to ensure proper functionality. This post provides a code overview for capturing an image, saving it to storage, and retrieving it on devices running Android 13+, 14+ as well as older versions."...
+
 
 ## Before You Go 🏃‍♂️
 
@@ -116,6 +134,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Snapp Mobile](https://www.snappmobile.io/)
 
 ### 6. Featured
+- [James Kariuki](https://www.linkedin.com/in/kariuki-james/)
 - [Valentine Rutto](https://x.com/valentinerutto/)
 
 ### 7. Our Community Members
