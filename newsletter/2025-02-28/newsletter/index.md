@@ -66,7 +66,7 @@ We have an announcement. This is a big one. It is probably our biggest one yet s
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
-### Seamless Camera and Media Access on Android 14+ and Legacy Versions
+### Seamless Camera and Media Access on Android 14+ and Legacy Versions 📷
 
 ![Seamless Camera and Media Access on Android 14+ and Legacy Versions](../assets/Seamless%20Camera%20and%20Media%20Access%20on%20Android%2014+%20and%20Legacy%20Versions.webp)
 
@@ -116,7 +116,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Snapp Mobile](https://www.snappmobile.io/)
 
 ### 6. Featured
-- To Be Decided...
+- [Valentine Rutto](https://x.com/valentinerutto/)
 
 ### 7. Our Community Members
 - [Our Community Members [Android254]](https://www.meetup.com/android254/)
