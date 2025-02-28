@@ -160,6 +160,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 ### 6. Featured
 - [James Kariuki](https://www.linkedin.com/in/kariuki-james/)
 - [Valentine Rutto](https://x.com/valentinerutto/)
+- [Partnerships for Good](https://www.linkedin.com/company/pfgafrica/)
 
 ### 7. Our Community Members
 - [Our Community Members [Android254]](https://www.meetup.com/android254/)
