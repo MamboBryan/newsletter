@@ -11,7 +11,7 @@ tags: [2025, feedback, products]
 
 ## Welcome & Hello! 🫂
 
-For some of you, this has been the loveliest month of the year, has it not? 😜 Do not worry if you do not belong to this category of humans for we neither judge nor discriminate. 🤗 As Android254/Kotlin Kenya, we love to love our community members and this past meetup was nothing short of proof of our commitment to providing value to them. We know that some of you missed that amazing event and that is why you are reading this... 🤓
+For some of you, this has been the loveliest month of the year, has it not? 😜 Do not worry if you do not belong to this category of humans for we neither judge nor discriminate. 🤗 As Android254/Kotlin Kenya, we love to love our community members and this past meetup was nothing short of proof of our commitment to providing value to them. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
 This is Episode #24 of The Kotlin Kenya Monthly Newsletter... ✍️
 
