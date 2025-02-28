@@ -1,5 +1,17 @@
+mambo:
+  name: MamboBryan
+  title: Mobile Engineer (ish)
+  url: https://justmambo.web.app
+  image_url: "/img/mambo.jpg"
+
+sheliza:
+  name: SheeWrites
+  title: Software Developer (kinda)
+  url: https://medium.com/@sheliza-wanjiru
+  image_url: "/img/sheliza.jpeg"
+
 Emmanuel Muturia:
   name: Emmanuel Muturia™
   title: I help brands build user-centric Android products by specialising in Security, Performance, and Testing...
-  url: https://linktr.ee/emmanuelmuturia
+  url: https://x.com/emmanuelmuturia
   image_url: "/img/emmanuelmuturia.png"
