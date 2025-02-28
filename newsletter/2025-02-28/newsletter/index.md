@@ -89,6 +89,30 @@ What makes Flext awesome? Check these out:
 
 If you have been following Android's evolution [as you should 🤨], then you know that Permissions are central to each iteration of the popular OS. With the introduction of Runtime Permission Handling in Marshmallow ⬜️, Android has been rapidly adjusting how these Permisisons are provided. To agree with this, [Valentine Rutto](https://x.com/valentinerutto/) wrote [this article](https://medium.com/@valentinerutto/seamless-camera-and-media-access-on-android-14-and-legacy-versions-543d86ac5939#931d-eace0e804a05) 🗒️ that talks about Seamless Camera and Media Access on Android 14+ and Legacy Versions. In her words, "Android 13+ and later versions introduced significant changes in how apps access media files. The adoption of granular permissions requires app updates to ensure proper functionality. This post provides a code overview for capturing an image, saving it to storage, and retrieving it on devices running Android 13+, 14+ as well as older versions."...
 
+## Call For Advisors 🗣️
+
+![Call for Advisors](../assets/Call%20for%20Advisors.webp)
+
+Are you a Product & Engineering professional? ⚙️
+
+Have over 6️⃣ years of experience? 
+
+Looking for an opportunity to give back? 🤗
+
+[Partnerships for Good](https://www.linkedin.com/company/pfgafrica/) is in on a mission to enable motivated youth to thrive as Africa’s next leaders...
+
+Get matched with a student who is keen to learn more about your profession for 1-on-1 mentoring sessions...
+
+The students are in their last semesters of their diploma/certificate in ICT or Computing at either:
+
+- Technical Vocation Education and Training institution or
+- Community Based Organisation
+
+Your commitment as an advisor in the 4-week program will be facilitating 1 hour sessions per week as well as some take home assignments...
+
+[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSc1XE654yBm8J9aYJW-ZtsOF0dh5u4zbZq6hGHYV-Tt18iHFQ/viewform)
+
+We are accepting applications on a rolling basis. Visit our [LinkedIn page](https://www.linkedin.com/company/pfgafrica/) for more info or email us at [info@pfgafrica.org](mailto:info@pfgafrica.org)
 
 ## Before You Go 🏃‍♂️
 
