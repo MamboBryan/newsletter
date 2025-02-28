@@ -85,7 +85,7 @@ What makes Flext awesome? Check these out:
 
 ### Seamless Camera and Media Access on Android 14+ and Legacy Versions 📷
 
-![Seamless Camera and Media Access on Android 14+ and Legacy Versions](../assets/Seamless%20Camera%20and%20Media%20Access%20on%20Android%2014+%20and%20Legacy%20Versions.webp)
+![Seamless Camera and Media Access on Android 14+ and Legacy Versions](../assets/Seamless%20Camera%20and%20Media%20Access%20on%20Android%2014%20and%20Legacy%20Versions.webp)
 
 If you have been following Android's evolution [as you should 🤨], then you know that Permissions are central to each iteration of the popular OS. With the introduction of Runtime Permission Handling in Marshmallow ⬜️, Android has been rapidly adjusting how these Permisisons are provided. To agree with this, [Valentine Rutto](https://x.com/valentinerutto/) wrote [this article](https://medium.com/@valentinerutto/seamless-camera-and-media-access-on-android-14-and-legacy-versions-543d86ac5939#931d-eace0e804a05) 🗒️ that talks about Seamless Camera and Media Access on Android 14+ and Legacy Versions. In her words, "Android 13+ and later versions introduced significant changes in how apps access media files. The adoption of granular permissions requires app updates to ensure proper functionality. This post provides a code overview for capturing an image, saving it to storage, and retrieving it on devices running Android 13+, 14+ as well as older versions."...
 
