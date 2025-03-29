@@ -17,7 +17,11 @@ This is Episode #25 of The Kotlin Kenya Newsletter...
 
 ## Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them 🔐
 
+Do you think that your Android app is secure? Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack. The moral or rather lesson from this story is the importance of securing your Android app. 
+
 ## Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop) ⚙️
+
+In the beginning, we heard a few words from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) who wasted no time in introducing the audience to Ktor through an interactive workshop. He even demonstrated the importance of Error Handling by use of code samples which also referenced the aspect of Security in a User-Account setting in the context [pun intended] of Product. As if both of them were doing a collaborative session, we had [Pasaka Mutuku](https://x.com/pasaka254) who dived deeper into Ktor and presented everything that a Mobile Engineer would need to know in the context [pun again] of Backend Development...
 
 ## The Community Showcase 🙌
 
@@ -51,6 +55,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 ### 2. Speakers
 - [Brandy Odhiambo](https://x.com/_brandyodhiambo)
 - [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
+- [Pasaka Mutuku](https://x.com/pasaka254)
 
 ### 3. The Organising Team
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
