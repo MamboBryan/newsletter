@@ -7,8 +7,13 @@ tags: [2025, feedback, products]
 
 ## Know Your Meme 🤣
 
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
 ## Welcome & Hello! 🫂
+
+As we welcome the month of Vibe Coding, we hope that you are filled with good vibes at the time of reading this. Worry not for this month has short but sweet stuff to offer and we hope that they make you fel better for we are focused on  othing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+
+This is Episode #25 of The Kotlin Kenya Newsletter...
 
 ## Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them 🔐
 
