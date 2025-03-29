@@ -15,13 +15,25 @@ As we welcome the month of Vibe Coding, we hope that you are filled with good vi
 
 This is Episode #25 of The Kotlin Kenya Newsletter...
 
+<center>
+
+![Welcome & Hello!](../assets/Welcomes%20and%20Hellos.webp)
+
+</center>
+
 ## Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them 🔐
 
-Do you think that your Android app is secure? Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack. The moral or rather lesson from this story is the importance of securing your Android app. 
+![Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them](../assets/Why%20Android%20Security%20Matters%20Common%20Threats%20in%20Mobile%20Application%20and%20How%20We%20Can%20Fix%20Them.webp)
+
+Do you think that your Android app is secure? Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack. The moral or rather lesson from this story is the importance of securing your Android app. Check out [her presentation](https://www.canva.com/design/DAGjCVViBVI/nwH_r55o8RUfSaHm2Tfkow/edit?utm_content=DAGjCVViBVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to learn more...
 
 ## Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop) ⚙️
 
+![Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop)](../assets/Backend%20Blitz%20Supercharge%20Your%20Android%20Apps%20with%20Ktor,%20Redis,%20and%20MongoDB%20[Workshop].webp)
+
 In the beginning, we heard a few words from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) who wasted no time in introducing the audience to Ktor through an interactive workshop. He even demonstrated the importance of Error Handling by use of code samples which also referenced the aspect of Security in a User-Account setting in the context [pun intended] of Product. As if both of them were doing a collaborative session, we had [Pasaka Mutuku](https://x.com/pasaka254) who dived deeper into Ktor and presented everything that a Mobile Engineer would need to know in the context [pun again] of Backend Development...
+
+![Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop #2)](../assets/Backend%20Blitz%20Supercharge%20Your%20Android%20Apps%20with%20Ktor,%20Redis,%20and%20MongoDB%20[Workshop%202].webp)
 
 ## The Community Showcase 🙌
 
