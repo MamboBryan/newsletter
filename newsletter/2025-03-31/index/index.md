@@ -9,7 +9,7 @@ tags: [community, vibe coding, product]
 
 ![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
-## Welcome & Hello! 🫂
+## Welcomes & Hellos! 🫂
 
 As we welcome the month of Vibe Coding 😌, we hope that you are filled with good vibes at the time of reading this. If not then do not worry for this episode has short but sweet stuff 😋 to offer and we hope that they make you feel better for we are focused on nothing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
