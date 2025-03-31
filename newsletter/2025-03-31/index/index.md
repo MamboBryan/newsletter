@@ -11,7 +11,7 @@ tags: [2025, feedback, products]
 
 ## Welcome & Hello! 🫂
 
-As we welcome the month of Vibe Coding, we hope that you are filled with good vibes at the time of reading this. Worry not for this month has short but sweet stuff to offer and we hope that they make you fel better for we are focused on  othing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+As we welcome the month of Vibe Coding 😌, we hope that you are filled with good vibes at the time of reading this. Worry not for this month has short but sweet stuff 😋 to offer and we hope that they make you feel better for we are focused on nothing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
 This is Episode #25 of The Kotlin Kenya Newsletter...
 
@@ -25,13 +25,13 @@ This is Episode #25 of The Kotlin Kenya Newsletter...
 
 ![Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them](../assets/Why%20Android%20Security%20Matters%20Common%20Threats%20in%20Mobile%20Application%20and%20How%20We%20Can%20Fix%20Them.webp)
 
-Do you think that your Android app is secure? Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack. The moral or rather lesson from this story is the importance of securing your Android app. Check out [her presentation](https://www.canva.com/design/DAGjCVViBVI/nwH_r55o8RUfSaHm2Tfkow/edit?utm_content=DAGjCVViBVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to learn more...
+Do you think that your Android app is secure? 🤣 Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack 🤡. The moral or rather lesson from this story is the importance of securing your Android app. Check out [her presentation](https://www.canva.com/design/DAGjCVViBVI/nwH_r55o8RUfSaHm2Tfkow/edit?utm_content=DAGjCVViBVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to learn more 📝...
 
 ## Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop) ⚙️
 
 ![Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop)](../assets/Backend%20Blitz%20Supercharge%20Your%20Android%20Apps%20with%20Ktor,%20Redis,%20and%20MongoDB%20[Workshop].webp)
 
-In the beginning, we heard a few words from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) who wasted no time in introducing the audience to Ktor through an interactive workshop. He even demonstrated the importance of Error Handling by use of code samples which also referenced the aspect of Security in a User-Account setting in the context [pun intended] of Product. As if both of them were doing a collaborative session, we had [Pasaka Mutuku](https://x.com/pasaka254) who dived deeper into Ktor and presented everything that a Mobile Engineer would need to know in the context [pun again] of Backend Development...
+In the beginning, we heard a few words 🗣️ from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan) who wasted no time in introducing the audience to Ktor through an interactive workshop. He even demonstrated the importance of Error Handling by use of code samples which also referenced the aspect of Security in a User-Account setting in the context [pun intended] of Product 📦. As if both of them were doing a collaborative session 🧑🏿‍🤝‍🧑🏿, we had [Pasaka Mutuku](https://x.com/pasaka254) who dived deeper into Ktor and presented everything that a Mobile Engineer would need to know in the context [pun again] of Backend Development...
 
 ![Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop #2)](../assets/Backend%20Blitz%20Supercharge%20Your%20Android%20Apps%20with%20Ktor,%20Redis,%20and%20MongoDB%20[Workshop%202].webp)
 
@@ -43,9 +43,9 @@ Do you want to see what our talented community members have been up to? Here you
 
 ![The Android Architecture [feat. The Linux Kernel]](../assets/Featured.webp)
 
-If you are an Android Engineer, then you are probably familiar with The Android Architecture, right? However, we both know that you only cram it just to pass those interviews, right? What if we promised you a faster and more enjoyable way to not only learn but internalise it? What if there was a series of articles that used fun analogies to help you learn more about The Android Architecture? What if that series actually exists and you are about to find out more about it?
+If you are an Android Engineer, then you are probably familiar with The Android Architecture, right? However, we both know that you only cram it just to pass those interviews, right? 😉 What if we promised you a faster and more enjoyable way to not only learn but internalise it? 🤯 What if there was a series of articles that used fun analogies to help you learn more about The Android Architecture? 😨 What if that series actually exists and you are about to find out more about it? 😱
 
-Alright alright, enough talk and more showing. This month's feature is a series of Medium articles by our very own [Emmanuel Muturia™](https://x.com/emmanuelmuturia). For the past month, he has been relentlessly publishing weekly articles and posts that take the reader on a deep dive into each component of The Android Architecture. To embrace his obsession with Cars and stuff, he used analogies on the same to break down the technical concepts so if you are at the slightest bit intrigued by this then your journey starts [here](https://medium.com/@emmanuelmuturia/5fd3213d4eb2)...
+Alright alright, enough talk and more showing. This month's feature is a series of Medium articles by our very own [Emmanuel Muturia™](https://x.com/emmanuelmuturia) 🤓. For the past month, he has been relentlessly 😮‍💨 publishing weekly articles and posts that take the reader on a deep dive into each component of The Android Architecture. To embrace his obsession with Cars and stuff 🏎️, he used analogies on the same to break down the technical concepts so if you are at the slightest bit intrigued by this then your journey starts [here](https://medium.com/@emmanuelmuturia/5fd3213d4eb2)...
 
 You will thank us later...
 
