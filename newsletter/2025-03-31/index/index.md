@@ -2,7 +2,7 @@
 slug: episode-25
 title: "Episode #25"
 authors: [Emmanuel Muturia]
-tags: [2025, feedback, products]
+tags: [community, vibe coding, product]
 ---
 
 ## Know Your Meme 🤣
@@ -11,7 +11,7 @@ tags: [2025, feedback, products]
 
 ## Welcome & Hello! 🫂
 
-As we welcome the month of Vibe Coding 😌, we hope that you are filled with good vibes at the time of reading this. Worry not for this month has short but sweet stuff 😋 to offer and we hope that they make you feel better for we are focused on nothing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+As we welcome the month of Vibe Coding 😌, we hope that you are filled with good vibes at the time of reading this. If not then do not worry for this episode has short but sweet stuff 😋 to offer and we hope that they make you feel better for we are focused on nothing but you, the community member. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
 This is Episode #25 of The Kotlin Kenya Newsletter...
 
@@ -25,7 +25,7 @@ This is Episode #25 of The Kotlin Kenya Newsletter...
 
 ![Why Android Security Matters: Common Threats in Mobile Application and How We Can Fix Them](../assets/Why%20Android%20Security%20Matters%20Common%20Threats%20in%20Mobile%20Application%20and%20How%20We%20Can%20Fix%20Them.webp)
 
-Do you think that your Android app is secure? 🤣 Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app suing an API only to use an Android Security tool whoch revealed that her API Key was vulnerable to a Cyber Attack 🤡. The moral or rather lesson from this story is the importance of securing your Android app. Check out [her presentation](https://www.canva.com/design/DAGjCVViBVI/nwH_r55o8RUfSaHm2Tfkow/edit?utm_content=DAGjCVViBVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to learn more 📝...
+Do you think that your Android app is secure? 🤣 Think again for [Brandy Odhiambo](https://x.com/_brandyodhiambo) educated the audience on the importance of Android Security. She started by narrating a short story about how she built an Animation app using an API only to use an Android Security tool which revealed that her API Key was vulnerable to a Cyber Attack 🤡. The moral or rather lesson from this story is the importance of securing your Android app. Check out [her presentation](https://www.canva.com/design/DAGjCVViBVI/nwH_r55o8RUfSaHm2Tfkow/edit?utm_content=DAGjCVViBVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to learn more 📝...
 
 ## Backend Blitz: Supercharge Your Android Apps with Ktor, Redis, and MongoDB (Workshop) ⚙️
 
@@ -41,13 +41,13 @@ Do you want to see what our talented community members have been up to? Here you
 
 ### The Android Architecture [feat. The Linux Kernel]
 
-![The Android Architecture [feat. The Linux Kernel]](../assets/Featured.webp)
+![The Android Architecture [feat. The Linux Kernel]](../assets/The%20Android%20Architecture.webp)
 
 If you are an Android Engineer, then you are probably familiar with The Android Architecture, right? However, we both know that you only cram it just to pass those interviews, right? 😉 What if we promised you a faster and more enjoyable way to not only learn but internalise it? 🤯 What if there was a series of articles that used fun analogies to help you learn more about The Android Architecture? 😨 What if that series actually exists and you are about to find out more about it? 😱
 
 Alright alright, enough talk and more showing. This month's feature is a series of Medium articles by our very own [Emmanuel Muturia™](https://x.com/emmanuelmuturia) 🤓. For the past month, he has been relentlessly 😮‍💨 publishing weekly articles and posts that take the reader on a deep dive into each component of The Android Architecture. To embrace his obsession with Cars and stuff 🏎️, he used analogies on the same to break down the technical concepts so if you are at the slightest bit intrigued by this then your journey starts [here](https://medium.com/@emmanuelmuturia/5fd3213d4eb2)...
 
-You will thank us later...
+While you are at it, consider checking out [more of his work](https://linktr.ee/emmanuelmuturia). Trust us. You will thank us later...
 
 ## Before You Go 🏃‍♂️
 
