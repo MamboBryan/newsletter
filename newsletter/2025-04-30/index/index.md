@@ -21,7 +21,9 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 
 </center>
 
+## Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency
 
+## Android, Compose, Multiplatform & Server: Inject Them All With Koin
 
 ## The Community Showcase 🙌
 
