@@ -11,7 +11,7 @@ tags: [community, product]
 
 ## Welcomes & Hellos! 🫂
 
-We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+While others were fooled on April Fools', we know that you guys have been doing nothing but building like the intelligent individuals you are. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
 This is Episode #26 of The Kotlin Kenya Newsletter...
 
@@ -22,6 +22,8 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 </center>
 
 ## Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency
+
+Like the Master he is, Eric Wathome took the audience through Kotlin Coroutines. You will be forgiven for thinking that he glossed over it since he proved not to be your average Android Engineer. Why? Well, let us just say he simplified everything that you would need to know about Kotlin Coroutines even if you are just starting out in Kotlin. You would also be pardoned for thinking that this was all that we had for our members. Keep scrolling to get a gist of the second session of the day...
 
 ## Android, Compose, Multiplatform & Server: Inject Them All With Koin
 
