@@ -29,6 +29,24 @@ Like the Master he is, Eric Wathome took the audience through Kotlin Coroutines.
 
 If Koin was an individual, then he would be none other than Theo. The attendees were in for a treat as The Koin Lead himself [yes, you read that correctly] used no slides as he wasted no time coding up his session. Hemade sure that in the end, everyone in the room knew how to inject every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
 
+## The Mobile Design Masterclass
+
+<center>
+
+![The Mobile Design Masterclass](../assets/The%20Mobile%20Design%20Masterclass.webp)
+
+</center>
+
+Your app's design sucks 🚮...
+
+Well, we hope not. However, if it does indeed suck then are you interested in refining your UI/UX skills? 🖌️ Would you like to activate The Wow Factor in your users? 😯 Does the idea of an immersive learning session sound interesting to you? 🤓
+
+Android254 & Kotlin Kenya are proud to partner with [The UX Girl](https://www.linkedin.com/in/marianne-mwangi-the-ux-girl-b445961b9/) to present The Mobile Design Masterclass 🎨. Join us for the next 12 weeks as we embark on a journey to prevent your users from telling their friends about how bad your app's design is...
+
+To sign up, please contact ☎️ The UX Girl at +254791658351 by the 2nd of May 🗓️ to reserve your slot and claim your discount if registering as a group...
+
+## The New DroidCon Kenya App
+
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
@@ -76,6 +94,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 
 ### 5. Sponsors and Partners
 - [Snapp Mobile](https://www.snappmobile.io/)
+- [The UX Girl](https://www.linkedin.com/in/marianne-mwangi-the-ux-girl-b445961b9/)
 
 ### 6. Featured
 
