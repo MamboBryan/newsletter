@@ -27,6 +27,8 @@ Like the Master he is, Eric Wathome took the audience through Kotlin Coroutines.
 
 ## Android, Compose, Multiplatform & Server: Inject Them All With Koin
 
+If Koin was an individual, then he would be none other than Theo. The attendees were in for a treat as The Koin Lead himself [yes, you read that correctly] used no slides as he wasted no time coding up his session. Hemade sure that in the end, everyone in the room knew how to inject every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
+
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
@@ -59,7 +61,8 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 2. Speakers
-
+- [Eric Wathome]()
+- [Theophilus Kibet](https://x.com/_kibetheophilus)
 
 ### 3. The Organising Team
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
