@@ -7,11 +7,11 @@ tags: [community, product]
 
 ## Know Your Meme 🤣
 
-
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
 ## Welcomes & Hellos! 🫂
 
-While others were fooled on April Fools', we know that you guys have been doing nothing but building like the intelligent individuals you are. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+While others were fooled on April Fools' 🤡, we know that you guys have been doing nothing but building like the intelligent individuals you are 🤓. We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
 
 This is Episode #26 of The Kotlin Kenya Newsletter...
 
@@ -25,13 +25,13 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 
 ![Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency](../assets/Mastering%20Kotlin%20Coroutines%20Advanced%20Patterns%20for%20Efficient%20Concurrency.webp)
 
-Like the Master he is, Eric Wathome took the audience through Kotlin Coroutines. You will be forgiven for thinking that he glossed over it since he proved not to be your average Android Engineer. Why? Well, let us just say he simplified everything that you would need to know about Kotlin Coroutines even if you are just starting out in Kotlin. You would also be pardoned for thinking that this was all that we had for our members. Keep scrolling to get a gist of the second session of the day...
+Like the Master 🧙🏿‍♂️ he is, [Eric Wathome](https://x.com/EricWathome) took the audience through Kotlin Coroutines. You will be forgiven for thinking that he glossed over it since he proved not to be your average Android Engineer. Why? 😮 Well, let us just say he simplified everything that you would need to know about Kotlin Coroutines even if you are just starting out in Kotlin. You would also be pardoned for thinking that this was all that we had for our members. Keep scrolling to get a gist of the second session of the day 😉...
 
 ## Android, Compose, Multiplatform & Server: Inject Them All With Koin
 
 ![Android, Compose, Multiplatform & Server: Inject Them All With Koin](../assets/Android,%20Compose,%20Multiplatform%20&%20Server%20Inject%20Them%20All%20With%20Koin.webp)
 
-If Koin was an individual, then he would be none other than Theo. The attendees were in for a treat as The Koin Lead himself [yes, you read that correctly] used no slides as he wasted no time coding up his session. Hemade sure that in the end, everyone in the room knew how to inject every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
+If Koin was an individual, then he would be none other than [The Koin Lead](https://x.com/_kibetheophilus) 😤. The attendees were in for a treat 🤩 as he used no slides and wasted no time coding up his session. He made sure that in the end, everyone in the room knew how to inject 💉 every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
 
 ## The Mobile Design Masterclass
 
@@ -49,13 +49,25 @@ Android254 & Kotlin Kenya are proud to partner with [The UX Girl](https://www.li
 
 To sign up, please contact ☎️ The UX Girl at +254791658351 by the 2nd of May 🗓️ to reserve your slot and claim your discount if registering as a group...
 
-## The New DroidCon Kenya App
-
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
+### GigzConnect
 
+<center>
+
+![GigzConnect](../assets/GigzConnect.webp)
+
+</center>
+
+[GigzConnect](https://play.google.com/store/apps/details?id=com.gigzconnect&pcampaignid=web_share) is the ultimate platform for connecting gig seekers with employers that was built by [Wallace Wahong'o](https://www.linkedin.com/in/wallace-wahong-o-a523a31b5/) and [Charles Muchogo](https://www.linkedin.com/in/charlesmuchogo/). Whether you are looking for short-term jobs, freelance gigs, or contract work, GigzConnect makes finding opportunities effortless. Employers can quickly post job listings and hire skilled professionals in just a few clicks...
+
+Their seamless interface ensures a smooth experience for both job seekers and businesses. Filter gigs based on your skills, location, or pay preference, and apply instantly. Get real-time notifications for new opportunities and stay ahead in the gig economy...
+
+For employers, GigzConnect provides a streamlined hiring process, helping you find the right talent quickly. Post gigs, review applications, and connect with professionals, all in one place...
+
+Join GigzConnect today and take control of your work life. Whether you're looking to earn extra income or find skilled gig workers, they have got you covered 🚀...
 
 ## Before You Go 🏃‍♂️
 
@@ -101,7 +113,8 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [The UX Girl](https://www.linkedin.com/in/marianne-mwangi-the-ux-girl-b445961b9/)
 
 ### 6. Featured
-
+- [Wallace Wahong'o](https://www.linkedin.com/in/wallace-wahong-o-a523a31b5/)
+- [Charles Muchogo](https://www.linkedin.com/in/charlesmuchogo/)
 
 ### 7. Our Community Members
 - [Our Community Members [Android254]](https://www.meetup.com/android254/)
