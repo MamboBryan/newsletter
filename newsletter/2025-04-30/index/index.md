@@ -2,7 +2,7 @@
 slug: episode-26
 title: "Episode #26"
 authors: [Emmanuel Muturia]
-tags: [community, product]
+tags: [Kotlin Coroutines, Koin, The Mobile Design Masterclass]
 ---
 
 ## Know Your Meme 🤣
@@ -21,19 +21,19 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 
 </center>
 
-## Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency
+## Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency 🌀
 
 ![Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency](../assets/Mastering%20Kotlin%20Coroutines%20Advanced%20Patterns%20for%20Efficient%20Concurrency.webp)
 
 Like the Master 🧙🏿‍♂️ he is, [Eric Wathome](https://x.com/EricWathome) took the audience through Kotlin Coroutines. You will be forgiven for thinking that he glossed over it since he proved not to be your average Android Engineer. Why? 😮 Well, let us just say he simplified everything that you would need to know about Kotlin Coroutines even if you are just starting out in Kotlin. You would also be pardoned for thinking that this was all that we had for our members. Keep scrolling to get a gist of the second session of the day 😉...
 
-## Android, Compose, Multiplatform & Server: Inject Them All With Koin
+## Android, Compose, Multiplatform & Server: Inject Them All With Koin 💉
 
 ![Android, Compose, Multiplatform & Server: Inject Them All With Koin](../assets/Android,%20Compose,%20Multiplatform%20&%20Server%20Inject%20Them%20All%20With%20Koin.webp)
 
-If Koin was an individual, then he would be none other than [The Koin Lead](https://x.com/_kibetheophilus) 😤. The attendees were in for a treat 🤩 as he used no slides and wasted no time coding up his session. He made sure that in the end, everyone in the room knew how to inject 💉 every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
+If Koin was an individual, then he would be none other than [The Koin Lead](https://x.com/_kibetheophilus) 😤. The attendees were in for a treat 🤩 as he used no slides and wasted no time coding up his session. He made sure that in the end, everyone in the room knew how to inject 💉 every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin...
 
-## The Mobile Design Masterclass
+## The Mobile Design Masterclass 🎨
 
 <center>
 
@@ -53,7 +53,7 @@ To sign up, please contact ☎️ The UX Girl at +254791658351 by the 2nd of May
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
-### GigzConnect
+### GigzConnect 💼
 
 <center>
 
