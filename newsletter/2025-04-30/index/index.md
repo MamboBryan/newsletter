@@ -23,9 +23,13 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 
 ## Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency
 
+![Mastering Kotlin Coroutines: Advanced Patterns for Efficient Concurrency](../assets/Mastering%20Kotlin%20Coroutines%20Advanced%20Patterns%20for%20Efficient%20Concurrency.webp)
+
 Like the Master he is, Eric Wathome took the audience through Kotlin Coroutines. You will be forgiven for thinking that he glossed over it since he proved not to be your average Android Engineer. Why? Well, let us just say he simplified everything that you would need to know about Kotlin Coroutines even if you are just starting out in Kotlin. You would also be pardoned for thinking that this was all that we had for our members. Keep scrolling to get a gist of the second session of the day...
 
 ## Android, Compose, Multiplatform & Server: Inject Them All With Koin
+
+![Android, Compose, Multiplatform & Server: Inject Them All With Koin](../assets/Android,%20Compose,%20Multiplatform%20&%20Server%20Inject%20Them%20All%20With%20Koin.webp)
 
 If Koin was an individual, then he would be none other than Theo. The attendees were in for a treat as The Koin Lead himself [yes, you read that correctly] used no slides as he wasted no time coding up his session. Hemade sure that in the end, everyone in the room knew how to inject every Kotlin Multiplatform and Compose Multiplatform using the best Dependency Injection Framework: Koin
 
@@ -79,7 +83,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 2. Speakers
-- [Eric Wathome]()
+- [Eric Wathome](https://x.com/EricWathome)
 - [Theophilus Kibet](https://x.com/_kibetheophilus)
 
 ### 3. The Organising Team
