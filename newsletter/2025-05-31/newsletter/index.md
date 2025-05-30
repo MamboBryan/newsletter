@@ -2,18 +2,19 @@
 slug: episode-27
 title: "Episode #27"
 authors: [Emmanuel Muturia]
-tags: []
+tags: [Google I/O 2025]
 ---
 
 ## Know Your Meme 🤣
 
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
 
 ## Welcomes & Hellos! 🫂
 
-We know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗 or otherwise...
+As we slowly ease into the Winter season, we know that for most of you, finding a reliable source of heat is crucial. We also know that some of you missed that amazing event and that is why you are reading this, whether it is from the comfort of your German Machine 🚗, duvet, or otherwise...
 
-This is Episode #26 of The Kotlin Kenya Newsletter...
+This is Episode #27 of The Kotlin Kenya Newsletter...
 
 <center>
 
@@ -21,11 +22,33 @@ This is Episode #26 of The Kotlin Kenya Newsletter...
 
 </center>
 
+## The Google I/O Recap [2025 Edition] 🤖
+
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
+### Voyager [Not The KMP Library]
 
+"Remember Voyager? I've been working on enhancing it with new features to provide even more comprehensive information about each nation."
+                    ~ [The Droidette](https://x.com/Jacqui_Gitau)
+
+"In today’s increasingly connected world, understanding different cultures and countries has never been more important. This realisation, coupled with my desire to enhance my Android development skills, led me to create Voyager — an application designed to be a window to the world’s diverse nations and cultures."
+                    ~ [The Droidette](https://x.com/Jacqui_Gitau)
+
+If you thought that our veterans have lost their spark, then as usual, I am glad to prove you wrong 😌. Why is that? Well, with the advent of Kotlin Multiplatform [The Droidette](https://x.com/Jacqui_Gitau) decided to revamp one of her products and revamp, she did 🤯. If you are persistent enough to still doubt me, then first off I admire your determination. You would make a great Android Engineer 😉. Anyway, here is a sneek peak to what Voyager has to offer:
+
+<center>
+
+![Voyager](../assets/Voyager.gif)
+
+</center>
+
+Since she anticipated how much you would love it by now, here is an article for the nerds in the room who want to understand what magic she used to build it, and also the link to the product itself if you want to know what tomorrow's weather will be:
+
+The Article: [https://medium.com/@gitaujaquiline/voyager-my-journey-building-an-android-app-to-explore-the-world-part-1-9cfd087c6b18](https://medium.com/@gitaujaquiline/voyager-my-journey-building-an-android-app-to-explore-the-world-part-1-9cfd087c6b18)
+
+The Google Play Store App Link: [https://play.google.com/store/apps/details?id=com.jacqui.voyager](https://play.google.com/store/apps/details?id=com.jacqui.voyager)
 
 ## Before You Go 🏃‍♂️
 
@@ -53,7 +76,8 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 2. Speakers
-
+- [Michael Ndiritu](https://x.com/ndiritu_michael)
+- [Samuel Muigai](https://x.com/SamuelKangau)
 
 ### 3. The Organising Team
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
@@ -69,7 +93,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Snapp Mobile](https://www.snappmobile.io/)
 
 ### 6. Featured
-
+- [The Droidette](https://x.com/Jacqui_Gitau)
 
 ### 7. Our Community Members
 - [Our Community Members [Android254]](https://www.meetup.com/android254/)
