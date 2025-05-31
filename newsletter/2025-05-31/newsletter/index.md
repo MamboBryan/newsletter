@@ -68,6 +68,23 @@ The Article: [https://medium.com/@gitaujaquiline/voyager-my-journey-building-an-
 
 The Google Play Store App Link: [https://play.google.com/store/apps/details?id=com.jacqui.voyager](https://play.google.com/store/apps/details?id=com.jacqui.voyager)
 
+### Compose Previews Done Right (After Doing Them Wrong)
+
+![Compose Previews Done Right (After Doing Them Wrong)](../assets/Compose%20Previews%20Done%20Right%20(After%20Doing%20Them%20Wrong).webp)
+
+"Has this happened to you?
+
+You fire up a preview, and suddenly, it’s asking for a Navigator/NavController. Great. Guess we’re relaunching the app.
+
+Or you have Render Issues, you have no idea what it means when it tells you there is no string resource with that name, yet your IDE is pointing to something in the res folder. “It is even showing the resource itself minus the reference caller. What do you mean it doesn’t exist?”
+
+Compose Previews are supposed to save us time. But somehow, they end up doing the opposite, especially when your UI isn’t just a pretty button in a box..."
+                        ~ [Donald Isoe](https://x.com/don_okara)
+
+By this point, you already know that we not only advise but also encourage our members to adopt Jetpack Compose 🤷🏽‍♂️. However, what happens if they do not know how to use the Preview feature in Jetpack Compose? As you might have already guessed, we have that covered already since [Donald Isoe](https://x.com/don_okara) published an article ✍🏽 that will take you through everything you need to know about Jetpack Compose Previews. You know that? Just check out the article already. It costs you nothing but you gain everything. Well, not everything in general but you will definitely write better Jetpack Compose Previews. Trust us on this 😜...
+
+Here is the article: [https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8](https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8)
+
 ## Before You Go 🏃‍♂️
 
 <center>
