@@ -30,6 +30,12 @@ With the advent of The End Month, we know that you are getting ready to chop tha
 
 ## The Google I/O Recap [2025 Edition] 🤖
 
+### What is New in Jetpack Compose?
+
+![What is New in Jetpack Compose?](../assets/What%20is%20New%20in%20Jetpack%20Compose.webp)
+
+Do you like Text? Yes, you heard me right. Do you like Text. Whether you do or not, you will probably be glad to know what is new in Jetpack Compose this year since it was all about Text. From the `TextField` to `Modifier`, Android Engineers will surely have an easier time making their products more user-friendly 🫂. How do we know this 😮? Thanks to [Samuel Muigai](https://x.com/SamuelKangau), our community members had more reasons to embrace Jetpack Compose. If you have not then, this is your sign 🫵🏽...
+
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
