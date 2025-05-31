@@ -30,11 +30,15 @@ With the advent of The End Month, we know that you are getting ready to chop tha
 
 ## The Google I/O Recap [2025 Edition] 🤖
 
-### What is New in Jetpack Compose?
+### 1] What is New in Jetpack Compose?
 
 ![What is New in Jetpack Compose?](../assets/What%20is%20New%20in%20Jetpack%20Compose.webp)
 
 Do you like Text? Yes, you heard me right. Do you like Text. Whether you do or not, you will probably be glad to know what is new in Jetpack Compose this year since it was mostly about Text. From the `TextField` to `Modifier`, Android Engineers will surely have an easier time making their products more user-friendly 🫂. How do we know this 😮? Thanks to [Samuel Muigai](https://x.com/SamuelKangau), our community members had more reasons to embrace Jetpack Compose. If you have not then, this is your sign 🫵🏽...
+
+### 2] What is New in Android Developer Tools?
+
+Do you not like it when you have an easy time when building 👨🏽‍💻? We do too and that is why we invited [Mr. Arsenal](https://x.com/ndiritu_michael) to take the audience through the latest updates on Android Developer Tools. From AI-powered UI Testing Tools ⚙️ to Firebase Studio 🔥, nobody in the room had any reason to complain about their Developer Experience, given the free [for now] tools at their disposal...
 
 ## The Community Showcase 🙌
 
@@ -88,7 +92,7 @@ As this meetup comes to a close, we are excited to plan for the next one. 😃 A
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 2. Speakers
-- [Michael Ndiritu](https://x.com/ndiritu_michael)
+- [Mr. Arsenal](https://x.com/ndiritu_michael)
 - [Samuel Muigai](https://x.com/SamuelKangau)
 
 ### 3. The Organising Team
