@@ -85,6 +85,8 @@ As this meetup comes to a close, we are excited to plan for the next one 😃. A
 - [Daystar University](https://x.com/DaystarUni)
 
 ### 5. Sponsors and Partners
+- [GitHub](https://x.com/github)
+- [GitHub Education](https://x.com/GitHubEducation)
 - [Snapp Mobile](https://www.snappmobile.io/)
 
 ### 6. Featured
