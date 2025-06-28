@@ -33,6 +33,12 @@ To kickstart the rather chilly day ❄️, [Blannon Ngoge](https://x.com/blannym
 
 All the way from the world of Embedded Systems, we had [Felix Biego](https://x.com/fbiego_) who wasted no time [pun intended] in taking the audience through the evolution of his flagship project, [Chronos](https://play.google.com/store/apps/details?id=com.fbiego.chronos&pcampaignid=web_share), which is your essential Smartwatch Companion App that can seamlessly connect your Smartwatch ⌚ and Smartphone 📱 for a truly integrated and convenient experience. He also broke down what tools were used during each iteration, not to mention the problems that kickstarted this project altogether. Now that is what we call Design Thinking 💡...
 
+## GitHub Education
+
+![GitHub Education](../assets/GitHub%20Education.webp)
+
+Do you want some Pizza 🍕? Well, you missed out on it during this meetup 😔. The good news is that courtesy of [Charles Moruri](https://x.com/Moruri_c) and [Eugene Oyier](https://x.com/eugeneoyier), we partnered with [GitHub](https://x.com/github) and [GitHub Education](https://x.com/GitHubEducation) to offer you a chance to apply for a GitHub Education Pack. If you want one or are interested in learning more about it, then simply [click me](https://gh.io/1stkotlin25). Go on,now 🤨...
+
 ## The Community Showcase 🙌
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
