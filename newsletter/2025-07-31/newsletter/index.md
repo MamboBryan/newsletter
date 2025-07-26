@@ -31,7 +31,11 @@ This is Episode #29 of The Kotlin Kenya Newsletter...
 
 Do you want to see what our talented community members have been up to? Here you go: 👇
 
-### Sample
+### Fire Remix
+
+![Fire Remix](../assets/Fire%20Remix.webp)
+
+If the title does not reveal what this month's project is all about, then we do not know what language we can use to help you understand. Kotlin, perhaps? Jokes aside, we are excited to introduce [Fire Remix](https://play.google.com/store/apps/details?id=app.bensalcie.fireremix), the App that will transform your journey in Music. Notice that we said "App" and not "Mobile App". Why? Well, at the time of writing this, Fire Remix is now compatible with Android TV. You know what, please check out the demo here if you do not believe us: [https://x.com/ibensalcie/status/1948365584250368249](https://x.com/ibensalcie/status/1948365584250368249)...
 
 ## Before You Go 🏃‍♂️
 
