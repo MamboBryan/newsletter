@@ -42,7 +42,7 @@ Do you want to see what our talented community members have been up to? Here you
 
 </center>
 
-[GMS (Gym Management System)](https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share) is a powerful mobile tool built for gym Admins and Trainers to efficiently manage daily gym operations. From user records to payment tracking and attendance logs, GMS helps streamline your workflows — all from your phone.
+"[GMS (Gym Management System)](https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share) is a powerful mobile tool built for gym Admins and Trainers to efficiently manage daily gym operations. From user records to payment tracking and attendance logs, GMS helps streamline your workflows — all from your phone.
 
 🚀 Key Features:
 
@@ -60,7 +60,9 @@ Do you want to see what our talented community members have been up to? Here you
 
 📅 Plans & Subscriptions
 
-- Create and manage different membership plans and subscriptions. See who is on which plan and when their renewal is due.
+- Create and manage different membership plans and subscriptions. See who is on which plan and when their renewal is due."
+
+> ~ [Samuel Juma [Owner of GMS]](https://x.com/_jumasamuel)
 
 👉🏽 Check it out on Google Play Store here: [https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share)
 
