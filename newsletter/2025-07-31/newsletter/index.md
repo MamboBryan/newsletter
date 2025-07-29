@@ -11,7 +11,7 @@ tags: [Build with AI]
 
 ## Welcomes & Hellos! 🫂
 
-If you are not a Hot Beverage Addict ☕ by now, you are either brave or live dangerously. Regardless, we do not judge for this is a Community. We are fired up [Did you see what we did there?] to show you what we have been up to this month despite the chills. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
+If you are not a Hot Beverage Addict ☕ by now, you are either brave or live dangerously. Regardless, we do not judge for this is our Community. We are fired up to show you what we have been up to this month despite the chilly Winter. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
 
 This is Episode #29 of The Kotlin Kenya Newsletter...
 
@@ -26,9 +26,6 @@ This is Episode #29 of The Kotlin Kenya Newsletter...
 ![Building an AI-Powered App with Vertex AI](../assets/Building%20an%20AI-Powered%20App%20with%20Vertex%20AI.webp)
 
 In the first part of The July Meetup, [Donald Isoe](https://x.com/don_okara) introduced the audience to AI 🤖, and how it could be used to build Mobile Apps 📱. Through [ItinerarAI](https://github.com/donald-okara/Itinerar-AI), powered by Vertex AI, he showed the attendees what was possible when you know how to utilise AI in your arsenal of tools. The laptops in the room were on fire 🔥 by the end of the session as this was a workshop too...
-
-## Workshop: Build with AI for Android
-
 
 ## The Community Showcase 🙌
 
@@ -116,13 +113,13 @@ As this meetup comes to a close, we are excited to plan for the next one 😃. A
 ### 4. Meetup Host
 - [Daystar University](https://x.com/DaystarUni)
 
-### 5. Sponsors and Partners
+### 5. Sponsors & Partners
 - [Google](https://www.google.com/)
-- [Snapp Mobile](https://www.snappmobile.io/)
 
 ### 6. Featured
+- [Samuel Juma](https://x.com/_jumasamuel)
 - [Ben Salcie](https://x.com/ibensalcie)
 
-### 7. Our Community Members
-- [Our Community Members [Android254]](https://www.meetup.com/android254/)
-- [Our Community Members [Kotlin Kenya]](https://www.meetup.com/kotlinkenya/)
+### 7. The Community Members
+- [The Community Members [Android254]](https://www.meetup.com/android254/)
+- [The Community Members [Kotlin Kenya]](https://www.meetup.com/kotlinkenya/)
