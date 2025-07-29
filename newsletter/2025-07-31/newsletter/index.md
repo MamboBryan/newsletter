@@ -62,7 +62,9 @@ Do you want to see what our talented community members have been up to? Here you
 
 - Create and manage different membership plans and subscriptions. See who is on which plan and when their renewal is due."
 
-> ~ [Samuel Juma [Owner of GMS]](https://x.com/_jumasamuel)
+<p align="center">
+  ~ <a href="https://x.com/_jumasamuel">Samuel Juma [The Owner of GMS]</a>
+</p>
 
 👉🏽 Check it out on Google Play Store here: [https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.samueljuma.gmsmobile&pcampaignid=web_share)
 
