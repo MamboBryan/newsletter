@@ -11,7 +11,7 @@ tags: []
 
 ## Welcomes & Hellos! 🫂
 
-If you are not a Hot Beverage Addict ☕ by now, you are either brave or live dangerously. Regardless, we do not judge for this is our Community. We are fired up to show you what we have been up to this month despite the chilly Winter. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
+Winter is falling. Get it? Winterfell? Anyway, we hope that you are all well and building as usual. If you did not join us last month in August, then you missed out on a lot. Worry not, for reading this will help you stay in the loop on what we have been up to lately. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
 
 This is Episode #30 of The Kotlin Kenya Newsletter...
 
