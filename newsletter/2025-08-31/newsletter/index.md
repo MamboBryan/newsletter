@@ -45,6 +45,23 @@ Do you want to see what our talented community members have been up to? Here you
 
 ### Koffee
 
+<center>
+
+![Koffee](../assets/Koffee.webp)
+
+</center>
+
+Koffee is a "lightweight, animated toast system for Jetpack Compose. Serve your toasts hot, cold, or custom brewed". Here are some of its "toasty" features:
+
+🍞 Simple toast host & state management
+🪄 Animated entrance/exit with layout awareness
+🧊 Supports multiple types of toasts: Info, Success, Error, etc.
+🧩 Plug-and-play composables for custom toast UIs
+🔧 Customizable positioning, dismissal, durations
+🪶 Lightweight with zero dependencies
+
+For more information, please check out [this article](https://dev.to/donaldokara/koffee-beautiful-transient-toasts-for-jetpack-compose-297i)...
+
 ## Before You Go 🏃‍♂️
 
 <center>
@@ -72,6 +89,8 @@ As this meetup comes to a close, we are excited to plan for the next one 😃. A
 
 ### 2. Speakers
 - [John Gachuhi](https://www.linkedin.com/in/garbujohn/)
+- [Joel Kanyi](https://x.com/_joelkanyi)
+- [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)
 
 ### 3. The Organising Team
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
@@ -87,7 +106,7 @@ As this meetup comes to a close, we are excited to plan for the next one 😃. A
 - [Paystack](https://x.com/paystack)
 
 ### 6. Featured
-- [Donald Isoe](https://x.com/don_okara)
+- [Koffee](https://github.com/donald-okara/koffee?tab=readme-ov-file)
 
 ### 7. The Community Members
 - [The Community Members [Android254]](https://www.meetup.com/android254/)
