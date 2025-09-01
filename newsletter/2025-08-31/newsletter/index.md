@@ -53,12 +53,12 @@ Do you want to see what our talented community members have been up to? Here you
 
 Koffee is a "lightweight, animated toast system for Jetpack Compose. Serve your toasts hot, cold, or custom brewed". Here are some of its "toasty" features:
 
-🍞 Simple toast host & state management
-🪄 Animated entrance/exit with layout awareness
-🧊 Supports multiple types of toasts: Info, Success, Error, etc.
-🧩 Plug-and-play composables for custom toast UIs
-🔧 Customizable positioning, dismissal, durations
-🪶 Lightweight with zero dependencies
+- 🍞 Simple toast host & state management
+- 🪄 Animated entrance/exit with layout awareness
+- 🧊 Supports multiple types of toasts: Info, Success, Error, etc.
+- 🧩 Plug-and-play composables for custom toast UIs
+- 🔧 Customizable positioning, dismissal, durations
+- 🪶 Lightweight with zero dependencies
 
 For more information, please check out [this article](https://dev.to/donaldokara/koffee-beautiful-transient-toasts-for-jetpack-compose-297i)...
 
