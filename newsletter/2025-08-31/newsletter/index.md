@@ -11,7 +11,7 @@ tags: []
 
 ## Welcomes & Hellos! 🫂
 
-Winter is falling. Get it? Winterfell? Anyway, we hope that you are all well and building as usual. If you did not join us last month in August, then you missed out on a lot. Worry not, for reading this will help you stay in the loop on what we have been up to lately. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
+Winter ❄️ has fallen. Get it? Winterfell? Anyway, we hope that you are all well and building as usual. If you did not join us last month in August, then you missed out on a lot. Worry not, for reading this will help you stay in the loop on what we have been up to lately. Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
 
 This is Episode #30 of The Kotlin Kenya Newsletter...
 
@@ -21,23 +21,23 @@ This is Episode #30 of The Kotlin Kenya Newsletter...
 
 </center>
 
-## Breaking the Walled Garden: Getting Into The iOS Ecosystem in Kenya
+## Breaking the Walled Garden: Getting Into The iOS Ecosystem in Kenya 🍎
 
 ![Breaking the Walled Garden Getting into the iOS Ecosystem](../assets/Breaking%20the%20Walled%20Garden%20Getting%20into%20the%20iOS%20Ecosystem.webp)
 
-As if sent to break the monotony, [John Gachuhi](https://www.linkedin.com/in/garbujohn/) kickstarted his session by intriducing the audience to the iOS landscape in Kenya. He captivated them by further exploring some incredible insights on navigating Apple's ecosystem from an African developer's perspective...
+As if sent to break 🔨 the monotony, [John Gachuhi](https://www.linkedin.com/in/garbujohn/) kickstarted his session by introducing the audience to the iOS landscape in Kenya 🇰🇪. He captivated them by further exploring some incredible insights 💬 on navigating Apple's ecosystem from an African developer's perspective...
 
-## From Chaos to Clarity: A Practical Architecture for Compose Apps
+## From Chaos to Clarity: A Practical Architecture for Compose Apps 🏗️
 
 ![From Chaos to Clarity A Practical Architecture for Compose Apps](../assets/From%20Chaos%20to%20Clarity%20A%20Practical%20Architecture%20for%20Compose%20Apps.webp)
 
-With all the hype that is constantly being, well, hyped, it is easy to get carried away and forget that Compose exists and that sometimes, building from scratch is the way. Anyway, before you click off and check out your next Coding Assistant or whatever trend has been put up, [Joel Kanyi](https://x.com/_joelkanyi) took the attendees through what it takes to build a well-architected Compose application. As a bonus, he also educated them on what not to do by revealing a messy Compose Codebase that he may or may not have written...
+With all the hype 🗣️ that is constantly being, well, hyped, it is easy to get carried away and forget that Compose exists and that sometimes, building from scratch is the way. Anyway, before you click off and check out your next Coding Assistant 🤖 or whatever trend has been put up, [Joel Kanyi](https://x.com/_joelkanyi) took the attendees through what it takes to build a well-architected Compose application. As a bonus 🎁, he also educated them on what not to do by revealing a messy Compose Codebase that he may or may not have written...
 
 ## Shipping Feedback Loop: Accelerating User-Centric Delivery
 
 ![Shipping Feedback Loop Accelerating User-Centric Delivery](../assets/Shipping%20Feedback%20Loop%20Accelerating%20User-Centric%20Delivery.webp)
 
-What better way to close a remarkable meetup by hearing from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)? While the technical aspects of the previous sessions were critical in sharpening the community members' skills, he resourcefully shared some good avice about Shipping. Well, not the Amazon kind but rather, the one where you publish your Android App to Google Play Store and consent to being tortured for weeks on end until they decide to pardon you and have your Android App published but then swiftly removed due to who knows what and then ghost you for eternity and therefore waste your time and let me calm down now. Anyway, he essentially asked the room to focus more on building Products than GitHub Projects...
+What better way to close a remarkable meetup by hearing from [The Chief Senior Dishwasher, GDE](https://x.com/mambo_bryan)? While the technical aspects of the previous sessions were critical in sharpening the community members' skills 🧠, he resourcefully shared some good avice about Shipping. Well, not the Amazon 📦 kind but rather, the one where you publish your Android App to Google Play Store and consent to being tortured for weeks on end until they decide to pardon you and have your Android App published but then swiftly removed due to who knows what and then ghost you for eternity and therefore waste your time and let me calm down now 😤. Anyway, he essentially asked the room to focus more on building Products than GitHub Projects...
 
 ## The Community Showcase 🙌
 
