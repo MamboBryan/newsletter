@@ -23,9 +23,21 @@ This is Episode #31 of The Kotlin Kenya Newsletter...
 
 ## When Kotlin Meets Swift: Adding Mixpanel to KMP
 
+![When Kotlin Meets Swift: Adding Mixpanel to KMP](../assets/When%20Kotlin%20Meets%20Swift%20Adding%20Mixpanel%20to%20KMP.webp)
+
+We know that you are used to Android by now but who does not like a little splurging. With the launch of The iPhone 17 Pro, we decided to feature an iOS-based session. [Breens Mbaka](https://x.com/BreensR) introduced the attendees to Kotlin Mutiplatform and why they all needed to adopt it. He then shared a Use Case where he took them through integrating Mixpanel to a Kotlin Multiplatform Mobile Application. In the end, the attendees were tasked with finding out how to merge both Kotlin and Swift libraries given that the two have different Packages... 
+
 ## Handling Cookie-Based Auth with Access & Refresh Tokens in Android using Ktor
 
+![Handling Cookie-Based Auth with Access & Refresh Tokens in Android using Ktor](../assets/Handling%20Cookie-Based%20Auth%20with%20Access%20&%20Refresh%20Tokens%20in%20Android%20using%20Ktor.webp)
+
+Right after offering the audience some Cookies, [Samuel Juma](https://x.com/_jumasamuel) introduced his session about, well, Cookies. He talked about how he was part of a Team that was building an Application in which they implemented Authentication using Cookies. He went on to illustrate the differences between Cookie-Based Tokens and Authorisation Header Tokens. As if that was not enough, he concluded his session using a Demo where everyone got a Cookie. Well, they actually learnt how to use them but you get the idea...
+
 ## Boosting User Retention in Android apps using FCM
+
+![Boosting User Retention in Android apps using FCM](../assets/Boosting%20User%20Retention%20in%20Android%20apps%20using%20FCM.webp)
+
+It is safe to say that we deserve an Oscar as we had the best Crossover of all time. Well, in Tech. All the way from [Firebase Kenya](https://x.com/firebasekenya), we had [Sandra Kuria](https://x.com/sandykuria) talk to the members about leveraging Firebase Cloud Messaging [FCM] to enhance User Retention. The Room was probably inspired to travel as Sandra demonstrated her ideas using her Demo named PackMate. This is your sign to get that German Machine...
 
 ## The Community Showcase 🙌
 
