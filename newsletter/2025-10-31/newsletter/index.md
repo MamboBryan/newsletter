@@ -7,7 +7,7 @@ tags: []
 
 ## Know Your Meme 🤣
 
-
+![Know Your Meme](../assets/Know%20Your%20Meme.webp)
 
 ## Welcomes & Hellos! 🫂
 
