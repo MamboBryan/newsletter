@@ -1,0 +1,90 @@
+---
+slug: episode-32
+title: "Episode #32"
+authors: [Emmanuel Muturia]
+tags: []
+---
+
+## Know Your Meme 🤣
+
+
+
+## Welcomes & Hellos! 🫂
+
+Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
+
+This is Episode #32 of The Kotlin Kenya Newsletter...
+
+<center>
+
+![Welcomes & Hellos!](../assets/Welcomes%20and%20Hellos.webp)
+
+</center>
+
+## 
+
+## 
+
+## 
+
+
+
+## DroidCon Kenya 2025
+
+![DroidCon Kenya 2025](../assets/DroidCon%20Kenya%202025.webp)
+
+Have you bought your DroidCon Kenya 2025 Ticket 🎟️ yet? We know that some of you have not since we had [The Original GDE](https://x.com/wangerekaharun) remind us of how cheap a single Ticket is. For a mere KES 4,000 for a Ticket, you might as well consider that an Investment 💰. Can you imagine attending sessions hosted by Speakers from all over the world? If you find our Meetups valuable, then you should open your Wallets [and Purses 👛] for DroidCon Kenya 2025. Did we also mention that you can contribute to [The DroidCon Kenya 2025 Mobile App](https://github.com/droidconKE/droidconKeKotlin)?
+
+## The Community Showcase 🙌
+
+Do you want to see what our talented Community Members have been up to? Here you go: 👇
+
+
+
+## Before You Go 🏃‍♂️
+
+<center>
+
+![Speak To Us](../assets/Speak%20To%20Us.gif)
+
+</center>
+
+Hey pssst 😬. Are you interested in giving a presentation in our upcoming meetups? Do you have what it takes to blow the minds of our esteemed community members 🤯? Or, do you have that project that you cannot wait to show off to our attendees? Well then, what are you waiting for 😳? [Click me](https://forms.gle/mxUSSg25M6Sb68Ks6) and submit your presentation, will ya?
+
+## Until DroidCon Kenya 2025 🫂
+
+As this Meetup comes to a close, we are excited to plan for the next one 😃. As our community members, we want you to gain the most value from your membership. What better way to do that than getting involved? How can you do that 🤓? Well, submitting your presentations, telling a friend to tell a friend, and even attending the meetups are more than enough to start you off. We look forward to seeing you in October. Until then, keep coding and do not forget to touch grasss or something 😉...
+
+<center>
+
+![Until October](../assets/See%20You%20Soon.webp)
+
+</center>
+
+## Credits 🎬
+
+### 1. Newsletter Writing, Editing, and Publishing
+- [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
+
+### 2. Speakers
+- 
+
+### 3. The Organising Team
+- [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
+- [Michelle Wainaina](https://x.com/mishwainaina)
+- [Jeremiah Gitau](https://x.com/_JeremyGitau)
+- [Theophilus Kibet](https://x.com/_kibetheophilus)
+- [Victor Kirui](https://x.com/Victorvics42)
+
+### 4. Meetup Host
+- 
+
+### 5. Sponsors & Partners
+- 
+
+### 6. Featured
+- 
+
+### 7. The Community Members
+- [The Community Members [Android254]](https://www.meetup.com/android254/)
+- [The Community Members [Kotlin Kenya]](https://www.meetup.com/kotlinkenya/)
