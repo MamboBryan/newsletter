@@ -21,13 +21,23 @@ This is Episode #32 of The Kotlin Kenya Newsletter...
 
 </center>
 
-## 
-
-## 
-
-## 
+## AI at Scale
 
 
+
+AI can now be deemed ubiquitous. You know that and so do we. That is why we had Andrés-Leonardo Martínez-Ortiz all the way from Google talk to us about AI and how big it has gotten since its adoption...
+
+## Guardrails and Sanity Checks: Verifying LLM Input and Output for Developers
+
+
+
+Yes, we had another AI session. You saw this coming, did you not? As if sponsoring this meetup was not enough, [Snapp Mobile](https://www.snappmobile.io/) had Enrique López-Mañas [CTO] who took the audience through the process of verifying LLM Input and Output for Developers. While there is no denying that AI is rapidly evolving, we also cannot overlook the Vulnerabilities that accompany that. Enrique helped mitigate this issue by offering his insights on how to effectively control what your LLM receives and produces...
+
+## AI Agents in Copilot
+
+
+
+Do you have an Agent? No, we are not talking about M-PESA Agents or something. We are referring to the ones that make you believe that you are Iron Man. Yet again, Snapp Mobile had Bryan Dollery deliver the final session on AI Agents in Copilot. In his talk, he talked [pun intended] about how modern intelligent AI Agents are reshaping Developer Productivity...
 
 ## DroidCon Kenya 2025
 
