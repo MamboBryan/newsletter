@@ -43,7 +43,26 @@ Do you have an Agent? No, we are not talking about M-PESA Agents or something. W
 
 ![DroidCon Kenya 2025](../assets/DroidCon%20Kenya%202025.webp)
 
-Have you bought your DroidCon Kenya 2025 Ticket 🎟️ yet? We know that some of you have not since we had [The Original GDE](https://x.com/wangerekaharun) remind us of how cheap a single Ticket is. For a mere KES 4,000 for a Ticket, you might as well consider that an Investment 💰. Can you imagine attending sessions hosted by Speakers from all over the world? If you find our Meetups valuable, then you should open your Wallets [and Purses 👛] for DroidCon Kenya 2025. Did we also mention that you can contribute to [The DroidCon Kenya 2025 Mobile App](https://github.com/droidconKE/droidconKeKotlin)?
+You know, we have reminded you about DroidCon Kenya 2025 for so long that we decided to remind you one last time, this time from the horse's mouth:
+
+"Hey Fam! 👋
+BIG ANNOUNCEMENT 🎉
+We're just 20 DAYS AWAY from the most anticipated tech event of the year - droidcon Kenya x FlutterconKE 2025!
+Can you believe it?! 🤯
+Here's the deal:
+📅 November 5th-7th, 2025
+📍 Golden Tulip, Westlands, Nairobi
+🎟️ ONE ticket gets you access to BOTH events!
+⚠️ URGENT - PRICES INCREASING SOON! ⚠️
+If you've been sitting on the fence about getting your ticket, NOW is the time! Early bird pricing ends soon and prices will go up. Don't say we didn't warn you! 😅
+What you'll experience:
+🎤 Incredible speakers from around the world
+💻 Practical workshops
+🤝 Network with amazing developers
+📸 Unforgettable moments
+🎁 Exciting giveaways
+This is THE place to be if you're serious about mobile development in Kenya!
+Grab your ticket here: [bit.ly/dcKE2025Tickets](bit.ly/dcKE2025Tickets)"
 
 ## The Community Showcase 🙌
 
