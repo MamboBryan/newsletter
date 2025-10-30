@@ -11,7 +11,7 @@ tags: []
 
 ## Welcomes & Hellos! 🫂
 
-Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
+This too shall pass, and that includes this year's Meetups. Can you believe that we just hosted the final Meetup of the year? Yes, us too. However, before you click off and listen to your preferred Sad Music, we have some good news. Do you want to guess what it is? Read on to find out, will ya? Whether you are reading this from the comfort of your German Machine 🚗, duvet 🛏️, or otherwise:
 
 This is Episode #32 of The Kotlin Kenya Newsletter...
 
