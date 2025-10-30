@@ -2,7 +2,7 @@
 slug: episode-32
 title: "Episode #32"
 authors: [Emmanuel Muturia]
-tags: []
+tags: [ai, droidconke2025]
 ---
 
 ## Know Your Meme 🤣
@@ -23,19 +23,19 @@ This is Episode #32 of The Kotlin Kenya Newsletter...
 
 ## AI at Scale
 
-
+![AI at Scale](../assets/AI%20at%20Scale.webp)
 
 AI can now be deemed ubiquitous. You know that and so do we. That is why we had Andrés-Leonardo Martínez-Ortiz all the way from Google talk to us about AI and how big it has gotten since its adoption...
 
 ## Guardrails and Sanity Checks: Verifying LLM Input and Output for Developers
 
-
+![Guardrails and Sanity Checks: Verifying LLM Input and Output for Developers](../assets/Guardrails%20and%20Sanity%20Checks%20Verifying%20LLM%20Input%20and%20Output%20for%20Developers.webp)
 
 Yes, we had another AI session. You saw this coming, did you not? As if sponsoring this meetup was not enough, [Snapp Mobile](https://www.snappmobile.io/) had Enrique López-Mañas [CTO] who took the audience through the process of verifying LLM Input and Output for Developers. While there is no denying that AI is rapidly evolving, we also cannot overlook the Vulnerabilities that accompany that. Enrique helped mitigate this issue by offering his insights on how to effectively control what your LLM receives and produces...
 
 ## AI Agents in Copilot
 
-
+![AI Agents in Copilot](../assets/AI%20Agents%20in%20Copilot.webp)
 
 Do you have an Agent? No, we are not talking about M-PESA Agents or something. We are referring to the ones that make you believe that you are Iron Man. Yet again, Snapp Mobile had Bryan Dollery deliver the final session on AI Agents in Copilot. In his talk, he talked [pun intended] about how modern intelligent AI Agents are reshaping Developer Productivity...
 
@@ -68,7 +68,27 @@ Grab your ticket here: [bit.ly/dcKE2025Tickets](bit.ly/dcKE2025Tickets)"
 
 Do you want to see what our talented Community Members have been up to? Here you go: 👇
 
+### What Beats Rock
 
+![What Beats Rock](../assets/What%20Beats%20Rock.webp)
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=ke.don.what_beats_rock&pcampaignid=web_share">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"/>
+  </a>
+</p>
+
+**What Beats Rock?** is a playful, AI-powered game that transforms the classic rock-paper-scissors mechanic into an infinite loop of logic, creativity, and fun. Users are prompted with a question like:
+
+> **What beats rock?**
+
+They respond (e.g., "Paper"), the AI justifies the answer, awards points, and continues the chain:
+
+> **What beats paper?**  
+> *User: Fire.*  
+> *AI: Fire burns paper. +3 points!*
+
+The game continues until the user repeats an answer or gives an invalid one. Check it out here: [https://play.google.com/store/apps/details?id=ke.don.what_beats_rock&pcampaignid=web_share](https://play.google.com/store/apps/details?id=ke.don.what_beats_rock&pcampaignid=web_share)
 
 ## Before You Go 🏃‍♂️
 
@@ -86,7 +106,7 @@ As this Meetup comes to a close, we are excited to plan for the next one 😃. A
 
 <center>
 
-![Until October](../assets/See%20You%20Soon.webp)
+![Until DroidCon Kenya 2025](../assets/See%20You%20Soon.webp)
 
 </center>
 
@@ -96,7 +116,9 @@ As this Meetup comes to a close, we are excited to plan for the next one 😃. A
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
 
 ### 2. Speakers
-- 
+- [Andrés-Leonardo Martínez-Ortiz](https://www.linkedin.com/in/almo/)
+- [Enrique López-Mañas](https://www.linkedin.com/in/eenriquelopez/)
+- [Bryan Dollery](https://www.linkedin.com/in/bryandollery/)
 
 ### 3. The Organising Team
 - [Emmanuel Muturia™](https://x.com/emmanuelmuturia)
@@ -106,13 +128,14 @@ As this Meetup comes to a close, we are excited to plan for the next one 😃. A
 - [Victor Kirui](https://x.com/Victorvics42)
 
 ### 4. Meetup Host
-- 
+- [Nairobi Garage [Spring Valley]](https://x.com/NairobiGarage)
 
 ### 5. Sponsors & Partners
-- 
+- [Snapp Mobile](https://www.snappmobile.io/)
+- [Google](https://x.com/Google)
 
 ### 6. Featured
-- 
+- [What Beats Rock](https://play.google.com/store/apps/details?id=ke.don.what_beats_rock&pcampaignid=web_share)
 
 ### 7. The Community Members
 - [The Community Members [Android254]](https://www.meetup.com/android254/)
